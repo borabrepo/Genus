@@ -1,0 +1,4919 @@
+#v 2026-09-11
+#lang es
+#ranked 4884
+vez	f1ces	time, instance; place
+verdad	f0es	truth; fact
+casa	f0s	house
+tiempo	m0s	time; tense
+favor	m0es	favor/favour
+señor	m0es	mister, sir; gentleman
+hombre	m0s	man
+vida	f0s	life; lifestyle
+día	m0s	day
+noche	f0s	night; evening
+hecho	m0s	fact
+acuerdo	m0s	agreement; compromise
+trabajo	m0s	work, job
+gente	f0s	people
+padre	m0s	father
+dinero	m0s	money; wealth
+mundo	m0s	world, earth
+momento	m0s	moment, instant; timing
+mañana	f0s	morning; near future
+madre	f0s	mother
+lugar	m0es	place
+cosa	f0s	thing
+hijo	m0s	son; child
+tipo	m0s	kind, type; rate
+amigo	m0s	friend
+mujer	f0es	woman; wife
+mamá	f0s	mum, mom; term of affection for a woman
+papá	m0s	dad; parents
+parte	f0s	place, somewhere; side
+nombre	m0s	name; noun
+mierda	f0s
+razón	f2ones	reason; reasoning
+idea	f0s	idea
+problema	m0s	problem, issue; trouble
+hora	f0s	hour; time
+amor	m0es	love; love affair
+familia	f0s	family
+policía	f0s	police officer; Civility
+chica	f0s	gal, chick
+cuenta	f0s	count, tally; operation
+hermano	m0s	brother; sibling
+cabeza	f0s	head; mind
+cariño	m0s	affection, fondness; caress
+forma	f0s	shape; way
+lado	m0s	side; face
+caso	m0s	case
+chico	m0s	boy; white-nosed coati
+señora	f0s	Mrs; lady
+camino	m0s	way, route; road
+manera	f0s	way
+persona	f0s	person
+ayuda	f0s	help, aid; helper
+historia	f0s	history
+puerta	f0s	door; gate
+semana	f0s	week
+año	m0s	year; age
+tío	m0s	uncle; friend
+suerte	f0s	luck, fortune; lot
+ciudad	f0es	city
+hija	f0s	daughter
+muerte	f0s	death
+realidad	f0es	reality; commodity
+corazón	m2ones	heart; emotions
+miedo	m0s	fear
+jefe	m0s	boss; chief
+agua	f0s	water; body of water
+poder	m0es	power, reign; authorization
+esposa	f0s	wife; handcuff
+mano	f0s	hand; front foot
+niño	m0s	child
+cara	f0s	face
+cuidado	m0s	care
+fin	m0es	end; purpose
+punto	m0s	point; decimal
+equipo	m0s	team; equipment
+doctor	m0s	doctor; physician
+coche	m0s	car; carriage
+clase	f0s	lecture; class
+tierra	f0s	land, ground; earth
+guerra	f0s	war, warfare
+sangre	f0s	blood
+vuelta	f0s	turn; return
+juego	m0s	play; game
+cuerpo	m0s	body
+oportunidad	f0es	timeliness; opportunity
+teléfono	m0s	telephone; telephone number
+fiesta	f0s	party; feast
+auto	m0s	car, automobile; order
+hermana	f0s
+número	m0s	number; musical number
+culpa	f0s	fault; guilt
+escuela	f0s	school
+pregunta	f0s	question
+capitán	m2anes	captain
+bebé	m0s	baby
+comida	f0s	food; lunch
+vino	m0s	wine
+lista	f0s	list, roll; stripe
+habitación	f2ones	room; bedroom
+amo	m0s	master; owner
+par	m0es	pair; couple
+puta	f0s	whore, slut; bitch
+sentido	m0s	sense
+arma	f0s	weapon, arm
+seguridad	f0es	safety; security
+palabra	f0s	word; wording
+oficina	f0s	office; workshop
+cama	f0s	bed
+oído	m0s	hearing
+recuerdo	m0s	memory; souvenir
+luz	f1ces	light; lumen
+sitio	m0s	site, place; siege
+marido	m0s	husband
+paz	f1ces	peace
+plan	m0es	plan; scheme
+pueblo	m0s	town, village; population
+paso	m0s	step or pace walking
+música	f0s	music
+minuto	m0s	minute
+país	m0es	country
+rey	m0es	king
+perdón	m2ones	pardon; mercy
+falta	f0s	lack, shortage; fault
+niña	f0s	pupil; maiden
+señorita	f0s	young woman; Miss
+hospital	m0es	hospital
+fuego	m0s	fire
+calle	f0s	street; lane
+prueba	f0s	proof; examination
+libro	m0s	book
+café	m1es	coffee; cafe
+perro	m0s	dog; asshole
+cielo	m0s	sky; heaven
+puesto	m0s	market stall, market stand
+viaje	m0s	voyage, journey
+cambio	m0s	change, shift; exchange rate
+película	f0s	film; movie
+resto	m0s	rest, remainder
+presidente	m0s	president
+ropa	f0s	garment, clothing
+agente	m0s	agent; police officer
+información	f2ones	information; data
+trato	m0s	deal, bargain; treatment
+derecho	m0s	right; law
+modo	m0s	way, manner; mood
+asesino	m0s	murderer, killer; traitor
+control	m0es	control of a machine; remote control
+odio	m0s	hate, hatred; odium
+frente	m0s	forehead, brow; front
+sexo	m0s	gender; sex
+amiga	f0s
+grupo	m0s	group; party
+asunto	m0s	matter, issue; affair
+mensaje	m0s	message; speech
+atención	f2ones	attention; courtesy
+daño	m0s	damage
+médico	m0s	doctor, physician
+boca	f0s	mouth, oral cavity; entrance
+error	m0es	error
+pena	f0s	punishment; pain
+voz	f1ces	voice; term
+futuro	m0s	future
+secreto	m0s	secret; secrecy
+baño	m0s	bath; bathroom
+novia	f0s
+sueño	m0s	sleep, slumber; sleepiness
+fuerza	f0s	force; strength
+dolor	m0es	grief; sorrow
+edad	f0es	age; time since an event
+pie	m0s	foot
+aire	m0s	air
+lamento	m0s	lament, wail
+asesinato	m0s	murder, homicide; assassination
+cita	f0s	date; appointment
+sistema	m0s	system; scheme
+gusto	m0s	taste
+negocio	m0s	business, enterprise; deal
+mente	f0s	mind, intellect
+campo	m0s	countryside, country; field
+situación	f2ones	situation, scenario; position
+hotel	m0es	hotel
+foto	f0s	photo, photograph
+abogado	m0s	lawyer, solicitor
+mitad	f0es	half
+pelo	m0s	hair
+compañía	f0s	company; companion
+relación	f2ones	relation; relationship
+montón	m2ones	heap, pile; ton
+cena	f0s	supper, dinner
+través	m0es	bend, turn
+accidente	m0s	accident; accidental
+caja	f0s	box, case; bank
+vista	f0s	sight, vision
+línea	f0s	line; command
+tienda	f0s	shop, store; tent
+centro	m0s	center
+mes	m0es	month
+sol	m0es	sun; sunlight
+tonto	m0s	fool, a stupid person
+hambre	f0s	hunger
+mesa	f0s	table; dinner table
+respuesta	f0s	reply, response
+carta	f0s	letter; map
+novio	m0s	boyfriend; fiancé
+traje	m0s	suit; dress
+dirección	f2ones	address; direction
+placer	m0es	placer; sandbank
+barco	m0s	boat
+profesor	m0es	teacher; professor
+servicio	m0s	service; public toilet
+muchacho	m0s	boy, servant
+reunión	f2ones	meeting, session; powwow
+ley	f0es	law
+programa	m0s	programme, program; show
+carrera	f0s	race; run
+cumpleaños	m0	birthday
+culo	m0s
+canción	f2ones	song
+universidad	f0es	college; university
+boda	f0s	wedding
+sala	f0s	room; large hall
+decisión	f2ones	decision
+sal	f0es	salt
+prisa	f0s	hurry, rush
+embargo	m0s	embargo; trade embargo
+abuela	f0s	old woman; grandmother
+suelo	m0s	ground, floor; soil
+cárcel	f0es	prison
+maldición	f2ones	curse
+silencio	m0s	silence
+club	m0es	club
+broma	f0s	joke, prank; banter
+gobierno	m0s	government
+cámara	f0s	room; camera
+regalo	m0s	present, gift
+ataque	m0s	attack
+avión	m2ones	aeroplane, airplane; martin
+investigación	f2ones	research; investigation
+ejército	m0s	army
+papel	m0es	paper; role
+principio	m0s	cause, origin; principle
+deseo	m0s	desire; wish
+nave	f0s	ship, vessel; nave
+basura	f0s	trash, waste
+contacto	m0s	contact
+esposo	m0s	husband
+tren	m0es	train
+alma	f0s	soul; web
+disculpa	f0s	excuse; apology
+matrimonio	m0s	married couple; marriage
+locura	f0s	madness, craziness; act of madness
+oro	m0s	gold; card from this suit
+permiso	m0s	permission; license
+director	m0es	director; conductor
+peligro	m0s	peril, danger
+libertad	f0es	liberty, freedom; latitude
+derecha	f0s	right
+espacio	m0s	space
+abuelo	m0s	grandfather; elderly person
+salud	f0es	health
+sorpresa	f0s	surprise; upset
+maestro	m0s	teacher; master
+infierno	m0s	hell
+tía	f0s	woman, chick
+crimen	m4ímenes	violent crime
+iglesia	f0s	church
+intento	m0s	attempt
+mayoría	f0s	majority
+escena	f0s	scene; stage
+piso	m0s	floor, ground
+señal	f0es	sign; landmark
+honor	m0es	honor
+cerebro	m0s	brain; nerd
+cocina	f0s	kitchen; stove
+vestido	m0s	dress
+caballo	m0s	horse; knight
+bar	m0es	bar, coffee shop
+carne	f0s	flesh, the soft part of a body which…
+departamento	m0s	department; apartment
+mar	m0es	sea; seaside
+duda	f0s	doubt, second thought
+edificio	m0s	building
+cargo	m0s	charge, burden; position
+víctima	f0s	victim
+energía	f0s	energy
+frío	m0s	cold, coldness
+baile	m0s	dance
+misión	f2ones	mission, quest
+izquierda	f0s	left
+opinión	f2ones	opinion
+cerveza	f0s	beer
+reina	f0s	queen
+tema	m0s	theme; topic
+prisión	f2ones	prison
+porqué	m0s	reason
+partido	m0s	party; game
+causa	f0s	cause; lawsuit
+sargento	m0s	sergeant
+compañero	m0s	companion; teammate
+zona	f0s	zone, district
+destino	m0s	destiny, fate; destination
+base	f0s	base; basis
+cliente	m0s	client; customer
+encuentro	m0s	encounter, meeting; dispute
+pelea	f0s	fight, brawl; struggle
+norte	m0s	north; north wind
+coronel	m0es	colonel
+juicio	m0s	good judgement; opinion
+llave	f0s	key
+posición	f2ones	position
+espalda	f0s	back; backstroke
+éxito	m0s	success; hit
+ventana	f0s	window; window frame
+especie	f0s	species; type
+diferencia	f0s	difference
+ejemplo	m0s	example; instance
+radio	f0s	radio
+calma	f0s	calm, stillness; tranquility
+hogar	m0es	home; housekeeping
+fondo	m0s	bottom; back
+planeta	m0s	planet
+respecto	m0s	respect, regard
+regreso	m0s	return
+respeto	m0s	respect
+estación	f2ones	station; season
+pista	f0s	track, course; runway
+estrella	f0s	star
+enfermo	m0s
+nivel	m0es	level, tier
+experiencia	f0s	experience
+salida	f0s	exit, way out; departure
+color	m0es	color, colour; rouge
+vistazo	m0s	look, glance
+parecer	m0es	opinion
+bolsa	f0s	bag; coin purse
+diablo	m0s	devil; crowbar
+sur	m0es	south
+banda	f0s	band; gang
+precio	m0s	price; worth
+ojo	m0s	eye; keyhole
+acción	f2ones	action, act
+obra	f0s	construction; work
+esperanza	f0s	hope; expectation
+cuestión	f2ones	matter, question
+informe	m0s	report
+río	m0s	river
+interior	m0es	interior; male underwear
+apartamento	m0s	flat, apartment
+golpe	m0s	hit, blow; punch
+estilo	m0s	style
+bomba	f0s	bomb; pump
+pistola	f0s	pistol, handgun
+marcha	f0s	march; departure
+vuelo	m0s	flight
+nota	f0s	note, memo
+valor	m0es	value; security
+objetivo	m0s	aim, objective
+repente	m0s	attack, upsurge; fit
+entrada	f0s	entrance; entry
+máquina	f0s	machine; champ
+cuello	m0s	neck; collar
+pareja	f0s	couple; partner
+verano	m0s	summer
+ama	f0s	lady of the house; proprietress
+mentira	f0s	lie, trick
+tarjeta	f0s	card
+opción	f2ones	option
+isla	f0s	island; block
+piel	f0es	skin; fur
+enemigo	m0s	foe, enemy
+justicia	f0s	justice; righteousness
+calor	m0es	heat
+batalla	f0s	battle
+brazo	m0s	arm; branch
+bosque	m0s	forest
+visita	f0s	visit; visitor
+movimiento	m0s	movement
+pesar	m0es	grief, regret
+vacaciones	f0
+cine	m0s	cinema, moviehouse; film
+confianza	f0s	confidence; trust
+defensa	f0s	defense; retaining wall
+presión	f2ones	pressure
+testigo	m0s	witness
+motivo	m0s	reason, ground
+inglés	m2eses	English; Englishman
+estudio	m0s	study; studio
+propósito	m0s	purpose; resolution
+noticia	f0s	message; communication
+ridículo	m0s	ridicule, ridiculousness
+operación	f2ones	operation
+empresa	f0s	company; enterprise
+laboratorio	m0s	laboratory
+elección	f2ones	choice; election
+beso	m0s	kiss
+conversación	f2ones	conversation
+espíritu	m0s	mind; spirit
+fe	f0s	faith
+trampa	f0s	trap, snare; trapdoor
+memoria	f0s	memory
+contrario	m0s
+soldado	m0s	soldier
+turno	m0s	turn
+restaurante	m0s	restaurant
+bienvenida	f0s	welcome, greeting
+leche	f0s	milk
+red	f0es	web, mesh; net
+taxi	m0s	taxi
+anillo	m0s	ring; annulus
+victoria	f0s	victory
+héroe	m0s	hero
+responsable	m0s	person responsible, someone obliged
+árbol	m0es	tree
+camión	m2ones	lorry; bus
+cabo	m0s	end, edge
+ruido	m0s	noise; uproar
+lucha	f0s	fight, fighting; wrestling
+reloj	m0es	clock; watch
+gato	m0s	cat; tomcat
+colegio	m0s	school
+sonido	m0s	sound, noise; tone
+caballero	m0s	gentleman; cowboy
+código	m0s	code
+imagen	f4ágenes	image
+riesgo	m0s	chance
+pan	m0es	bread; bun
+millón	m2ones	million
+dama	f0s	lady, dame; queen
+hielo	m0s	ice
+prensa	f0s	press
+televisión	f2ones	television
+posibilidad	f0es	possibility; means
+asiento	m0s	seat; sediment
+proyecto	m0s	project, plan
+pared	f0es	wall, especially of a house or room
+naturaleza	f0s	nature
+silla	f0s	chair; saddle
+señoría	f0s	dominion; authority
+cantidad	f0es	amount; quantity
+desastre	m0s	disaster, a debacle; mess
+enfermedad	f0es	illness, disease
+príncipe	m0s	prince; sovereign
+inspector	m0es	inspector
+playa	f0s	beach; car park
+velocidad	f0es	speed; velocity
+cabello	m0s	hair
+unidad	f0es	unit; unity
+cuchillo	m0s	knife; blade of knife
+gana	f0s	desire
+emergencia	f0s	emergency; emergence
+show	m0s	show, spectacle; scene
+robo	m0s	robbery, theft
+parque	m0s	park; parking lot
+serie	f0s	series
+evidencia	f0s	evidence
+botella	f0s	bottle; tank
+viento	m0s	wind; woodwind section
+mando	m0s	command; remote control
+apoyo	m0s	support
+bala	f0s	bullet
+tiro	m0s	throw; shot
+época	f0s	epoch, era; season
+puente	m0s	bridge; arch of a foot
+distancia	f0s	distance
+pierna	f0s	leg
+descanso	m0s	rest, break; relief
+área	f0s	area
+espectáculo	m0s	show, performance; spectacle
+magia	f0s	magic; spell
+universo	m0s	universe
+nariz	f1ces	nose
+vergüenza	f0s	shame; embarrassment
+monstruo	m0s	monster, beast; juggernaut
+princesa	f0s	princess
+autobús	m2uses	bus, coach
+paseo	m0s	walk, stroll; outing
+belleza	f0s	beauty
+ministro	m0s	minister
+animal	m0es	animal
+contrato	m0s	contract, agreement
+viernes	m0	Friday
+sociedad	f0es	high society; company
+carga	f0s	load; burden
+uso	m0s	use; usage
+oferta	f0s	offer
+oeste	m0s	west
+herida	f0s	wound
+inmediato	m0s
+mercado	m0s	market
+cerdo	m0s	pig, hog; pork
+jurado	m0s	juror, juryman; judge or referee
+piedra	f0s	stone; flint
+intención	f2ones	intention
+humor	m0es	mood; humor
+peso	m0s	weight
+oscuridad	f0es	darkness; obscurity
+mirada	f0s	look, glance
+demonio	m0s	demon, devil
+jardín	m2ines	garden; front yard
+amenaza	f0s	threat, menace
+marca	f0s	brand
+medicina	f0s	medicine
+acceso	m0s	access; intercourse
+necesidad	f0es	need; necessity
+dueño	m0s	owner, proprietor; master
+pollo	m0s	chicken; young chicken
+efecto	m0s	effect
+felicidad	f0es	felicity, happiness
+espada	f0s	sword; spade
+resultado	m0s	product, consequence; score
+sombrero	m0s	hat
+correo	m0s	mail; post office
+teatro	m0s	theater, theatre
+lástima	f0s	pity
+responsabilidad	f0es	accountability; responsibility
+búsqueda	f0s	search; quest
+dedo	m0s	finger; toe
+almuerzo	m0s	lunch
+pago	m0s	pay, payment; estate
+pastel	m0es	cake; pastry
+cinta	f0s	tape; ribbon
+costa	f0s	expense, costs; coast
+interés	m2eses	interest
+enfermera	f0s
+comienzo	m0s	beginning
+polvo	m0s	dust; powder
+voluntad	f0es	will, wish; willpower
+teoría	f0s	theory
+cuento	m0s	story; tale
+escenario	m0s	stage; scene
+diario	m0s	diary, journal; daily
+propiedad	f0es	property, belongings; ownership
+agujero	m0s	hole; pincushion
+aspecto	m0s	appearance, look; aspect
+campamento	m0s	camping; campsite
+proceso	m0s	process; lawsuit
+fuente	f0s	spring, fountain; source
+alcalde	m0s	mayor; official such as an administrator
+carretera	f0s	highway
+desayuno	m0s	breakfast
+miembro	m0s	member; limb
+deber	m0es	obligation, duty; debt
+pecho	m0s	thorax; chest
+periódico	m0s	newspaper
+sheriff	m0es	sheriff
+primo	m0s	cousin; prime number
+acto	m0s	act
+premio	m0s	prize, award
+domingo	m0s	Sunday
+sensación	f2ones	sensation, feeling
+alcohol	m0es	alcohol; galena
+genio	m0s	genius; temper
+lengua	f0s	tongue; language
+ladrón	m2ones	thief, robber; adapter
+examen	m4ámenes	exam, examination
+montaña	f0s	mountain
+entrenador	m0es	trainer; manager
+queso	m0s	cheese; foot
+modelo	m0s	model
+fútbol	m0es	football
+sábado	m0s	Saturday; Sabbath
+talento	m0s	talent
+toque	m0s	whiff; touch
+tamaño	m0s	size
+invitado	m0s	guest, invitee; houseguest
+declaración	f2ones	statement; declaration
+pérdida	f0s	loss; leak
+gas	m0es	gas
+aeropuerto	m0s	airport
+gloria	f0s	glory
+disparo	m0s	shot; gunfire
+cadáver	m0es	cadaver, corpse
+gracia	f0s	grace, charm; mercy
+doctora	f0s	doctor's wife
+temporada	f0s	season, period
+techo	m0s	ceiling; roof
+protección	f2ones	protection
+venganza	f0s	vengeance
+camisa	f0s	shirt; gas mantle
+bote	m0s	boat, dinghy; jackpot
+truco	m0s	gimmick, ploy; piece of a magician's act
+mama	f0s	mamma, breast
+rostro	m0s	face
+crédito	m0s	credit
+saca	f0s	large sack, bag; removal
+registro	m0s	registration, record; roll
+esquina	f0s	corner
+tormenta	f0s	storm, thunderstorm
+chocolate	m0s	chocolate; hot chocolate
+pedazo	m0s	piece, chunk; patch
+tomo	m0s	tome, volume
+olor	m0es	smell, scent; whiff
+ciencia	f0s	science; erudition
+conexión	f2ones	connection
+salón	m2ones	salon
+firma	f0s	signature; seal
+bebida	f0s	drink, beverage; soda
+lluvia	f0s	rain; shower
+visión	f2ones	vision
+diversión	f2ones	fun, entertainment
+curso	m0s	class, course
+disco	m0s	club, discotheque
+lago	m0s	lake
+material	m0es	material
+discurso	m0s	discourse; speech
+cura	m0s	cure; drunkenness
+cáncer	m0es	cancer
+funeral	m0es	funeral
+artista	m0s	artist; entertainer
+entrevista	f0s	interview
+pintura	f0s	painting
+inteligencia	f0s	intelligence
+helado	m0s	ice cream; popsicle
+camioneta	f0s	pick-up truck
+rock	m0es	rock
+tumba	f0s	grave, tomb
+tarea	f0s	task; homework
+vacío	m0s	empty space; vacuum
+computadora	f0s	computer
+estudiante	m0s	student
+solución	f2ones	solution
+plato	m0s	plate, dish
+tecnología	f0s	technology
+bordo	m0s	side, board; tack
+nieve	f0s	snow; ice cream
+fecha	f0s	date
+violencia	f0s	violence
+sujeto	m0s	matter, subject; person
+droga	f0s	drug; indebtedness
+siglo	m0s	century; age
+fortuna	f0s	fortune
+presencia	f0s	presence; appearance
+aventura	f0s	adventure; affair
+gira	f0s	tour
+comunidad	f0es	community
+pieza	f0s	piece, part; room
+estómago	m0s	stomach
+alegría	f0s	joy, happiness
+barrio	m0s	neighbourhood; slum
+granja	f0s	farm, grange
+esfuerzo	m0s	effort, endeavor
+empleo	m0s	job, employment
+cirugía	f0s	surgery
+clave	f0s	key; password
+piloto	m0s	pilot; driver
+bolso	m0s	purse; bag
+campaña	f0s	campaign; countryside
+amistad	f0es	friendship
+corriente	f0s	current
+planta	f0s	plant
+ritmo	m0s	rhythm; pace
+socio	m0s	partner; member
+motor	m0es	motor; engine
+mono	m0s	monkey; jumpsuit
+página	f0s	page
+ruego	m0s	plea, appeal
+paquete	m0s	parcel; package
+combate	m0s	combat
+castillo	m0s	castle
+bola	f0s	ball; scoop
+carro	m0s	cart
+venta	f0s	sale; sales
+compromiso	m0s	commitment; engagement
+ira	f0s	Initialism of insuficiencia renal aguda.,…
+promesa	f0s	promise
+importancia	f0s	importance
+lección	f2ones	lesson
+bolsillo	m0s	pocket; pocketbook
+desgracia	f0s	accident, disaster; misfortune
+artículo	m0s	article
+cola	f0s	tail; line
+taza	f0s	cup, mug; toilet bowl
+pelota	f0s	ball; ball game
+chaqueta	f0s	masturbation; jacket
+entrenamiento	m0s	training, workout
+pescado	m0s	fish that has been caught
+abrigo	m0s	overcoat; shelter
+sonrisa	f0s	smile
+charla	f0s	talk, chat
+bruja	f0s	witch, sorceress; specifically
+encargo	m0s	order; errand
+milagro	m0s	miracle; wonder
+moda	f0s	fashion; fad
+despacho	m0s	office; dispatch
+vaso	m0s	drinking glass; glassful
+explosión	f2ones	bang, boom; explosion
+regla	f0s	rule; ruler
+copia	f0s	copy; abundance
+cadena	f0s	chain; necklace
+fábrica	f0s	factory
+educación	f2ones	education; upbringing
+homicidio	m0s	homicide; manslaughter
+madera	f0s	wood; wooden plank
+grado	m0s	degree; grade
+tratamiento	m0s	treatment; term of address
+comisario	m0s	inspector; commissioner
+pizza	f0s	pizza
+tira	f0s	tie, ribbon; strip
+plata	f0s	silver; money
+lío	m0s	bundle; lover
+agencia	f0s	agency
+humanidad	f0es	humanity
+parada	f0s	stop; station
+ambulancia	f0s	ambulance
+traducción	f2ones	translation
+tratado	m0s	treaty
+parado	m0s	unemployed person
+compra	f0s	purchase; buying
+conocimiento	m0s	knowledge, as in acquaintance or…
+armario	m0s	wardrobe, closet; locker
+lobo	m0s	wolf; drunkenness
+tráfico	m0s	traffic; smuggle
+uniforme	m0s	uniform, dress uniform
+invierno	m0s	winter
+conductor	m0es	driver, motorist; presenter
+licencia	f0s	license; permission
+espejo	m0s	mirror
+coincidencia	f0s	coincidence; agreement
+análisis	m0	analysis
+sótano	m0s	cellar; basement
+ocasión	f2ones	occasion
+cheque	m0s	cheque, blank cheque
+conciencia	f0s	conscience; consciousness
+pesadilla	f0s	nightmare; bane
+sopa	f0s	soup; noodles
+suicidio	m0s	suicide
+divorcio	m0s	divorce
+miel	f0es	honey
+frontera	f0s	border; frontier
+ventaja	f0s	advantage, upper hand; benefit
+alerta	f0s	alarm
+piscina	f0s	swimming pool
+comportamiento	m0s	behavior
+revista	f0s	magazine; revue
+canal	m0es	canal, flume; channel
+paciencia	f0s	patience, forbearance
+crisis	f0	crisis; attack
+vigilancia	f0s	vigilance, watchfulness; surveillance
+desierto	m0s	desert
+cuerda	f0s	rope, cord; chord
+pene	m0s	penis
+gobernador	m0es	governor
+sección	f2ones	section; piece
+oso	m0s	bear; boar
+curiosidad	f0es	curiosity
+impresión	f2ones	impression; print
+pez	m1ces	pitch, tar; fish
+pasillo	m0s	hallway, corridor; aisle
+arresto	m0s	arrest; boldness
+sencillo	m0s	single; small change
+ruta	f0s	highway; route
+apuesta	f0s	bet, wager
+virus	m0	virus; computer virus
+alarma	f0s	alarm
+identidad	f0es	identity
+aviso	m0s	announcement; warning
+caza	f0s	hunting, hunt; persecution
+muchacha	f0s	girl; female teenager
+orgullo	m0s	pride
+altura	f0s	height; altitude
+archivo	m0s	file; archive
+criatura	f0s	creature, critter; small child
+saco	m0s	bag; sack
+versión	f2ones	version; cover version
+incendio	m0s	fire; blaze
+concierto	m0s	concert; concerto
+casualidad	f0es	chance, coincidence
+excusa	f0s	excuse, cop-out; pretext
+sofá	m0s	sofa, couch
+sombra	f0s	shade; shadow
+escritorio	m0s	writing desk; study
+muñeca	f0s	wrist
+rastro	m0s	sign, trace; trail
+pájaro	m0s	bird; homosexual
+ducha	f0s	shower
+condición	f2ones	condition; possibility
+actor	m0es	actor; defendant
+actitud	f0es	posture, pose; attitude
+salsa	f0s	sauce, gravy; salsa
+personaje	m0s	personage; personality
+entrega	f0s	delivery, handover; submission
+tribu	f0s	tribe
+voto	m0s	vote; vow
+jefa	f0s
+senador	m0es	senator
+campeón	m2ones	champion
+bestia	f0s	beast; animal
+episodio	m0s	episode; attack
+celda	f0s	cell; prison cell
+medianoche	f0s	midnight; small meat pie
+garganta	f0s	throat; gorge
+sesión	f2ones	session; showing
+identificación	f2ones	identification
+veneno	m0s	poison; venom
+primavera	f0s	spring; year of age
+martes	m0	Tuesday
+distrito	m0s	district
+reputación	f2ones	reputation
+castigo	m0s	punishment
+límite	m0s	limit, threshold
+jugador	m0es	player; gambler
+humo	m0s	smoke; steam
+nación	f2ones	nation
+explicación	f2ones	explanation
+competencia	f0s	competition; competence
+biblioteca	f0s	library; bookcase
+fila	f0s	line, row; queue
+misterio	m0s	mystery; mysteriousness
+ganador	m0es	winner
+puerto	m0s	port, harbour
+vehículo	m0s	vehicle
+julio	m0s	July; joule
+favorita	f0s
+patio	m0s	yard, patio; courtyard
+tontería	f0s	something that is dumb
+pecado	m0s	sin
+comité	m0s	committee
+rescate	m0s	rescue; ransom
+título	m0s	title
+pánico	m0s	panic; fear
+pasión	f2ones	passion; inertia
+ambiente	m0s	atmosphere; environment
+asco	m0s	disgust; nausea
+océano	m0s	ocean
+escalera	f0s	stairs; staircase
+km	m0es
+terapia	f0s	therapy
+terreno	m0s	land; ground
+autoridad	f0es	authority
+roca	f0s	rock
+superficie	f0s	surface
+hierba	f0s	herb; grass
+extranjero	m0s	foreigner; foreign countries
+meta	f0s	goal; target
+despedida	f0s	farewell; farewell party
+pasta	f0s	pasta; paste
+cristal	m0es	crystal; glass
+aprecio	m0s	appreciation
+fotografía	f0s	photograph; photography
+patrón	m2ones	protector; boss
+desafío	m0s	challenge; defiance
+clínica	f0s	medical clinic
+experto	m0s	expert
+medida	f0s	measurement; degree
+tele	f0s
+custodia	f0s	custody; safekeeping
+anuncio	m0s	advertisement; announcement
+fiebre	f0s	fever
+compañera	f0s
+organización	f2ones	organization
+mina	f0s	mine
+deuda	f0s	debt
+transporte	m0s	transport, transportation
+sentimiento	m0s	feeling
+templo	m0s	temple
+maravilla	f0s	wonder, marvel; sunflower
+mate	m0s	mate, checkmate; hand gesture
+piano	m0s	piano
+pantalla	f0s	screen; display screen
+gasolina	f0s	petrol, gasoline
+tripulación	f2ones	crew of a ship, plane
+flor	f0es	flower; bloom
+guía	f0s	guide; guidebook
+conferencia	f0s	lecture; meeting
+delito	m0s	crime
+objeto	m0s	object; objective
+museo	m0s	museum
+huevo	m0s	egg; spawn
+violación	f2ones	violation; rape
+habilidad	f0es	ability, skill
+práctica	f0s	practice; internship
+amado	f0s
+cable	m0s	cable or cord; wire
+nacimiento	m0s	birth
+alcance	m0s	reach, range
+evento	m0s	event
+alquiler	m0es	rent
+ordenador	m0es	computer
+pensamiento	m0s	thought; thinking
+maleta	f0s	suitcase; trunk
+condado	m0s	county
+metro	m0s	meter; tape measure
+actuación	f2ones	performance; acting
+refugio	m0s	refuge; safety
+reacción	f2ones	reaction; recoil
+paliza	f0s	beating, bashing; rout
+chef	m0es	chef, head cook
+amanecer	m0es	dawn
+territorio	m0s	territory
+vecino	m0s	neighbour
+golf	m0es	golf
+marco	m0s	frame; framework
+emperador	m0es	emperor; swordfish
+cigarrillo	m0s	cigarette
+ronda	f0s	round, iteration; beat
+metal	m0es	metal
+cierre	m0s	shutting, closing; shutter
+botón	m2ones	button; key
+tono	m0s	tone
+detalle	m0s	detail; small gift
+crema	f0s	cream
+flota	f0s	fleet; crowd
+cultura	f0s	culture
+revolución	f2ones	revolution
+hombro	m0s	shoulder
+serpiente	f0s	snake, serpent
+capacidad	f0es	capacity, capability
+aliento	m0s	breath
+placa	f0s	plate; shield
+rata	f0s	rat
+cuadro	m0s	square; picture
+división	f2ones	division, divide; split
+bicicleta	f0s	bicycle, pushbike; step over
+concurso	m0s	concourse; competition
+comisaría	f0s	police station
+raza	f0s	race, ethnicity; breed
+imaginación	f2ones	imagination
+ceremonia	f0s	ceremony
+almacén	m2enes	warehouse; shop
+sabor	m0es	flavor; seasoning
+reserva	f0s	reservation, booking; reserve
+encanto	m0s	charm, captivation; spell
+calidad	f0es	quality; kind
+aceite	m0s	oil; olive oil
+punta	f0s	tip, point; pinch
+cinturón	m2ones	belt
+chiste	m0s	joke; essence
+vaca	f0s	cow; beef
+prisionero	m0s	prisoner
+apellido	m0s	surname, last name; trait
+instante	m0s	instant, moment
+pulso	m0s	pulse; arm-wrestle
+frase	f0s	sentence; phrase
+partida	f0s	departure; match
+excelencia	f0s	excellency, brilliance
+asalto	m0s	assault; mugging
+combustible	m0s	fuel
+discusión	f2ones	argument; discussion
+pata	f0s	paw, foot; leg
+comunicación	f2ones	communication
+manzana	f0s	apple; city block
+sed	f0es	thirst
+traidor	m0es	traitor, betrayer
+letra	f0s	letter; handwriting
+vía	f0s	way, means; avenue
+sacerdote	m0s	priest
+resistencia	f0s	resistance
+arroz	m1ces	rice
+bandera	f0s	flag; banner
+plaza	f0s	plaza, town square; fortified town
+imperio	m0s	empire; imperium
+cartera	f0s	wallet, billfold; handbag
+depósito	m0s	deposit; tank
+tensión	f2ones	voltage; tension
+vídeo	m0s	video; VHS player
+círculo	m0s	circle
+ascensor	m0es	elevator, lift
+helicóptero	m0s	helicopter
+escape	m0s	escape; leak
+limpieza	f0s	cleanliness; cleaning
+hueso	m0s	bone; stone
+caída	f0s	fall; crash
+temperatura	f0s	temperature
+ejercicio	m0s	exercise; role
+lealtad	f0es	loyalty
+invitación	f2ones	invitation
+leyenda	f0s	life of a saint; legend
+paraíso	m0s	paradise; heaven
+costumbre	f0s	habit; custom
+cabaña	f0s	cabin, cottage
+secretaria	f0s
+ensayo	m0s	essay, paper; try
+gimnasio	m0s	gym, gymnasium
+lenguaje	m0s	language
+garaje	m0s	garage
+palo	m0s	stake, stick; suit
+científico	m0s	scientist
+actividad	f0es	activity
+dragón	m2ones	dragon; dragoon
+generación	f2ones	generation
+capital	f0es	capital
+escritor	m0es	writer
+recibo	m0s	receipt; bill
+salto	m0s	jump, leap; skip
+publicidad	f0es	advertisement; publicity
+barra	f0s	bar, rod
+aniversario	m0s	anniversary; birthday
+muro	m0s	wall
+producto	m0s	product, commodity; produce
+gafas	f0	eyeglasses
+sobrino	m0s	nephew; nibling
+demanda	f0s	demand; formal complaint
+construcción	f2ones	construction
+perfil	m0es	profile; side view
+trozo	m0s	piece
+actriz	f1ces	actress
+personalidad	f0es	personality
+secretario	m0s	secretary
+rueda	f0s	wheel; circle
+grano	m0s	grain
+moneda	f0s	coin; currency
+piedad	f0es	pity, mercy; piety
+borde	m0s	brim, rim; side
+profesora	f0s
+expresión	f2ones	expression
+escándalo	m0s	scandal
+emoción	f2ones	emotion; excitement
+perdedor	m0es	loser
+rumbo	m0s	course; heading
+valle	m0s	valley
+juventud	f0es	youth
+preocupación	f2ones	worry; preoccupation
+guión	m2ones
+heroína	f0s	heroine
+caos	m0	chaos; mess
+alternativa	f0s	alternation
+enhorabuena	f0s	congratulation
+ánimo	m0s	soul, spirit; vigour
+lujo	m0s	luxury, extravagance
+religión	f2ones	religion
+corona	f0s	crown
+dispositivo	m0s	appliance, device; presence
+inmunidad	f0es	immunity
+grabación	f2ones	recording
+producción	f2ones	production, output
+clima	m0s	climate, weather
+puesta	f0s	clutch; sunset
+carácter	m=caracteres	character
+prostituta	f0s
+máscara	f0s	mask
+alianza	f0s	alliance; wedding ring
+guitarra	f0s	guitar
+estrategia	f0s	strategy
+frecuencia	f0s	frequency; repetition
+masa	f0s	dough; mass
+existencia	f0s	existence; stock
+túnel	m0es	tunnel; nutmeg
+industria	f0s	industry
+colección	f2ones	collection
+empleado	m0s	employee
+expediente	m0s	case, file; dossier
+petición	f2ones	request
+presentación	f2ones	presentation; submission
+coraje	m0s	courage, bravery; anger
+adulto	m0s	adult
+caridad	f0es	charity
+llegada	f0s	arrival
+capítulo	m0s	chapter
+tarta	f0s	pie; tart
+acero	m0s	steel; sword
+confesión	f2ones	confession
+coartada	f0s	alibi
+payaso	m0s	clown
+rayo	m0s	beam, ray; bolt of lightning
+diseño	m0s	design; layout
+mm	m0es
+camiseta	f0s	T-shirt
+impacto	m0s	impact, brunt; hit
+equipaje	m0s	luggage; baggage
+sufrimiento	m0s	suffering
+soltero	m0s	single; bachelor
+influencia	f0s	influence, clout; leverage
+oxígeno	m0s	oxygen
+experimento	m0s	experiment
+propuesta	f0s	proposal
+traición	f2ones	treason; treachery
+cementerio	m0s	cemetery; junkyard
+pozo	m0s	well
+patrulla	f0s	patrol
+tragedia	f0s	tragedy, catastrophe; tragedy play
+procedimiento	m0s	procedure; method
+fantasía	f0s	fantasy; costume jewellery
+secuestro	m0s	kidnapping
+béisbol	m0es	baseball
+conejo	m0s	rabbit, cony; detective
+billete	m0s	banknote, bill; ticket
+significado	m0s	meaning; significance
+web	f0s	web; webpage
+robot	m0s	robot
+continuación	f2ones	continuation
+tradición	f2ones	tradition; lore
+electricidad	f0es	electricity; electrical current
+reto	m0s	challenge; dare
+aldea	f0s	village
+cima	f0s	top; peak
+risa	f0s	laugh, laughter
+revés	m2eses	back, reverse side; setback
+circo	m0s	circus
+tanque	m0s	tank
+terror	m0es	horror; terror
+sacrificio	m0s	sacrifice; slaughter
+destrucción	f2ones	destruction
+texto	m0s	text; text message
+olvido	m0s	oblivion; forgetting
+colina	f0s	hill; choline
+pastor	m0es	shepherd; herder
+naranja	f0s	orange
+batería	f0s	large and rechargeable battery
+figura	f0s	figure; charge
+callejón	m2ones	alley, side street; blind alley
+maquillaje	m0s	makeup
+fase	f0s	phase, stage; period
+sueldo	m0s	salary
+testimonio	m0s	testimony
+costado	m0s	side; wing
+diana	f0s	bullseye; archery target
+pasaporte	m0s	passport
+infancia	f0s	childhood; infancy
+reverendo	m0s
+mediodía	m0s	noon, midday; lunchtime
+plástico	m0s	plastic
+barba	f0s	beard; chin
+mago	m0s	magician, sorcerer
+mantequilla	f0s	butter
+sentencia	f0s	sentence
+residencia	f0s	residence
+guerrero	m0s	warrior
+hoja	f0s	leaf; petal
+recepción	f2ones	reception
+vampiro	m0s	vampire; vampire bat
+docena	f0s	dozen
+lanzamiento	m0s	launch; throwing
+falla	f0s	flaw; failure
+multitud	f0es	multitude; crowd
+potencial	m0es	potential; conditional tense
+rutina	f0s	routine; grind
+progreso	m0s	progress, headway
+ensalada	f0s	salad; mix-up
+tubo	m0s	tube; receiver
+novela	f0s	novel; soap opera
+septiembre	m0s	September
+festival	m0es	festival
+auxilio	m0s	aid, help
+fracaso	m0s	failure, flop; downfall
+cañón	m2ones	canyon; cannon
+estacionamiento	m0s	parking; parking lot
+asesina	f0s
+viuda	f0s	widow; dowager
+reporte	m0s	report
+advertencia	f0s	warning; advice
+pico	m0s	beak; sharp point
+drama	m0s	drama
+abril	m0es	April; years of age
+función	f2ones	function; showing
+solar	m0es	house, noble lineage; tenement house
+dólar	m0es	dollar
+lectura	f0s	reading; lecture
+camarero	m0s	waiter
+cabina	f0s	cabin
+deporte	m0s	sport
+fuga	f0s	escape, flight; leak
+ala	f0s	wing
+testamento	m0s	will, testament
+materia	f0s	matter; subject
+casco	m0s	helmet; crown
+agenda	f0s	agenda, planner
+junio	m0s	June
+hechizo	m0s	magic word, spell
+respiración	f2ones	respiration; breath
+extremo	m0s	end, extreme
+historial	m0es	record, history
+tigre	m0s	tiger; jaguar
+fianza	f0s	suretyship; bail
+romance	m0s	romance, love affair
+indio	m0s	native of India; Native American
+debilidad	f0es	debility, weakness
+corbata	f0s	necktie, tie
+cuartel	m0es	quarters; barracks
+rollo	m0s	roll; coil
+mezcla	f0s	blend, blending; mixed bag
+giro	m0s	turn, spin; tour
+arreglo	m0s	adjustment; arrangement
+plazo	m0s	period, term; installment
+retiro	m0s	retirement; retirement pension
+gravedad	f0es	seriousness, severity; gravity
+importe	m0s	price, cost; sum
+lata	f0s	can, tin
+símbolo	m0s	symbol; creed
+reconocimiento	m0s	recognition; reconnaissance
+conducta	f0s	behaviour, conduct
+lana	f0s	wool; cash
+vendedor	m0es	salesman
+horario	m0s	timetable, schedule; hours
+alfombra	f0s	carpet, rug; mat
+fan	m0s	fan
+anciano	m0s	elderly person
+petróleo	m0s	petroleum, oil
+rango	m0s	rank; status
+jaula	f0s	cage; crate
+dosis	f0	dose
+cartel	m0es	poster, placard; lineup
+postre	m0s	dessert
+escala	f0s	ladder; scale
+origen	m4ígenes	origin
+embajador	m0es	ambassador
+población	f2ones	population; town
+onda	f0s	wave; any other wave
+duque	m0s	duke
+trono	m0s	throne
+canto	m0s	singing; song
+aumento	m0s	increase; raise
+taller	m0es	workshop; studio
+gallina	f0s	hen; chicken
+octubre	m0s	October
+molestia	f0s	trouble, nuisance; discomfort
+huella	f0s	footprint; fingerprint
+condena	f0s	sentence, punishment
+cafetería	f0s	café, coffee shop; diner
+juguete	m0s	toy
+villa	f0s	small town; villa
+centavo	m0s	hundredth; cent
+potencia	f0s	power, potency; powerlifting
+receta	f0s	prescription; recipe
+cocaína	f0s	cocaine
+marihuana	f0s	marijuana
+capa	f0s	cloak, cape; coat
+período	m0s	period
+corredor	m0es	corridor, hall; pass
+nieto	m0s	grandchild
+fraude	m0s	fraud
+zapato	m0s	shoe
+sector	m0es	section; zone
+furgoneta	f0s	van
+beneficio	m0s	benefit; profit
+graduación	f2ones	graduation
+complejo	m0s	complex
+columna	f0s	column; file
+saque	m0s	service; kick-off
+hígado	m0s	liver
+presa	f0s	reservoir, dam; piece of meat
+presupuesto	m0s	budget; estimate
+ubicación	f2ones	position
+etapa	f0s	stage, phase
+idioma	m0s	language
+fruta	f0s	fruit
+bendición	f2ones	blessing
+compasión	f2ones	compassion, sympathy
+desarrollo	m0s	development
+cazador	m0es	hunter; light infantryman
+pesca	f0s	fishing
+arco	m0s	bow
+abogada	f0s
+fama	f0s	reputation; fame
+plano	m0s	plane; level
+maíz	m1ces	corn, maize
+remedio	m0s	remedy, solution; medicine
+vela	f0s	candle; wakefulness
+muelle	m0s	spring; wharf
+acento	m0s	accent
+ingeniero	m0s	engineer
+cráneo	m0s	skull, cranium
+queja	f0s	complaining; beef
+jugada	f0s	play, move
+documento	m0s	document, paper; record
+descripción	f2ones	description
+estructura	f0s	structure
+horno	m0s	oven; furnace
+préstamo	m0s	loan; loanword
+propietario	m0s	owner, proprietor; landlord
+profesión	f2ones	profession; calling
+agosto	m0s	August
+brindis	m0	toast
+logro	m0s	achievement; attainment
+ciudadano	m0s	citizen; city-dweller
+sospecha	f0s	suspicion
+chaval	m0es	kid, boy; young man
+macho	m0s	male; sledgehammer
+directora	f0s	head
+alivio	m0s	relief
+trauma	m0s	trauma; injury
+exposición	f2ones	exposition; exposure
+región	f2ones	region
+grito	m0s	cry, a yell
+engaño	m0s	deceit
+acusación	f2ones	accusation
+retraso	m0s	delay
+solicitud	f0es	solicitation, request; survey
+prioridad	f0es	priority; right of way
+rumor	m0es	rumor; murmur
+dibujo	m0s	drawing; tread
+almirante	m0s	admiral
+conjunto	m0s	outfit; group
+maya	m0s	Mayan
+noviembre	m0s	November
+economía	f0s	economy; economics
+combinación	f2ones	combination
+posesión	f2ones	possession
+toro	m0s	bull; torus
+sobrina	f0s
+tortura	f0s	torture
+ratón	m2ones	mouse
+productor	m0es	producer
+apariencia	f0s	appearance
+radiación	f2ones	radiation
+marzo	m0s	March
+azar	m0es	luck, chance; misfortune
+soledad	f0es	solitude
+método	m0s	method
+excepción	f2ones	exception
+dignidad	f0es	dignity
+autorización	f2ones	authorization
+concepto	m0s	concept; conceit
+pato	m0s	duck, drake
+administración	f2ones	administration
+feria	f0s	fair; street market
+transmisión	f2ones	broadcast, transmission
+parto	m0s	childbirth, labor; offspring
+mafia	f0s	Mafia
+poesía	f0s	poetry; poem
+intercambio	m0s	exchange; interchange
+selva	f0s	forest or jungle, wood
+perspectiva	f0s	perspective; prospect
+escolar	m0es	student, schoolchild
+shock	m0es	shock
+campana	f0s	bell; hood
+juramento	m0s	oath; sworn statement
+ilusión	f2ones	illusion; hope
+hoyo	m0s	hole
+tristeza	f0s	tristeza; sadness
+protocolo	m0s	protocol; conduct or etiquette rules
+otoño	m0s	autumn, fall
+candidato	m0s	candidate
+autor	m0es	author
+huelga	f0s	strike
+conflicto	m0s	conflict
+conspiración	f2ones	conspiracy
+comando	m0s	commando
+gota	f0s	drop or small amount of; gout
+colonia	f0s	colony; neighbourhood
+medalla	f0s	medal
+cabra	f0s	female goat
+dieta	f0s	diet
+comercio	m0s	trade; shop
+grasa	f0s	fat or grease used in cooking
+infección	f2ones	infection
+presidenta	f0s	president's wife
+envío	m0s	shipment, sending
+desfile	m0s	parade
+conclusión	f2ones	conclusion, end; completion
+cajón	m2ones	drawer; large box
+ejecución	f2ones	execution
+fortaleza	f0s	fortitude; strength
+hamburguesa	f0s	hamburger
+salario	m0s	wage, wages; income
+cuero	m0s	leather; animal skin
+temor	m0es	fear; awe
+comedor	m0es	dining room; eatery
+aguja	f0s	needle; hand
+desaparición	f2ones	disappearance; demise
+sello	m0s	seal, sigil; stamp
+tiburón	m2ones	shark; raider
+nube	f0s	cloud; multitude
+formación	f2ones	formation; training
+autopista	f0s	motorway, freeway
+esclavo	m0s	slave
+toalla	f0s	towel
+creación	f2ones	creation; invention
+atmósfera	f0s	atmosphere
+pensión	f2ones	guesthouse; pension
+república	f0s	republic
+embajada	f0s	embassy
+poema	m0s	poem
+tenis	m0	tennis; trainer
+civilización	f2ones	civilization
+patada	f0s	kick
+pluma	f0s	feather; pen
+fallo	m0s	mistake; failure
+rodilla	f0s	knee
+tirador	m0es	shooter, rifleman; door handle
+aparato	m0s	blower, piece; braces
+horror	m0es	horror
+estatua	f0s	statue
+siesta	f0s	siesta, nap
+ausencia	f0s	absence; absence seizure
+maletín	m0es	briefcase, attaché case
+perfume	m0s	perfume
+duelo	m0s	sorrow; mourning
+radar	m0es	radar; speed camera
+micrófono	m0s	microphone
+gesto	m0s	gesture; expression
+embarazo	m0s	pregnancy, childbearing; inconvenience
+consuelo	m0s	solace; consolation
+sabiduría	f0s	wisdom; learning
+susto	m0s	fright
+vidrio	m0s	glass; window
+término	m0s	end; term
+desorden	m=desórdenes	disorder; untidiness
+boleto	m0s	ticket; porcini
+lavado	m0s	laundry; laundering
+confusión	f2ones	confusion
+ave	f0s	high-speed rail, high-speed train
+facultad	f0es	school, college; power
+satélite	m0s	satellite
+enero	m0s	January
+barón	m2ones	baron
+araña	f0s	spider
+martillo	m0s	hammer; malleus
+comentario	m0s	comment; commentary
+inicio	m0s	start, initiation; home
+álbum	m0es	album
+ola	f0s	wave; Mexican wave
+retrato	m0s	portrait; portraiture
+respiro	m0s	breath; break
+comedia	f0s	comedy
+chip	m0s	chip
+inversión	f2ones	investment; inversion
+seda	f0s	silk
+diamante	m0s	diamond
+lápiz	m1ces	pencil
+avenida	f0s	avenue; flood
+ataúd	m0es	coffin, casket
+coro	m0s	choir; chorus
+privacidad	f0es	privacy
+recuperación	f2ones	recovery; retrieval
+paro	m0s	stagnation, freeze up; unemployment
+nido	m0s	nest
+plataforma	f0s	platform
+objeción	f2ones	objection
+clan	m0es	clan
+pañuelo	m0s	handkerchief
+preso	m0s	prisoner
+cal	f0es	lime
+goma	f0s	rubber; gum
+talla	f0s	size; clothing size
+oración	f2ones	sentence; clause
+ídolo	m0s	idol
+sindicato	m0s	trade union; labor union
+globo	m0s	balloon; globe
+audición	f2ones	hearing
+almohada	f0s	pillow
+rehabilitación	f2ones	rehabilitation; reinstatement
+galaxia	f0s	galaxy
+elefante	m0s	elephant
+tejido	m0s	fabric
+tabla	f0s	board, plank; slab
+escudo	m0s	shield; emblem
+pop	m0es	popcorn
+interrogatorio	m0s	interrogation
+asistencia	f0s	attendance; audience
+novato	m0s	beginner, newbie
+hemorragia	f0s	hemorrhage
+fenómeno	m0s	phenomenon; freak
+lotería	f0s	lottery
+bigote	m0s	whisker, whiskers; moustache
+bondad	f0es	goodness; good deed
+avance	m0s	advance; progress
+tumor	m0es	tumor
+camarera	f0s
+herencia	f0s	heredity, inheritance
+vaquero	m0s	cowboy; jeans
+patria	f0s	homeland, fatherland
+campeonato	m0s	championship
+técnico	m0s	technician
+galería	f0s	gallery; passage
+editor	m0es	editor
+liberación	f2ones	liberation
+lance	m0s	launch; throw
+volumen	m4úmenes	volume
+bailarina	f0s	ballet flat, flat
+edición	f2ones	edition
+debate	m0s	debate, discussion
+poeta	m0s	poet
+manta	f0s	blanket, cloth; poncho
+menú	m0s	menu
+descubrimiento	m0s	discovery
+apetito	m0s	appetite
+ángulo	m0s	angle
+volante	m0s	steering wheel; flyer
+abuso	m0s	abuse; overuse
+celebración	f2ones	celebration
+diente	m0s	tooth
+disposición	f2ones	disposal; tendency
+lámpara	f0s	lamp; torch
+condesa	f0s	countess
+ópera	f0s	opera
+mansión	f2ones	mansion
+equilibrio	m0s	balance, equilibrium
+certeza	f0s	certainty
+supervivencia	f0s	survival
+aterrizaje	m0s	landing
+danza	f0s	dance
+tabaco	m0s	tobacco
+balón	m2ones	ball; balloon
+consejero	m0s	adviser; counsellor
+mensajero	m0s	messenger
+test	m0es	test; multiple-choice test
+cortesía	f0s	politeness; courtesy
+campus	m0	campus
+impulso	m0s	drive, urge; impulse
+signo	m0s	sign, indication
+ajedrez	m1ces	chess
+crítica	f0s	criticism; flack
+cordero	m0s	lamb
+democracia	f0s	democracy
+cubo	m0s	cube
+masaje	m0s	massage
+beca	f0s	grant, stipend; scholarship
+miseria	f0s	misery; poverty
+contenido	m0s	content; contents
+ritual	m0es	rite; ritual
+hilo	m0s	thread, yarn; linen
+matrícula	f0s	number plate, license plate
+raya	f0s	line; limit
+mascota	f0s	pet; mascot
+ascenso	m0s	ascent; promotion
+mercancía	f0s	ware, merchandise; goods
+choque	m0s	collision, accident
+águila	f0s	eagle
+líquido	m0s	liquid
+carbón	m2ones	coal; charcoal
+cocinero	m0s	cook
+medicación	f2ones	administration of medicine
+ácido	m0s	acid
+agresión	f2ones	aggression
+consulta	f0s	consultation; query
+barro	m0s	mud; clay
+jazz	m1ces	jazz
+multa	f0s	fine
+trabajador	m0es	worker
+misa	f0s	mass
+riqueza	f0s	wealth, affluence; riches
+ida	f0s	outward leg; going
+observación	f2ones	observation
+voluntario	m0s	volunteer
+puñado	m0s	handful, fistful; lot
+profundidad	f0es	depth
+pega	f0s	work; glue
+depresión	f2ones	depression
+afueras	f0	outskirts, suburbs
+vano	m0s
+brigada	f0s	team, squad; brigade
+pila	f0s	small battery; pile
+bahía	f0s	bay
+ayuntamiento	m0s	city hall, town hall; city council
+obligación	f2ones	obligation; bond
+filosofía	f0s	philosophy
+veredicto	m0s	verdict
+jabón	m2ones	soap
+concentración	f2ones	concentration; demonstration
+factura	f0s	bill, invoice; Danish pastry
+submarino	m0s	submarine; waterboarding
+afecto	m0s	fondness, affection
+invasión	f2ones	invasion; trespass
+tapa	f0s	lid, cap; bottom of a shoe's heel
+votación	f2ones	voting, vote
+heredero	m0s	heir
+brillo	m0s	shine, glow; brightness
+anciana	f0s
+hueco	m0s	hole, gap; hollow
+oficio	m0s	profession, occupation; office
+tejado	m0s	tiled roof
+torneo	m0s	tournament; competition
+hacha	f0s	axe, hatchet; ace
+burro	m0s	sawhorse; old maid
+etiqueta	f0s	label, tag; price tag
+referencia	f0s	reference
+polo	m0s	pole; polo
+costo	m0s	cost
+recorrido	m0s	route; journey
+núcleo	m0s	nucleus
+bodega	f0s	cellar; winery
+renta	f0s	income; rent
+inocencia	f0s	innocence
+estadio	m0s	stadium; stage
+elemento	m0s	element
+individuo	m0s	individual
+adicto	m0s	addict
+derrota	f0s	defeat; path
+orilla	f0s	shore, bank; edge
+chimenea	f0s	chimney; smokestack
+rehén	m2enes	hostage
+cicatriz	f1ces	scar
+fundación	f2ones	foundation
+argumento	m0s	argument; plot
+cobertura	f0s	coverage
+escritura	f0s	document, deed; writing
+vapor	m0es	steam, vapor
+cosecha	f0s	harvest, crop; vintage
+cuñado	m0s	brother-in-law; know-all
+tranquilidad	f0es	tranquility
+periodo	m0s
+furia	f0s	fury; rage
+tortuga	f0s	turtle; tortoise
+ficción	f2ones	fiction
+disciplina	f0s	discipline; subject
+privilegio	m0s	privilege
+secuencia	f0s	sequence
+falda	f0s	skirt; woman
+linea	f0s
+circuito	m0s	circuit
+aprobación	f2ones	approval; validation
+novedad	f0es	novelty
+ego	m0s	ego
+inspiración	f2ones	inspiration
+norma	f0s	rule, norm
+gripe	f0s	flu, influenza
+bus	m0es
+claridad	f0es	brightness; clarity
+escondite	m0s	hiding place; hide and seek
+denuncia	f0s	report, complaint
+detención	f2ones	arrest; detention
+perímetro	m0s	perimeter
+bloqueo	m0s	blockade; blockage
+portátil	m0es	notebook, laptop
+investigador	m0es	researcher, investigator
+hockey	m0es	hockey
+vicepresidente	m0s	vice president
+transferencia	f0s	transfer
+garantía	f0s	guarantee
+pasaje	m0s	passing, crossing; ticket
+portal	m0es	portal
+zorro	m0s	fox; opossum
+vestuario	m0s	clothing; wardrobe
+alimento	m0s	food; nourishment
+revisión	f2ones	revision; review
+salvación	f2ones	salvation
+baloncesto	m0s	basketball
+pacto	m0s	pact; contract
+vientre	m0s	abdomen; belly
+tomate	m0s	tomato
+césped	m0es	lawn; grass
+aplauso	m0s	applause
+rana	f0s	frog
+ansiedad	f0es	anxiety
+puño	m0s	fist; fistful
+rama	f0s	branch; offshoot
+retirada	f0s	withdrawal
+curva	f0s	curve
+portero	m0s	doorman, porter; bouncer
+algodón	m2ones	cotton
+crítico	m0s	critic
+entusiasmo	m0s	enthusiasm
+manejo	m0s	handling; driving
+saludo	m0s	greeting, greetings; salutation
+cohete	m0s	firecracker; rocket
+fórmula	f0s	formula
+limón	m2ones	lemon; lime
+jamón	m2ones	ham
+boom	m0es	boom
+esencia	f0s	essence; gist
+instrumento	m0s	instrument
+renuncia	f0s	resignation
+fusión	f2ones	fusion; melting
+sugerencia	f0s	suggestion
+promedio	m0s	average
+tela	f0s	cloth, fabric; difficult task
+especialidad	f0es	speciality
+crucero	m0s	cruise; cruise ship
+récord	m0s	record
+supermercado	m0s	supermarket
+caramelo	m0s	candy; caramel
+bienestar	m0es	well-being
+fiscalía	f0s	public prosecutor's office, district…
+competición	f2ones	competition
+guardaespaldas	m0	bodyguard
+inyección	f2ones	injection
+flecha	f0s	arrow
+armadura	f0s	armour; frame
+cruce	m0s	crossing; crosswalk
+músico	m0s	musician
+cigarro	m0s	cigar; cigarette
+farmacia	f0s	drugstore, pharmacy
+obispo	m0s	bishop
+maletero	m0s	trunk, boot
+fotógrafo	m0s	photographer
+crecimiento	m0s	growth
+mantenimiento	m0s	maintenance, support
+protector	m0es	protector
+portada	f0s	portal; cover
+ballet	m0s	ballet
+literatura	f0s	literature
+década	f0s	decade
+órbita	f0s	orbit
+flujo	m0s	flow; flux
+triple	m0s	triple; three-pointer
+pantano	m0s	swamp, marsh; moor
+set	m0s	set
+granjero	m0s	farmer
+dueña	f0s	mistress
+pausa	f0s	break, pause
+asilo	m0s	shelter, refuge; asylum
+diagnóstico	m0s	diagnosis
+enlace	m0s	link, connection; bond
+síndrome	m0s	syndrome
+normalidad	f0es	normality
+legado	m0s	legacy
+ingeniería	f0s	engineering
+rincón	m2ones	corner, angle; nook
+subasta	f0s	auction
+corrección	f2ones	correction; correctness
+tobillo	m0s	ankle
+categoría	f0s	category; standing
+dimensión	f2ones	dimension
+bloque	m0s	bloc; block
+ciclo	m0s	cycle; series
+descuento	m0s	discount; injury time
+infarto	m0s	infarct; heart attack
+obsesión	f2ones	obsession
+calendario	m0s	calendar
+servidor	m0es	server; yours truly
+altar	m0es	altar
+luchador	m0es	fighter, scrapper; wrestler
+vestíbulo	m0s	hall; lobby
+cuadra	f0s	city block; stable
+pobreza	f0s	poverty
+ambición	f2ones	ambition
+comisionado	m0s	commissioner
+captura	f0s	capture; catch
+persecución	f2ones	persecution; chase
+agradecimiento	m0s	gratitude; thanksgiving
+bici	f0s
+mejora	f0s	upturn; improvement
+tinta	f0s	ink
+nieta	f0s	granddaughter
+ruptura	f0s	breaking-off; rupture
+cepillo	m0s	brush; plane
+velada	f0s	evening, a soirée
+caravana	f0s	caravan; camper
+atracción	f2ones	attraction, pull
+reportero	m0s	reporter
+perfección	f2ones	perfection
+consentimiento	m0s	consent
+postura	f0s	position; pose
+apertura	f0s	opening; aperture
+bate	m0s	bat; reefer
+delta	m0s	Greek letter delta
+evaluación	f2ones	evaluation; exam
+estafa	f0s	scam, fraud; rip-off
+escopeta	f0s	shotgun
+orquesta	f0s	orchestra; band
+hábito	m0s	habit, custom
+integridad	f0es	integrity
+cardenal	m0es	cardinal
+entretenimiento	m0s	amusement; entertainment
+hembra	f0s	female
+convención	f2ones	convention
+contrabando	m0s	contraband, smuggled goods
+pintor	m0es	painter
+delantera	f0s	lead
+raíz	f1ces	root
+marea	f0s	tide
+judía	f0s	green bean
+acoso	m0s	harassment, bullying
+gallo	m0s	rooster, cock; megrim
+vínculo	m0s	tie, bond; link
+evolución	f2ones	evolution; development
+pelotón	m2ones	group, team; heap
+sudor	m0es	sweat
+desesperación	f2ones	desperation
+mito	m0s	myth
+rencor	m0es	grudge, rancor
+generador	m0es	generator
+muñeco	m0s	doll; puppet
+protesta	f0s	protest; objection
+ruina	f0s	ruin, decay; decline
+plaga	f0s	plague; nuisance
+sobredosis	f0	overdose
+independencia	f0s	independence
+exceso	m0s	excess, surfeit
+santuario	m0s	sanctuary, shrine
+sirena	f0s	siren; mermaid
+estándar	m0es	standard
+lavandería	f0s	laundry, laundromat
+farsa	f0s	charade, farce
+calibre	m0s	calibre; calipers
+dominio	m0s	domain; rule
+demostración	f2ones	demonstration
+separación	f2ones	separation
+esperma	m0s	sperm
+alias	m0	alias
+triunfo	m0s	triumph
+ballena	f0s	whale; baleen
+corrupción	f2ones	corruption
+terremoto	m0s	earthquake
+aparcamiento	m0s	parking; parking lot
+resumen	m4úmenes	summary, abstract; résumé
+automóvil	m0es	automobile
+contenedor	m0es	dumpster, skip; container
+barril	m0es	barrel
+adopción	f2ones	adoption
+satisfacción	f2ones	satisfaction
+varón	m2ones	person of male sex
+cooperación	f2ones	cooperation
+iniciativa	f0s	initiative
+regimiento	m0s	regiment
+orfanato	m0s	orphanage
+aborto	m0s	abortion; miscarriage
+cacería	f0s	hunt, hunting
+selección	f2ones	selection; choice
+honestidad	f0es	honesty
+culto	m0s	worship
+amabilidad	f0es	kindness
+manga	f0s	sleeve; set
+madrugada	f0s	dawn; early hours of the morning
+mariposa	f0s	butterfly; butterfly stroke
+ferrocarril	m0es	railway
+trofeo	m0s	trophy
+fractura	f0s	fracture
+apuro	m0s	difficulty, predicament; shortage
+balcón	m2ones	balcony
+paloma	f0s	dove, pigeon; penis
+instalación	f2ones	installation; production plant
+crío	m0s	kid
+emboscada	f0s	ambush
+finanzas	f0
+recta	f0s	straight line
+soga	f0s	rope; noose
+apodo	m0s	nickname, moniker
+paisaje	m0s	landscape; countryside
+lesión	f2ones	lesion
+entorno	m0s	entourage; surroundings
+preparación	f2ones	preparation
+participación	f2ones	participation
+promoción	f2ones	promotion; advocacy
+televisor	m0es	television set, TV set
+masacre	f0s	massacre
+desperdicio	m0s	waste
+inspección	f2ones	inspection
+factor	m0es	factor
+violín	m2ines	violin; fiddle
+chantaje	m0s	blackmail; extortion
+negativa	f0s	refusal, denial
+melodía	f0s	melody, tune
+entierro	m0s	burial, interment
+urgencia	f0s	urgency; emergency
+milla	f0s	mile
+plomo	m0s	lead; grey
+bufete	m0s	lawyer's office
+localización	f2ones	finding, location; localization
+tronco	m0s	trunk
+aplicación	f2ones	application; administering
+monja	f0s	nun
+herramienta	f0s	tool, an implement
+creador	m0es	creator
+monje	m0s	monk
+clavo	m0s	nail, spike; clove
+alumno	m0s	pupil, student
+terrorismo	m0s	terrorism
+soporte	m0s	support, strut; mount
+pólvora	f0s	gunpowder
+documental	m0es	documentary
+lazo	m0s	bow; ribbon
+gol	m0es	goal
+dificultad	f0es	awkwardness; difficulty
+institución	f2ones	institution
+intimidad	f0es	privacy; intimacy
+banquete	m0s	banquet; catering
+enfoque	m0s	focus; approach
+joya	f0s	jewellery, jewelry
+intervención	f2ones	intervention
+capilla	f0s	chapel
+reflejo	m0s	reflection; reflex
+contador	m0es	counter; measurer
+lote	m0s	lot
+virtud	f0es	virtue
+matón	m2ones	thug, bully
+continente	m0s	continent
+eco	m0s	echo
+probabilidad	f0es	probability; likelihood
+fraternidad	f0es	brotherhood; fraternity
+expedición	f2ones	expedition
+descarga	f0s	unloading; discharge
+estreno	m0s	premiere; first
+peste	f0s	plague; contagious disease
+software	m0s	software
+pasajero	m0s	passenger
+paja	f0s	straw
+caballería	f0s	cavalry; any animal used for riding
+puñetazo	m0s	punch with the fist
+psicología	f0s	psychology
+definición	f2ones	definition
+fugitivo	m0s
+artillería	f0s	artillery
+panel	m0es	panel
+asesor	m0es	advisor, consultant
+bando	m0s	faction, party; swarm
+resfriado	m0s	cold; flu
+tablero	m0s	board; checkerboard
+ética	f0s	ethic; ethics
+munición	f2ones	ammunition
+provecho	m0s	benefit; advantage
+botín	m2ines	booty, loot; swag
+rechazo	m0s	refusal; rejection
+exhibición	f2ones	exhibition, show
+consecuencia	f0s	consequence
+dvd	m0es	DVD
+laurel	m0es	laurel
+valla	f0s	fence; barricade
+arquitecto	m0s	architect
+establo	m0s	stable
+suministro	m0s	provision, supply
+aislamiento	m0s	isolation; insulation
+cargamento	m0s	load, freight
+célula	f0s	cell
+decepción	f2ones	disappointment, let-down; disillusionment
+representación	f2ones	representation
+carbono	m0s	carbon
+semestre	m0s	semester
+género	m0s	kind; genre
+refresco	m0s	cold drink; soda
+codo	m0s	elbow; cubit
+valentía	f0s	courage, bravery
+sustancia	f0s	substance
+reparto	m0s	delivery; allocation
+comunicado	m0s	communiqué, statement; press release
+seguimiento	m0s	monitoring; following
+discreción	f2ones	discretion
+comprensión	f2ones	comprehension, understanding
+frasco	m0s	bottle; jar
+convento	m0s	convent, monastery
+insulto	m0s	insult
+gabinete	m0s	cabinet
+excursión	f2ones	excursion, trip
+mecanismo	m0s	mechanism
+invento	m0s	invention; leash
+pulmón	m2ones	lung
+mostrador	m0es	counter; shower
+precisión	f2ones	precision
+freno	m0s	brake; bit
+comprador	m0es	buyer
+domicilio	m0s	address; residence
+bóveda	f0s	arch; vault
+gimnasia	f0s	gymnastics
+confirmación	f2ones	confirmation
+comparación	f2ones	comparison
+semilla	f0s	seed
+chatarra	f0s	scrap; small change
+cintura	f0s	waist
+monitor	m0es	monitor; instructor
+vagón	m2ones	train car
+régimen	m=regímenes	regime; regimen
+huracán	m2anes	hurricane
+cera	f0s	wax; crayon
+aroma	m0s	aroma
+misil	m0es	missile
+paradero	m0s	whereabouts, location; stop
+liderazgo	m0s	leadership
+olla	f0s	pot, pan; stew
+ocupación	f2ones	occupation
+obstáculo	m0s	obstacle; hurdle
+terraza	f0s	terrace; sidewalk cafe
+estancia	f0s	stay, residence; large farmstead
+éxtasis	m0	ecstasy
+colchón	m2ones	mattress; buffer
+espuma	f0s	foam, mousse
+cuarentena	f0s	quarantine; forty days
+interpretación	f2ones	interpretation; interpreting
+precaución	f2ones	precaution
+pastilla	f0s	pill; cake
+administrador	m0es	administrator
+latín	m0es	Latin
+francotirador	m0es	sniper
+desprecio	m0s	scorn, contempt
+peinado	m0s	hairstyle; hairdo
+anfitrión	m2ones	host
+tutor	m0es	guardian; tutor
+kilo	m0s	kilo; million pesetas
+medicamento	m0s	medicine, medicament
+oveja	f0s	sheep
+cadera	f0s	hip; chair
+mérito	m0s	merit
+santidad	f0es	sanctity, holiness
+blues	m0	blues
+defensor	m0es	defender; advocate
+villano	m0s	villain, bad guy
+cobre	m0s	copper
+mejilla	f0s	cheek
+palanca	f0s	lever; leverage
+consideración	f2ones	consideration; thoughtfulness
+rebelión	f2ones	rebellion
+motocicleta	f0s	motorcycle
+sede	f0s	seat, headquarters; venue
+cría	f0s	kid, pup; litter
+torno	m0s	lathe; winch
+tentación	f2ones	temptation
+fanático	m0s	fan; fanatic
+cuerno	m0s	horn; croissant
+sillón	m2ones	armchair; recliner
+libra	f0s	pound
+trigo	m0s	wheat
+recomendación	f2ones	recommendation
+nudo	m0s	knot
+concejal	m0es	member of a council, councilman
+arroyo	m0s	stream, brook
+evacuación	f2ones	evacuation
+píldora	f0s	pill
+escocés	m2eses	Scotsman; Scottish Gaelic language
+bandido	m0s	outlaw, bandit
+filme	m0s	film, motion picture
+marqués	m0es	marquess
+mandíbula	f0s	jaw
+langosta	f0s	lobster; locust
+decano	m0s	senior, eldest person; decane
+bailarín	m2ines	dancer
+ancho	m0s	width, breadth
+ajo	m0s	garlic; profanity
+angustia	f0s	anguish, distress; anxiety
+documentación	f2ones	documentation
+quiebra	f0s	crack; bankruptcy
+hipoteca	f0s	mortgage
+facilidad	f0es	ease
+harina	f0s	flour; cocaine
+batallón	m2ones	battalion
+despido	m0s	layoff; dismissal
+inmigración	f2ones	immigration
+colapso	m0s	collapse
+cápsula	f0s	capsule
+bombero	m0s	firefighter
+lodo	m0s	mud
+tránsito	m0s	traffic, transit
+funcionamiento	m0s	functioning
+demora	f0s	delay
+aficionado	m0s	fan, supporter
+burla	f0s	mockery, taunt; prank
+respaldo	m0s	support; backup
+ofensiva	f0s	offensive
+inconveniente	m0s	problem, trouble; drawback
+corporación	f2ones	corporation; council
+chispa	f0s	spark
+grandeza	f0s	grandeur; grandeeship
+retorno	m0s	return
+aliado	m0s	ally
+gasolinera	f0s	petrol can, gas can; petrol-powered boat
+tasa	f0s	tax; rate
+helada	f0s	frost; freezing
+defecto	m0s	defect, fault; flaw
+lecho	m0s	bed
+sinceridad	f0es	honesty, sincerity
+jinete	m0s	horseman, horsewoman
+traslado	m0s	move, removal; transfer
+camello	m0s	camel; pusher
+taco	m0s	taco; peg
+caminata	f0s	walk, hike
+guardería	f0s	nursery school, kindergarden
+cartero	m0s	postman
+explosivo	m0s	explosive
+labor	f0es	job, task; work
+matanza	f0s	kill; massacre
+fax	m0es	fax
+conmoción	f2ones	commotion, agitation; concussion
+jurisdicción	f2ones	jurisdiction
+oposición	f2on	opposition
+intruso	m0s	intruder; gatecrasher
+artefacto	m0s	device, contraption; artifact
+cancha	f0s	pitch, field; course
+laberinto	m0s	labyrinth
+horizonte	m0s	horizon
+despegue	m0s	takeoff
+cajero	m0s	cashier; teller
+abandono	m0s	abandonment
+rol	m0es	role; roll
+armonía	f0s	harmony
+salmón	m2ones	salmon
+arteria	f0s	artery
+contexto	m0s	context
+aparición	f2ones	appearance
+racha	f0s	gust of wind, squall; streak
+distribución	f2ones	distribution
+rezo	m0s	prayer
+veterinario	m0s	veterinarian, vet
+pornografía	f0s	pornography
+insecto	m0s	insect
+propaganda	f0s	propaganda; advertisement
+iluminación	f2ones	lighting
+vacuna	f0s	vaccine
+ironía	f0s	irony
+tregua	f0s	truce; rest
+soborno	m0s	bribery
+volcán	m2anes	volcano
+consumo	m0s	consumption
+atraco	m0s	mugging, robbery; assault
+ciervo	m0s	deer, stag
+generosidad	f0es	generosity
+caña	f0s	cane; reed
+rodaje	m0s	shooting; roadway
+montaje	m0s	assembly; arrangement
+donación	f2ones	donation
+estanque	m0s	pool, pond; small reservoir
+creencia	f0s	belief
+alojamiento	m0s	accommodation, lodging
+inventario	m0s	inventory
+navegación	f2ones	navigation; sailing
+seminario	m0s	seminar; seminary
+pantalón	m2ones	trousers, pants
+sonda	f0s	probe; catheter
+ingreso	m0s	entrance, ingress; income
+esclavitud	f0es	slavery
+cesta	f0s	basket; laundry basket
+cuervo	m0s	crow; raven
+orientación	f2ones	orientation; orienteering
+duquesa	f0s	duchess
+empuje	m0s	thrust; boost
+recurso	m0s	resource, means; appeal
+músculo	m0s	muscle tissue
+contabilidad	f0es	accountancy
+buque	m0s	ship, vessel
+escritora	f0s
+poste	m0s	post, pole
+acogida	f0s	welcome, reception
+injusticia	f0s	injustice
+ficha	f0s	chip, token; index card
+lema	m0s	motto; slogan
+inauguración	f2ones	inauguration
+tope	m0s	butt, end; top
+variedad	f0es	variety; breed
+azotea	f0s	bonce, noggin; roof terrace
+cóctel	m0es	cocktail; cocktail party
+biología	f0s	biology
+luto	m0s	mourning
+reactor	m0es	jet engine; rocket engine
+kilómetro	m0s	kilometre
+spa	m0s	spa
+acera	f0s	pavement, sidewalk
+bombardeo	m0s	bombing; bombardment
+tendencia	f0s	tendency; trend
+profecía	f0s	foresight; prophecy
+extensión	f2ones	tract; extension
+niñez	f1ces	childhood
+parrilla	f0s	grill; grid
+porcentaje	m0s	percentage
+impuesto	m0s	tax, levy; impost
+sensibilidad	f0es	sensibility; sensitivity
+negociación	f2ones	negotiation
+desacuerdo	m0s	disagreement
+rapidez	f1ces	speed
+fibra	f0s	fiber
+llanto	m0s	crying
+sustituto	m0s	substitute
+remolque	m0s	trailer; towing
+adelanto	m0s	advance; down payment
+infantería	f0s	infantry
+nuca	f0s	nape, back of the neck
+trueno	m0s	clap of thunder
+molino	m0s	mill
+suspensión	f2ones	suspension; hanging
+médula	f0s	marrow; medulla
+librería	f0s	bookshop, bookstore; bookcase
+trío	m0s	trio, threesome
+finca	f0s	real estate; farm
+blog	m0es	blog
+asamblea	f0s	assembly, meeting
+simpatía	f0s	sympathy
+actualidad	f0es	present; piece of news
+bono	m0s	bond; voucher
+cumbre	f0s	summit, peak
+trama	f0s	weave, weft; plot
+capitana	f0s	captain's wife
+humedad	f0es	humidity; moisture
+intuición	f2ones	intuition
+marcador	m0es	scoreboard; marker
+arca	f0s	ark, chest
+exilio	m0s	exile
+enmienda	f0s	correction; amendment
+burdel	m0es	brothel, whorehouse
+tapadera	f0s	lid, cover; disguise
+tango	m0s	tango
+maniobra	f0s	maneuver
+mozo	m0s	boy, lad; waiter
+timón	m2ones	rudder; tiller
+crueldad	f0es	cruelty
+trayectoria	f0s	trajectory; course
+gala	f0s	gala; elegant dress
+pescador	m0es	fisherman, fisher
+viajero	m0s	traveller, traveler
+psicólogo	m0s	psychologist
+empresario	m0s	businessman; entrepreneur
+corteza	f0s	bark; rind
+correspondencia	f0s	correspondence; connection
+brecha	f0s	breach; gap
+fruto	m0s	profit from an activity; offspring
+vómito	m0s	vomit
+esqueleto	m0s	skeleton; frame
+antigüedad	f0es	antiquity; antique
+joyería	f0s	jewelry shop / store
+tambor	m0es	drum
+proposición	f2ones	proposition
+secuestrador	m0es	kidnapper; hijacker
+campesino	m0s	farmer; peasant
+órgano	m0s	organ
+reemplazo	m0s	replacement
+octavo	m0s	eighth
+jornada	f0s	day; working day
+tirada	f0s	shooting; throw
+ladrillo	m0s	brick
+funcionario	m0s	official, public official; officeholder
+lavabo	m0s	bathroom sink, washbasin
+detector	m0es	detector
+ignorancia	f0s	ignorance
+provincia	f0s	province
+tesis	f0	thesis
+repuesto	m0s	spare, spare part
+organismo	m0s	organism, creature; human body
+abismo	m0s	abyss
+prostitución	f2ones	prostitution
+determinación	f2ones	decision; setting
+noción	f2ones	notion
+resolución	f2ones	resolution
+cordón	m2ones	cord; lace
+espionaje	m0s	espionage
+homenaje	m0s	homage, tribute
+apartado	m0s	backroom; booth
+drogadicto	m0s	drug addict, drughead
+espectro	m0s	spectrum; spectre
+pabellón	m2ones	pavilion; operating room
+tropa	f0s	troop, crowd; army
+abdomen	m0es	abdomen
+banca	f0s	small bench; seat
+transición	f2ones	transition; shift
+boxeador	m0es	boxer
+atentado	m0s	violent attack, bombing; attempt
+canasta	f0s	basket; canasta
+monumento	m0s	monument
+antena	f0s	antenna
+colaboración	f2ones	collaboration
+taquilla	f0s	ticket office, booking office
+banquero	m0s	banker
+temperamento	m0s	temperament
+patata	f0s	potato; piece of rubbish
+cuota	f0s	quota; installment
+igualdad	f0es	equality
+carnaval	m0es	carnival
+revelación	f2ones	revelation; insight
+bota	f0s	boot; wineskin
+élite	f0s	elite
+trastorno	m0s	disorder; disturbance
+explorador	m0es	explorer
+operadora	f0s
+ejemplar	m0es	exemplar, example; specimen
+rodeo	m0s	detour; talk around
+noroeste	m0s	northwest
+triángulo	m0s	triangle
+titular	m0es	headline; holder
+catástrofe	f0s	catastrophe, disaster
+filmación	f2ones	filming
+crudo	m0s	crude oil; dish made of raw meat or fish
+cálculo	m0s	calculation, estimation; arithmetic
+alambre	m0s	wire
+ingenio	m0s	genius, wit; mind
+grúa	f0s	tow truck; crane
+ganancia	f0s	profit, gain
+percepción	f2ones	perception, perceiving
+supervisión	f2ones	supervision
+decoración	f2ones	decoration
+dato	m0s	datum
+acantilado	m0s	cliff
+aburrimiento	m0s	boredom
+audio	m0s	audio
+epidemia	f0s	epidemic
+moción	f2ones	motion
+imitación	f2ones	knockoff; impression
+cruzada	f0s	crusade
+disputa	f0s	feud, fight; contention
+cifra	f0s	digit; number
+veterano	m0s	veteran
+manifestación	f2ones	demonstration, protest; manifestation
+devoción	f2ones	devotion
+mango	m0s	handle; mango
+gasto	m0s	expenditure, cost; spending
+extracción	f2ones	extraction
+proveedor	m0es	supplier, provider
+eliminación	f2ones	elimination
+transformación	f2ones	transformation
+himno	m0s	hymn; anthem
+murciélago	m0s	bat
+perla	f0s	pearl; bead
+balance	m0s	balance
+zar	m0es	tsar, czar
+circulación	f2ones	traffic; circulation
+conquista	f0s	conquest
+hoguera	f0s	campfire; bonfire
+celebridad	f0es	celebrity
+diputado	m0s	deputy
+resonancia	f0s	resonance; impact
+bancarrota	f0s	bankruptcy
+monasterio	m0s	monastery
+válvula	f0s	valve
+casita	f0s	small house
+arranque	m0s	startup; snatch
+carnet	m0s
+alimentación	f2ones	feeding
+grieta	f0s	crack, chink; chap
+agrado	m0s	pleasure; liking
+ponche	m0s	punch
+hipótesis	f0	hypothesis
+flora	f0s	flora
+gemelo	m0s	twin; calf
+porción	f2ones	portion; part
+reportaje	m0s	report, article
+chófer	m0es
+apelación	f2ones	appeal; vocation
+pino	m0s	pine
+índice	m0s	index; index finger
+metáfora	f0s	metaphor
+derrame	m0s	leakage, effusion; stroke
+espina	f0s	thorn; fishbone
+rendimiento	m0s	performance; yield
+tercio	m0s	tercio; 0.33 liter bottle of beer
+diálogo	m0s	dialogue
+motivación	f2ones	motivation
+arrogancia	f0s	arrogance
+presidencia	f0s	presidency
+mentor	m0es	mentor
+ajuste	m0s	adjustment, fine-tuning; fit
+observador	m0es	observer
+diseñador	m0es	designer
+calentamiento	m0s	warming; warm-up
+tractor	m0es	tractor
+compensación	f2ones	compensation; tradeoff
+tubería	f0s	tubing, piping
+exploración	f2ones	exploration; scan
+arquitectura	f0s	architecture; architectonics
+carpa	f0s	tent
+empate	m0s	draw, tie; dead heat
+reparación	f2ones	reparation; comeback
+desvío	m0s	detour, diversion; redirection
+conducto	m0s	duct; pipeline
+pirámide	f0s	pyramid
+morada	f0s	abode, dwelling; resting place
+acta	f0s	certificate; minutes
+diligencia	f0s	diligence; errand
+bronce	m0s	bronze
+editorial	f0es	editorial
+trapo	m0s	any piece of cloth; rag
+agonía	f0s	agony, throes
+ternera	f0s	veal, beef; heifer
+prototipo	m0s	prototype; paragon
+peón	m2ones	foot soldier, infantryman
+programación	f2ones	programming, setting; programme
+árbitro	m0s	official
+interferencia	f0s	interference
+altitud	f0es	height; altitude
+erupción	f2ones	eruption; rash
+brujería	f0s	sorcery, witchcraft; spell
+gen	m0es	gene
+realeza	f0s	royalty
+panza	f0s	paunch; stomach
+extinción	f2ones	extinction
+bocadillo	m0s	sandwich; snack
+foco	m0s	focus; spotlight
+circunstancia	f0s	circumstance
+catedral	f0es	cathedral
+peluquería	f0s	hair salon, hairdressing salon
+concha	f0s	seashell
+maratón	m2ones	marathon
+intensidad	f0es	intensity
+mudanza	f0s	move, relocation; removal
+pilar	m0es	pillar, pier
+honra	f0s	honor
+expansión	f2ones	expansion, expanse
+reposo	m0s	rest
+codicia	f0s	greed, avarice
+decencia	f0s	respectability; decency
+fragmento	m0s	fragment; clip
+aprendizaje	m0s	learning; apprenticeship
+esfera	f0s	sphere
+monseñor	m0es	Monsignor
+composición	f2ones	composition
+vena	f0s	vein
+manuscrito	m0s	manuscript
+dinosaurio	m0s	dinosaur
+comodidad	f0es	convenience; comfort
+eje	m0s	axis; axle
+cm	m0es
+legión	f2ones	legion
+vivienda	f0s	housing, dwelling
+entendimiento	m0s	understanding
+credibilidad	f0es	credibility
+cereal	m0es	cereal
+puntuación	f2ones	punctuation; score
+víspera	f0s	eve
+labio	m0s	lip; labium
+fundador	m0es	founder
+contribución	f2ones	contribution; tax
+agricultura	f0s	agriculture, farming
+tarifa	f0s	fare; fee
+parroquia	f0s	parish
+sapo	m0s	toad; very curious person
+trompeta	f0s	trumpet; trumpeter
+horca	f0s	gallows; pitchfork
+narrador	m0es	narrator, storyteller; commentator
+trance	m0s	trance
+recipiente	m0s	vessel, container
+negación	f2ones	denial
+plátano	m0s	banana; plantain
+pitido	m0s	whistle, beep; bleep
+instructor	m0es	instructor, teacher
+liza	f0s	battle, fight; list
+ventilador	m0es	fan, ventilator
+falsificación	f2ones	counterfeit, fake
+armamento	m0s	equipment; armament
+admisión	f2ones	admittance; approval
+doctorado	m0s	doctorate
+entrante	m0s
+longitud	f0es	length; longitude
+aprieto	m0s	predicament, bind
+operador	m0es	operator
+grifo	m0s	tap, faucet; griffin
+ventanilla	f0s	window of a vehicle, porthole
+carpeta	f0s	folder
+siniestro	m0s	accident, catastrophe
+opio	m0s	opium
+hidrógeno	m0s	hydrogen
+telescopio	m0s	telescope
+milicia	f0s	army; military service
+trasplante	m0s	transplant
+módulo	m0s	module
+enseñanza	f0s	teaching
+verdugo	m0s	executioner, hangman; tyrant
+cúpula	f0s	cupola, dome; leadership
+veto	m0s	veto
+póliza	f0s	policy
+jubilación	f2ones	retirement; pension
+mineral	m0es	mineral
+maternidad	f0es	motherhood; maternity
+popa	f0s	stern
+reforma	f0s	reform
+recreo	m0s	recreation; recess
+buscador	m0es	seeker; prospector
+descenso	m0s	descent; decline
+brote	m0s	sprout, bud; outbreak
+tributo	m0s	tribute
+consejera	f0s
+filtro	m0s	filter
+maquinaria	f0s	machinery
+reglamento	m0s	policy, rules
+fidelidad	f0es	loyalty, fidelity
+farol	m0es	lantern; headlight
+convoy	m0es	convoy
+equivalente	m0s
+arrepentimiento	m0s	regret; repentance
+contaminación	f2ones	pollution
+cobro	m0s	payment, paying; cashing
+musulmán	m2anes	Muslim
+acontecimiento	m0s	event, development
+secta	f0s	cult; sect
+neumático	m0s	tyre
+diarrea	f0s	diarrhea
+tonelada	f0s	ton, metric ton
+zumbido	m0s	buzz, hum
+cólera	f0s	anger, rage; cholera
+magistrado	m0s	judge
+reconstrucción	f2ones	reconstruction
+discoteca	f0s	discotheque, club
+proyección	f2ones	projection; planning
+mendigo	m0s	beggar
+nuez	f1ces	nut; walnut
+penique	m0s	penny
+ecuación	f2ones	equation
+nostalgia	f0s	nostalgia
+natación	f2ones	swimming
+décimo	m0s	tenth, ¹⁄₁₀; participation in the lottery
+centímetro	m0s	centimetre
+carpintero	m0s	carpenter; woodpecker
+cartón	m2ones	cardboard, paperboard; cardboard box
+tortilla	f0s	Spanish omelette, tortilla
+merced	m0es	mercy
+jueza	f0s	wife of a judge
+delantero	m0s	forward, striker
+instrucción	f2ones	instruction
+nobleza	f0s	nobility
+relato	m0s	story; report
+vocación	f2ones	vocation
+diccionario	m0s	dictionary, wordbook
+laguna	f0s	lagoon; lake
+mandato	m0s	mandate
+folleto	m0s	pamphlet, brochure
+yeso	m0s	plaster, gesso; gypsum
+catálogo	m0s	catalog
+sastre	m0s	tailor
+empujón	m2ones	shove, push; boost
+negligencia	f0s	neglect; malpractice
+compositor	m0es	composer
+establecimiento	m0s	establishment
+vanidad	f0es	vanity; pomp
+emisión	f2ones	emission; broadcast
+proa	f0s	bow, prow
+aluminio	m0s	aluminum
+lona	f0s	canvas; sail cloth
+loro	m0s	parrot, parakeet; chatterbox
+tolerancia	f0s	tolerance; forbearance
+agresor	m0es	aggressor, assailant
+balsa	f0s	puddle, pool; raft
+puntería	f0s	aim, aiming; shot
+paternidad	f0es	fatherhood; paternity
+criterio	m0s	criterion
+motín	m0es	mutiny
+matriz	f1ces	uterus; head office or store
+estatus	m0	status
+esquí	m0s	ski; skiing
+delantal	m0es	apron
+plancha	f0s	iron; ironing
+ternura	f0s	tenderness
+capricho	m0s	caprice, vagary
+admiración	f2ones	admiration
+directiva	f0s	board of directors
+imán	m2anes	magnet; attraction
+puja	f0s	bid; struggle
+canela	f0s	cinnamon
+caldo	m0s	clear soup, broth; stock
+vicio	m0s	vice; bad habit
+empeño	m0s	obligation; persistence
+seno	m0s	breast; sinus
+dedicación	f2ones	dedication
+parche	m0s	patch; eyepatch
+cultivo	m0s	crop; growing
+elegancia	f0s	elegance; smartness
+fachada	f0s	façade
+planificación	f2ones	planning
+receso	m0s	recess
+coordinación	f2ones	coordination
+diploma	m0s	diploma
+receptor	m0es	receiver, receptor; catcher
+recuento	m0s	looking back, or taking stock
+mártir	m0es	martyr
+costilla	f0s	rib
+inscripción	f2ones	inscription; registration
+pulpo	m0s	octopus; bungee cord
+estabilidad	f0es	stability
+nervio	m0s	nerve
+gamma	f0s	gamma
+grueso	m0s	width, breadth; majority
+uña	f0s	fingernail, toenail; claw
+porro	m0s	leek; joint
+corral	m0es	corral, enclosure
+boletín	m2ines	bulletin; newsletter
+asignación	f2ones	allowance, salary
+recaudación	f2ones	revenue; collection
+revancha	f0s	revenge; rematch
+prohibición	f2ones	prohibition
+reproducción	f2ones	reproduction, procreation
+abundancia	f0s	abundance
+equipamiento	m0s	equipment, gear
+filo	m0s	edge, cutting edge
+umbral	m0es	doorstep; threshold
+transacción	f2ones	transaction; settlement agreement
+piña	f0s	pinecone; pineapple
+dinastía	f0s	dynasty
+ofensa	f0s	insult; offense
+superhéroe	m0s	superhero
+escultura	f0s	sculpture
+arcilla	f0s	clay
+pingüino	m0s	penguin; student
+encaje	m0s	fitting; lace
+prosperidad	f0es	prosperity
+inmortalidad	f0es	immortality
+frustración	f2ones	frustration
+telón	m2ones	curtain; fabric
+rampa	f0s	ramp; cramp
+albergue	m0s	hostel
+trimestre	m0s	trimester
+imprenta	f0s	printing; printing press
+marioneta	f0s	marionette, puppet
+momia	f0s	mummy; right-winger
+suspiro	m0s	sigh; meringue
+manifiesto	m0s	manifesto
+broche	m0s	clasp, brooch; paperclip
+cualidad	f0es	quality
+carné	m0s	identity card; driver's licence
+turismo	m0s	tourism; private car
+cargador	m0es	charger; magazine
+muslo	m0s	thigh
+apagón	m2ones	blackout
+reducción	f2ones	reduction
+alcantarilla	f0s	sewer; manhole
+gitano	m0s	Gypsy
+síntoma	m0s	symptom
+contención	f2ones	holding back; self-control
+aviación	f2ones	aviation
+repartidor	m0es	distributor, dealer; deliveryman
+gestión	f2ones	process; management
+faraón	m2ones	pharaoh
+buey	m0es	ox, bullock; guy
+panorama	m0s	scenery; panorama
+meditación	f2ones	meditation
+enfrentamiento	m0s	fighting, strife; addressing
+obrero	m0s	worker
+cansancio	m0s	tiredness
+citación	f2ones	quotation, citation; summons
+litro	m0s	litre
+uva	f0s	grape
+gama	f0s	color scale, palette; musical scale
+equivocación	f2ones	error, mistake
+aro	m0s	hoop; large ring
+periodismo	m0s	journalism
+manipulación	f2ones	manipulation
+popularidad	f0es	popularity
+analista	m0s	analyst
+indicio	m0s	clue, hint; sign
+colectivo	m0s	public bus; collective
+prestigio	m0s	cachet; prestige
+intriga	f0s	intrigue
+recinto	m0s	area, site; enclosure
+mentalidad	f0es	mentality
+ametralladora	f0s	machine gun
+noreste	m0s	northeast
+patrimonio	m0s	estate, property; assets
+inundación	f2ones	inundation, flood
+redacción	f2ones	essay, composition; drafting
+reinado	m0s	reign
+simulación	f2ones	simulation
+neumonía	f0s	pneumonia
+rotación	f2ones	rotation
+ingrediente	m0s	ingredient
+linaje	m0s	ancestry, lineage
+extorsión	f2ones	extortion
+pretexto	m0s	pretext
+pegada	f0s	punch
+nómina	f0s	payroll; salary
+inquilino	m0s	tenant, renter; tenant farmer
+expulsión	f2ones	expulsion
+fusil	m0es	rifle
+intestino	m0s	intestine
+esquema	m0s	outline; scheme
+totalidad	f0es	all, whole; totality
+tranvía	m0s	tram
+sartén	f2enes	frying pan
+sucesor	m0es	successor
+verso	m0s	verse, poem
+portador	m0es	carrier, bearer
+encuesta	f0s	poll; inquiry
+conducción	f2ones	driving; conduction
+delegación	f2ones	delegation
+ticket	m0es	receipt
+lechuga	f0s	lettuce
+caldera	f0s	cauldron; boiler
+costura	f0s	needlework, sewing; seam
+introducción	f2ones	introduction; opening
+huida	f0s	flight
+humildad	f0es	humility, humbleness
+psiquiatría	f0s	psychiatry
+actualización	f2ones	update
+subconsciente	m0s
+revuelta	f0s	revolt
+animación	f2ones	animation; jauntiness
+tornillo	m0s	screw
+mordisco	m0s	bite
+coste	m0s	cost
+colisión	f2ones	collision, clash
+aula	f0s	classroom
+feto	m0s	fetus; ugly person
+enfado	m0s	anger
+sabotaje	m0s	sabotage
+carril	m0es	lane; track
+borrador	m0es	draft; eraser
+comunión	f2ones	communion
+restricción	f2ones	restriction; constraint
+comunismo	m0s	communism
+pronóstico	m0s	forecast, prognosis
+almacenamiento	m0s	storage, storing; stockpiling
+filósofo	m0s	philosopher
+barbero	m0s	barber
+embarque	m0s	boarding, loading
+invención	f2ones	invention
+colmo	m0s	summit, top; height
+prenda	f0s	garment; pledge
+latino	m0s	Latino
+uranio	m0s	uranium
+dinámica	f0s	dynamic, dynamics
+precipicio	m0s	cliff, precipice; abyss
+usuario	m0s	user
+obsequio	m0s	gift, present
+rendición	f2ones	surrender
+creatividad	f0es	creativity
+arbusto	m0s	bush, shrub
+distribuidor	m0es	distributor; hall
+informática	f0s	computer science, informatics
+escalón	m2ones	step; grade
+manía	f0s	mania, bad habit
+suceso	m0s	event, happening; outcome
+adversario	m0s	adversary, opponent
+muralla	f0s	large wall built to protect cities or…
+publicación	f2ones	publication
+delfín	m2ines	dolphin; dauphin
+lágrima	f0s	tear, teardrop
+semáforo	m0s	traffic light; semaphore
+acuario	m0s	aquarium; Aquarius
+parálisis	f0	paralysis
+subida	f0s	rise; acclivity
+mención	f2ones	mention
+rabo	m0s	tail; peduncle
+simulacro	m0s	drill, fire drill; simulation
+lector	m0es	reader
+hongo	m0s	mushroom; fungus
+depredador	m0es	predator
+portavoz	m1ces	megaphone; spokesperson
+recital	m0es	recital; gig
+bronca	f0s	reprimand, earful; outcry
+formalidad	f0es	formality
+recogida	f0s	pickup; harvest
+tirano	m0s	tyrant
+plantación	f2ones	plantation
+estatura	f0s	height; stature
+teclado	m0s	keyboard
+lanzador	m0es	pitcher
+trayecto	m0s	route, journey
+aceptación	f2ones	acceptance
+excitación	f2ones	arousal
+higiene	f0s	hygiene
+acercamiento	m0s	approach; rapprochement
+beneficencia	f0s	beneficence, charity
+anhelo	m0s	longing, desire
+ahorro	m0s	saving
+patente	f0s	patent; license plate of a vehicle
+desventaja	f0s	disadvantage, drawback
+heredera	f0s
+brutalidad	f0es	brutality
+ceniza	f0s	ash
+búho	m0s	owl, eagle owl; informant
+patinaje	m0s	skating
+escasez	f1ces	shortage, scarcity
+delegado	m0s	delegate; agent
+convicción	f2ones	conviction
+memorial	m0es	memorial
+fertilidad	f0es	fertility
+duración	f2ones	duration, length
+párrafo	m0s	paragraph; chat
+suspenso	m0s	suspense; cliffhanger
+disgusto	m0s	displeasure; chagrin
+emisora	f0s	radio station
+siervo	m0s	servant; serf
+directorio	m0s	directory; directive
+foro	m0s	forum
+huerto	m0s	orchard; fruit and vegetable garden
+indemnización	f2ones	indemnity
+céntimo	m0s	hundredth; ¹⁄₁₀₀ of a euro
+desagüe	m0s	drainage, gutter
+tirón	m2ones	tug, pull
+obediencia	f0s	obedience
+anticipo	m0s	advance
+alza	f0s	rise
+sable	m0s	saber, cutlass
+vejez	f1ces	old age
+congregación	f2ones	congregation
+candidata	f0s
+mezquita	f0s	mosque; Native American religious site
+financiación	f2ones	financing, funding
+garra	f0s	claw, talon; paw
+controlador	m0es	control freak; controller
+pasarela	f0s	catwalk; footbridge
+remate	m0s	auction; mercy killing
+manto	m0s	shroud, cloak; mantle
+intermediario	m0s	intermediary; middleman
+racismo	m0s	racism
+campeona	f0s
+hormiga	f0s	ant
+lencería	f0s	lingerie
+mazo	m0s	hammer; mallet
+buffet	m0es	buffet
+magnitud	f0es	magnitude
+afirmación	f2ones	claim or statement of something believed…
+retaguardia	f0s	rearguard
+mosquito	m0s	mosquito; gnat
+reclutamiento	m0s	draft, conscription
+arzobispo	m0s	archbishop
+celo	m0s	zeal; heat
+sensor	m0es	sensor
+delicia	f0s	delight; pleasure
+sábana	f0s	sheet
+saturación	f2ones	saturation; weariness
+lápida	f0s	tombstone, gravestone
+consultor	m0es	consultant
+curación	f2ones	cure; recovery
+sequía	f0s	drought
+excavación	f2ones	excavation
+monto	m0s	amount
+reclamo	m0s	complaint; advertisement
+decreto	m0s	decree
+bachillerato	m0s	graduation certificate
+torpedo	m0s	torpedo
+zurdo	m0s	left-handed person, lefty; left-winger
+milenio	m0s	millennium
+réplica	f0s	replica; reply
+destreza	f0s	skill, adroitness; dexterity
+censura	f0s	censure; censorship
+peluquero	m0s	barber, hairdresser
+anulación	f2ones	annulment
+descendiente	m0s	descendant, offspring
+décima	f0s	ten-line stanza
+procurador	m0es	attorney, agent
+madurez	f1ces	maturity
+ombligo	m0s	navel, belly button
+sanidad	f0es	health
+vanguardia	f0s	vanguard, forefront; avantgarde
+presentador	m0es	presenter; host
+poblado	m0s	settlement
+foso	m0s	ditch, trench; moat
+capitalismo	m0s	capitalism
+solidaridad	f0es	solidarity
+cláusula	f0s	clause
+híbrido	m0s	hybrid
+desempleo	m0s	unemployment
+azafata	f0s	stewardess, flight attendant
+demo	m0s	demo
+chat	m0s	chat
+coronación	f2ones	coronation
+rugby	m0es	rugby
+geografía	f0s	geography; territory
+cantera	f0s	quarry; talent
+instancia	f0s	request; institution
+iniciación	m2ones	initiation
+camuflaje	m0s	camouflage
+ración	f2ones	portion; ration
+filtración	f2ones	filtration; leak
+eficiencia	f0s	efficiency
+constructor	m0es	constructor, builder
+crónica	f0s	chronicle
+balanza	f0s	balance, scale; comparative estimate
+calzado	m0s	footgear
+vestimenta	f0s	clothes, outfit; vesture
+despliegue	m0s	unfolding; deployment
+destacamento	m0s	detachment, detail
+fracción	f2ones	fraction; part
+cono	m0s	cone
+discriminación	f2ones	discrimination
+patrocinador	m0es	sponsor
+dictador	m0es	dictator
+miniatura	f0s	miniature
+desempeño	m0s	performance
+especulación	f2ones	speculation
+mitología	f0s	mythology
+escalada	f0s	increase, rise; climbing
+esplendor	m0es	splendour, splendor
+venado	m0s	deer, stag; venison
+productora	f0s	producer
+explotación	f2ones	exploitation
+algoritmo	m0s	algorithm
+tuberculosis	f0	tuberculosis
+fabricación	f2ones	manufacturing
+precedente	m0s	precedent
+yen	m0es	yen
+cristianismo	m0s	Christianity
+destello	m0s	sparkling; sparkle
+refuerzo	m0s	strengthening; reinforcement
+banquillo	m0s	dock; bench
+rito	m0s	rite, ritual
+lóbulo	m0s	lobe; lobule
+guarnición	f2ones	garrison; garnish
+entidad	f0es	entity
+cártel	m0es
+razonamiento	m0s	reasoning
+urna	f0s	urn; poll
+jubilado	m0s	retiree, pensioner
+clientela	f0s	clientele
+dúo	m0s	duo
+proteína	f0s	protein
+abad	m0es	abbot
+elenco	m0s	list, directory; cast
+contusión	f2ones	contusion
+fontanero	m0s	plumber
+fatiga	f0s	fatigue; creep
+sucursal	f0es	branch
+componente	m0s	component; member
+compartimento	m0s	compartment
+inventor	m0es	inventor
+adquisición	f2ones	procurement
+tiranía	f0s	tyranny
+platillo	m0s	saucer; cymbal
+hostilidad	f0es	hostility
+relevo	m0s	relief; relay
+desertor	m0es	deserter
+prodigio	m0s	prodigy
+títere	m0s	puppet; marionette
+nativo	m0s	native of a place
+cerda	f0s	sow; bristle
+descuido	m0s	oversight, mistake; incaution
+optimismo	m0s	optimism
+rector	m0es	rector
+bacteria	f0s	bacterium
+debut	m0es	debut
+saga	f0s	saga
+elite	f0s
+distinción	f2ones	distinction
+biografía	f0s	biography; life story
+notario	m0s	notary, lawyer
+gueto	m0s	ghetto
+característica	f0s	characteristic, feature
+alfabeto	m0s	alphabet; literate person
+conjetura	f0s	guess; guesswork
+traductor	m0es	translator
+editora	f0s	publisher
+simio	m0s	simian
+inclinación	f2ones	incline; inclination
+exactitud	f0es	accuracy
+tracción	f2ones	traction
+azufre	m0s	sulfur
+nodriza	f0s	wet nurse
+seriedad	f0es	seriousness
+sudeste	m0s	southeast
+oasis	m0	oasis
+adaptación	f2ones	adaptation
+dimisión	f2ones	resignation; resignation letter
+cosmo	m0s
+incapacidad	f0es	inability, incapability; disability
+cresta	f0s	comb; crest
+cumplimiento	m0s	compliance; fulfillment
+preferencia	f0s	preference; bias
+adolescencia	f0s	adolescence
+histeria	f0s	hysteria
+reproductor	m0es	reproducer; player
+lomo	m0s	back; lower back
+vitamina	f0s	vitamin
+intersección	f2ones	intersection; crossroads
+proporción	f2ones	proportion; ratio
+delirio	m0s	delirium; delusion
+indiferencia	f0s	indifference; apathy
+vibración	f2ones	vibration
+renovación	f2ones	renovation, renewal; makeover
+inflamación	f2ones	inflammation
+atropello	m0s	aggravation, blow
+vigor	m0es	vigor
+maniquí	m0es	mannequin, dummy
+aerolínea	f0s	airline
+barranco	m0s	gully, gulch
+sucesión	f2ones	succession; sequence
+hepatitis	f0	hepatitis
+hallazgo	m0s	discovery
+átomo	m0s	atom
+minoría	f0s	minority
+calificación	f2ones	rating, grade; qualification
+centenar	m0es	unit of one hundred objects
+mutación	f2ones	mutation
+imitador	m0es	imitator; copycat
+suroeste	m0s	southwest
+bateador	m0es	batter
+densidad	f0es	density; thickness
+calcio	m0s	calcium
+billón	m2ones	trillion
+crianza	f0s	upbringing; education
+minero	m0s	miner
+camping	m0es	campsite; camping in a private campsite
+sanatorio	m0s	sanatorium
+rigor	m0es	rigour
+reja	f0s	grate, grating; bars
+camionero	m0s	trucker, truck driver
+titán	m2anes	titan; very large crane
+temblor	m0es	tremor; tremble
+hebreo	m0s	Hebrew person
+superioridad	f0es	superiority
+vencedor	m0es	conquerer; victor
+evasión	f2ones	evasion
+sinfonía	f0s	symphony
+serenidad	f0es	serenity
+nitrógeno	m0s	nitrogen
+provocación	f2ones	provocation
+vicepresidenta	f0s
+dictadura	f0s	dictatorship
+propulsión	f2ones	propulsion; thrust
+puñalada	f0s	stab
+estadía	f0s	stay, sojourn; demurrage
+reflexión	f2ones	reflection
+bengala	f0s	flare; Bengal
+mercenario	m0s	mercenary
+alcaldesa	f0s	mayor's wife
+cooperativa	f0s	cooperative
+referente	m0s	referent; role model
+desempleado	m0s	unemployed
+sustento	m0s	support; sustenance
+furgón	m2ones	van
+antojo	m0s	whim, impulse; birthmark
+compás	m2ases	pair of compasses; rhythm
+concejo	m0s	council; municipality
+liebre	f0s	hare, jackrabbit
+casta	f0s	caste; lineage
+casting	m0s	casting
+sobrecarga	f0s	overload
+transfusión	f2ones	transfusion, blood transfusion
+restauración	f2ones	restoration, reconstruction
+textura	f0s	texture
+casilla	f0s	box; pigeonhole
+comprobación	f2ones	test, testing; audit
+amargura	f0s	acerbity, bitterness; sorrow
+competidor	m0es	competitor
+coalición	f2ones	coalition
+incremento	m0s	increment; accrual
+adorno	m0s	decoration, adornment
+travesía	f0s	traverse, crossing; trip
+malestar	m0es	unease; discomfort
+aproximación	f2ones	approximation
+interacción	f2ones	interaction
+auditorio	m0s	audience; auditorium
+diplomacia	f0s	diplomacy
+pagina	f0s
+espectador	m0es	spectator
+retórica	f0s	rhetoric
+clasificación	f2ones	classification; standing
+discípulo	m0s	disciple
+genocidio	m0s	genocide
+jefatura	f0s	leadership; headquarters
+hábitat	m0s	habitat
+confrontación	f2ones	confrontation
+incertidumbre	f0s	uncertainty
+consola	f0s	console
+asombro	m0s	wonder, awe; fear
+anotación	f2ones	annotation; record
+cripta	f0s	crypt
+potasio	m0s	potassium
+gobernante	m0s	ruler, leader; governor
+anonimato	m0s	anonymity
+elfo	m0s	elf
+rebote	m0s	bounce; ricochet
+constancia	f0s	constancy; certainty
+licenciado	m0s	bachelor
+hazaña	f0s	feat
+parcela	f0s	parcel; small part
+encierro	m0s	confinement, enclosure; reclusion
+bombardero	m0s	bomber
+tramo	m0s	section, stretch
+senda	f0s	footpath
+burocracia	f0s	bureaucracy
+demolición	f2ones	demolition
+puntaje	m0s	score
+inversor	m0es	investor; inverter
+calentador	m0es	heater; boiler
+pintada	f0s	paint
+decadencia	f0s	decadence
+descontento	m0s	discontent, dissatisfaction
+perrera	f0s	dog pound, animal shelter; kennel
+polen	m0es	pollen
+videojuego	m0s	video game
+mortalidad	f0es	mortality
+radiador	m0es	heater; radiator
+avalancha	f0s	avalanche; deluge
+diversidad	f0es	diversity
+concesión	f2ones	concession; dealership
+andén	m2enes	platform; quayside
+bacalao	m0s	cod; dried and salted cod
+vaina	f0s	pod; scabbard
+incentivo	m0s	incentive, stimulus
+diámetro	m0s	diameter
+lino	m0s	linen; flax
+vértigo	m0s	vertigo
+asesoramiento	m0s	advice, counsel
+tempestad	f0es	tempest, storm
+escapada	f0s	escape, breakout; flight
+arrecife	m0s	reef
+lienzo	m0s	canvas; linen
+vajilla	f0s	dishes, dishware
+altercado	m0s	altercation
+candidatura	f0s	candidacy
+confort	m0es	comfort, ease; toilet paper
+partícula	f0s	particle
+fundamento	m0s	foundation; cornerstone
+espontáneo	m0s
+contraste	m0s	contrast; assay
+abadía	f0s	abbey; abbeystead
+relevancia	f0s	relevance
+cabecera	f0s	headboard, bedhead
+procesión	f2ones	procession
+estallido	m0s	explosion; outbreak
+levantamiento	m0s	lifting, raising; uprising
+paladar	m0es	palate
+caseta	f0s	hut, shed; any small covered dwelling
+nebulosa	f0s	nebula; fog
+conveniencia	f0s	convenience; suitability
+infraestructura	f0s	infrastructure
+bucle	m0s	lock of hair; loop
+afición	f2ones	fondness, inclination; hobby
+orador	m0es	speaker; orator
+paradoja	f0s	paradox
+predicción	f2ones	prediction
+busto	m0s	bust
+anticipación	f2ones	anticipation; advance
+maestría	f0s	mastery; master's degree
+jugadora	f0s
+cavidad	f0es	cavity
+penetración	f2ones	penetration
+prescripción	f2ones	prescription
+asfalto	m0s	asphalt
+trinchera	f0s	trench, ditch
+elogio	m0s	praise, commendation
+conversión	f2ones	conversion
+místico	m0s	mystic
+realización	f2ones	realization, actualization
+granito	m0s	granite
+gramo	m0s	gram
+talismán	m2anes	talisman
+antelación	f2ones	in advance, early
+combinado	m0s	cocktail, long drink
+segmento	m0s	segment, section
+reconciliación	f2ones	reconciliation
+toxina	f0s	toxin
+consumidor	m0es	consumer
+amnistía	f0s	amnesty
+cartucho	m0s	cartridge
+ideología	f0s	ideology
+prudencia	f0s	caution, care
+franquicia	f0s	chain, franchise; series
+complicación	f2ones	complication
+gremio	m0s	union, guild; trade
+indicador	m0es	indicator
+inquietud	f0es	inquietude, restlessness
+infracción	f2ones	infraction, infringement
+problemática	f0s	group of problems of a certain science or…
+estímulo	m0s	stimulus
+rotura	f0s	rupture; breakage
+firmeza	f0s	firmness
+conquistador	m0es	conqueror, conquistador; womanizer
+dióxido	m0s	dioxide
+cloaca	f0s	sewer, storm drain; cloaca
+caparazón	m2ones	shell; caparison
+barricada	f0s	barricade
+península	f0s	peninsula
+atasco	m0s	jam, blockage
+incursión	f2ones	raid
+empleador	m0es	employer
+hinchada	f0s	supporters
+nombramiento	m0s	appointment
+estética	f0s	aesthetic; aesthetics
+escaparate	m0s	window, shop window; display cabinet
+incompetencia	f0s	incompetence
+excremento	m0s	excrement
+recreación	f2ones	recreation
+procesamiento	m0s	processing
+geometría	f0s	geometry
+comuna	f0s	commune
+computación	f2ones	computation; computer science
+derrumbe	m0s	landslide; collapse
+configuración	f2ones	configuration, setting; form or shape
+insuficiencia	f0s	deficiency; failure
+guiño	m0s	wink, blink
+sureste	m0s	southeast
+inflación	f2ones	inflation
+visado	m0s	visa
+crepúsculo	m0s	dusk; twilight
+verificación	f2ones	verification; realization
+corrida	f0s	sprint, run; bullfight
+comisaria	f0s
+escéptico	m0s	skeptic
+nacionalidad	f0es	nationality
+desconfianza	f0s	mistrust, distrust
+rivalidad	f0es	rivalry
+historiador	m0es	historian
+cebra	f0s	zebra
+mercadería	f0s	item of merchandise
+delincuencia	f0s	crime, delinquency
+discapacidad	f0es	disability
+mueble	m0s	piece of furniture; car
+fascismo	m0s	fascism
+proyectil	m0es	projectile
+avería	f0s	breakdown
+peregrino	m0s	pilgrim; traveler
+alineación	f2ones	alignment; lineup
+tapón	m2ones	obstruction, blockage; cap
+monarquía	f0s	monarchy
+arquero	m0s	archer; goalkeeper
+complicidad	f0es	complicity, connivance
+cupón	m2ones	coupon, voucher
+controversia	f0s	controversy
+papelera	f0s	paper mill; trash
+déficit	m0s	deficit; shortage
+doctrina	f0s	teaching; doctrine
+porte	m0s	carriage, carrying; size
+naufragio	m0s	shipwreck
+cortejo	m0s	courtship; procession
+cese	m0s	cessation
+mánager	m0es	manager
+sorteo	m0s	lottery, raffle
+descendencia	f0s	descendants
+proximidad	f0es	proximity
+promotor	m0es	promoter
+seguidor	m0es	follower; fan
+castellano	m0s	Castilian; Spanish language generally
+gozo	m0s	joy; pleasure
+ministra	f0s
+rascacielos	m0	skyscraper
+cetro	m0s	scepter
+cesárea	f0s	Caesarean section
+indicación	f2ones	indication; directions
+prejuicio	m0s	prejudice
+patriotismo	m0s	patriotism
+jerarquía	f0s	hierarchy, pecking order; rank
+especia	f0s	spice
+hemisferio	m0s	hemisphere
+residuo	m0s	residue; remainder
+glaciar	m0es	glacier
+oleada	f0s	wave, surge
+expectativa	f0s	expectation
+carisma	m0s	charisma
+alteración	f2ones	alteration; altercation
+impaciencia	f0s	impatience
+monopolio	m0s	monopoly
+peaje	m0s	toll
+dominación	f2ones	domination
+alejamiento	m0s	distancing; distance
+cilindro	m0s	cylinder
+nominación	f2ones	nomination
+embajadora	f0s
+navío	m0s	large ship
+improvisación	f2ones	improvisation
+devolución	f2ones	return; refund
+liquidación	f2ones	sale, liquidation sale
+énfasis	m0	emphasis
+recorte	m0s	snippet, scrap; cut
+indulto	m0s	pardoning
+llanta	f0s	tyre rim, wheelrim
+ultimátum	m0es	ultimatum
+estimación	f2ones	estimation
+impotencia	f0s	impotence / impotency; disability
+húngaro	m0s	Hungarian; Rom
+ordenanza	f0s	orderly; messenger
+bajada	f0s	drop, descent; declivity
+gaviota	f0s	gull, seagull
+ortografía	f0s	orthography; spelling
+eficacia	f0s	effectiveness
+ciudadanía	f0s	citizenship; citizenry
+represión	f2ones	repression
+orquídea	f0s	orchid
+refugiado	m0s	refugee
+ámbito	m0s	scope, field; ambitus
+franja	f0s	stripe
+voltaje	m0s	voltage
+misionero	m0s	missionary; someone from Misiones
+adoración	f2ones	adoration, worship
+formato	m0s	format
+centeno	m0s	rye
+coreografía	f0s	choreography
+aseguradora	f0s	insurance
+cautela	f0s	precaution
+patología	f0s	pathology
+aeródromo	m0s	airfield, aerodrome
+abono	m0s	subscription; payment
+justificación	f2ones	justification
+reptil	m0es	reptile
+pionero	m0s	pioneer
+astronomía	f0s	astronomy
+hachís	m0es	hashish
+mástil	m0es	mast; neck
+sintonía	f0s	syntony; tuning
+detección	f2ones	detection
+cepa	f0s	variety; strain
+socialismo	m0s	socialism
+extradición	f2ones	extradition
+anécdota	f0s	anecdote
+rasgo	m0s	act, flourish; characteristic
+fumador	m0es	smoker
+fijación	f2ones	obsession, fixation
+intimidación	f2ones	intimidation; bullying
+visibilidad	f0es	visibility
+complejidad	f0es	complexity
+diseñadora	f0s
+albedrío	m0s	will
+agresividad	f0es	aggressiveness
+eslogan	m0es	slogan
+presagio	m0s	premonition sign
+tinte	m0s	dyeing
+cannabis	m0	cannabis
+atletismo	m0s	athletics; track and field
+conservación	f2ones	conservation
+alegato	m0s	argument; allegation
+agricultor	m0es	farmer
+vegetación	f2ones	vegetation; adenoid
+todoterreno	m0s	ATV
+lastre	m0s	ballast; burden
+ardor	m0es	heat; ardour
+acierto	m0s	correct answer; success
+embarcación	f2ones	ship, watercraft; embarkation
+legislación	f2ones	legislation
+revuelo	m0s	commotion; fluttering
+deducción	f2ones	deduction
+astillero	m0s	shipyard, boatyard; dockyard
+hambruna	f0s	famine
+locomotora	f0s	locomotive
+abanico	m0s	fan; range
+lucro	m0s	profit, gain
+rapero	m0s	rapper
+prevención	f2ones	prevention
+saldo	m0s	balance
+variación	f2ones	variation
+aplazamiento	m0s	postponement, adjournment
+nadador	m0es	swimmer
+disturbio	m0s	disturbance
+municipio	m0s	municipality
+indignación	f2ones	indignation, outrage
+ansia	f0s	anxiety, apprehension; craving
+aptitud	f0es	aptitude, ability; fitness
+reclamación	f2ones	claim, reclamation
+compuesta	f0s	composite
+follón	m2ones	squib, dud; mess
+negociador	m0es	negotiator
+hardware	m0s	hardware
+parachoques	m0	bumper; fender
+asedio	m0s	siege
+concubina	f0s	concubine
+estatuto	m0s	statute
+bache	m0s	pothole; rut
+sudoeste	m0s	southwest
+ocaso	m0s	dusk, sunset; west
+tallo	m0s	stalk, stem
+caricatura	f0s	caricature; animated cartoon
+exámen	m0es
+inseguridad	f0es	insecurity; uncertainty
+amparo	m0s	shelter, sanctuary; protection
+imperativo	m0s	imperative
+pedestal	m0es	pedestal
+estadística	f0s	statistics
+primogénito	m0s	firstborn
+dureza	f0s	hardness; arduousness
+pincel	m0es	paintbrush
+distintivo	m0s	badge, emblem
+escuadra	f0s	squadron
+pasadizo	m0s	passage, corridor; shortcut
+reciclaje	m0s	recycling
+viñedo	m0s	vineyard
+detergente	m0s	detergent
+emblema	m0s	emblem
+malla	f0s	mesh, net; tights
+monólogo	m0s	monologue
+infante	m0s	infant; prince
+confinamiento	m0s	lockdown; confinement
+suplemento	m0s	supplement; pullout
+llanura	f0s	plain
+noruego	m0s	Norwegian; Norwegian language
+pleito	m0s	lawsuit; fight
+listado	m0s	list, listing; skipjack
+contradicción	f2ones	contradiction
+importación	f2ones	importation
+continuidad	f0es	continuity
+constelación	f2ones	constellation
+auge	m0s	boom, rise; peak
+silueta	f0s	silhouette
+discapacitado	m0s
+repertorio	m0s	repertoire, repertory
+interfaz	f1ces	interface
+agotamiento	m0s	exhaustion, depletion
+mercader	m0es	merchant
+plantilla	f0s	template; staff
+dialecto	m0s	dialect; Native American language
+apoderado	m0s	guardian; agent
+recesión	f2ones	recession
+chapa	f0s	veneer; plating
+torero	m0s	torero, bullfighter
+boceto	m0s	sketch, outline; draft
+moderación	f2ones	moderation
+transcurso	m0s	course, passing
+cisterna	f0s	cistern
+dependencia	f0s	dependence; dependency
+compresión	f2ones	compression
+asentamiento	m0s	settlement, habitation; agreement
+intervalo	m0s	interval, gap
+cuadrilátero	m0s	quadrilateral; boxing ring
+mural	m0es	mural
+ladera	f0s	slope
+cantor	m0es	singer
+intromisión	f2ones	meddling, intrusion
+tráiler	m0es	trailer
+cerco	m0s	ring; fence
+moño	m0s	bun, chignon; headpad
+alcaldía	f0s	city hall; city government
+consenso	m0s	consensus
+chalet	m0s	cottage, chalet
+fisura	f0s	fissure, crack
+colaborador	m0es	collaborator
+odisea	f0s	odyssey
+autora	f0s	female author, authoress
+deterioro	m0s	deterioration, damage
+verbo	m0s	verb
+raqueta	f0s	racket; snowshoe
+fusilamiento	m0s	execution
+hostal	m0es	hostel
+imprudencia	f0s	imprudence
+vector	m0es	vector
+integración	f2ones	integration
+estimulación	f2ones	stimulation
+innovación	f2ones	innovation
+desnudez	f1ces	nudity, nakedness
+recolección	f2ones	collecting; harvesting
+subsidio	m0s	subsidy
+ofrecimiento	m0s	offering, offer
+romanticismo	m0s	romanticism
+bebedor	m0es	drinker; drunkard
+distorsión	f2ones	distortion
+buzo	m0s	diver; hooded sweatshirt
+huerta	f0s	garden, vegetable garden; orchard
+elevación	f2ones	elevation; lifting
+burgués	m2eses	bourgeois
+desplazamiento	m0s	displacement; offset
+podio	m0s	podium
+maltrato	m0s	mistreatment
+verdura	f0s	vegetable; greenness
+turba	f0s	mob; peat
+icono	m0s	icon
+mortero	m0s	mortar
+arrebato	m0s	rage, anger; outburst
+faena	f0s	task, job; compulsory labour or work
+servidumbre	f0s	servitude; easement
+autenticidad	f0es	authenticity
+congelación	f2ones	freezing
+cancelación	f2ones	cancellation
+anexo	m0s	annex, appendix; contiguous building
+seña	f0s	sign, indication; gesture
+aeronave	f0s	airship; aircraft
+arqueología	f0s	archaeology
+vitalidad	f0es	vitality
+cerro	m0s	hill
+adversidad	f0es	adversity, misfortune
+euforia	f0s	euphoria
+diagrama	m0s	diagram
+barandilla	f0s	handrail, banister; detention centre
+mobiliario	m0s	set of furniture
+predecesor	m0es	predecessor
+guerrilla	f0s	guerrilla; guerrilla war
+millar	m0es	unit or group of one thousand
+tobogán	m2anes	playground slide; water slide
+licenciatura	f0s	degree, bachelor
+traba	f0s	catch; obstacle
+repaso	m0s	review, revision
+retroceso	m0s	backtrack; throwback
+riego	m0s	irrigation
+lapso	m0s	lapse
+mitin	m4ítines	rally; speech
+requisito	m0s	requisite; requirement
+libreto	m0s	libretto
+secuela	f0s	consequence, result; sequela
+indulgencia	f0s	indulgence
+calamidad	f0es	calamity
+tónica	f0s	tonic
+saltador	m0es	jumper, diver; pogo stick
+sobrenombre	m0s	nickname, sobriquet
+divinidad	f0es	divinity; deity
+coordinador	m0es	coordinator
+desecho	m0s	waste; trash
+contracción	f2ones	contraction
+flamenco	m0s	Fleming, a Flemish person; flamingo
+fallecimiento	m0s	demise, death
+acorazado	m0s	battleship
+represa	f0s	dam; damming
+ocio	m0s	diversion; leisure
+fauna	f0s	fauna
+tabú	m0es	taboo
+movilidad	f0es	mobility
+acumulación	f2ones	accumulation, build-up; joinder
+desliz	m1ces	slip, lapse; blunder
+nitrato	m0s	nitrate
+básquet	m0es	basketball
+colmillo	m0s	canine tooth; tusk
+disfunción	f2ones	dysfunction
+reelección	f2ones	reelection
+coliseo	m0s	coliseum
+semejanza	f0s	likeness, similarity
+ente	m0s	being; entity
+rienda	f0s	rein
+escultor	m0es	sculptor
+organizador	m0es	organizer
+balneario	m0s	seaside resort, bathing resort
+zapatilla	f0s	slipper, slip-on shoe; sneaker
+incomodidad	f0es	discomfort, inconvenience
+impedimento	m0s	obstacle; impediment
+artillero	m0s	artilleryman; drunkard
+single	m0s	single
+arqueólogo	m0s	archeologist
+piratería	f0s	piracy
+desgaste	m0s	wear, wear and tear; burnout
+implicación	f2ones	implication
+regeneración	f2ones	regeneration
+parodia	f0s	parody; travesty
+retención	f2ones	retention; hold-up
+antepasado	m0s	ancestor, forefather
+singularidad	f0es	singularity
+refinería	f0s	refinery
+horda	f0s	horde
+accesorio	m0s	accessory equipment, appurtenance
+atrocidad	f0es	atrocity
+mayúscula	f0s	capital letter
+refrigeración	f2ones	refrigeration
+inestabilidad	f0es	instability
+contraataque	m0s	counterattack, counterstrike
+vereda	f0s	path, lane; sidewalk
+latitud	f0es	latitude
+calumnia	f0s	slander, calumny
+espejismo	m0s	mirage; wishful thinking
+tesorero	m0s	treasurer
+portafolio	m0s	portfolio, a case for carrying papers
+degradación	f2ones	degradation
+represalia	f0s	reprisal, retaliation
+montículo	m0s	mound
+procesador	m0es	processor
+intolerancia	f0s	intolerance
+manutención	f2ones	maintenance
+exportación	f2ones	exportation, export
+palillo	m0s	toothpick; chopstick
+auditoría	f0s	audit
+herradura	f0s	horseshoe
+difusión	f2ones	dissemination, spreading
+hipotermia	f0s	hypothermia
+roedor	m0es	rodent
+sensatez	f1ces	sense, sensibility; sensibleness
+aversión	f2ones	aversion
+sinónimo	m0s	synonym; byword
+migración	f2ones	migration
+pimiento	m0s	pepper; pepper plant
+recluso	m0s	prisoner
+tableta	f0s	tablet, pill; bar of chocolate
+rebaja	f0s	sale
+subvención	f2ones	subvention
+soplete	m0s	blowtorch; spray gun
+exterminio	m0s	extermination
+molécula	f0s	molecule
+telenovela	f0s	soap opera/telenovela
+regularidad	f0es	regularity
+tutela	f0s	custody; guardianship
+logística	f0s	logistics
+narrativa	f0s	narrative; narration
+carpintería	f0s	carpentry
+redactor	m0es	editor
+aniquilación	f2ones	annihilation
+espanto	m0s	fright; ghost
+tecla	f0s	key, button
+modificación	f2ones	modification
+tribuna	f0s	gallery; tribune
+ranura	f0s	slot, groove
+salvamento	m0s	rescuing, saving; salvage
+marisco	m0s	edible shellfish or alga; seafood
+cuenca	f0s	eye socket; watershed
+financiamiento	m0s	financing
+ampliación	f2ones	broadening, widening; extension
+galón	m2ones	braid; gallon
+previsión	f2ones	forecast; prevision
+sepultura	f0s	act or state of burial; grave
+deficiencia	f0s	deficiency
+ozono	m0s	ozone
+halago	m0s	flattery; praise
+membrana	f0s	membrane
+abastecimiento	m0s	supply
+aleación	f2ones	alloy; alloying
+ciudadela	f0s	citadel
+clandestinidad	f0es	secrecy
+atraso	m0s	delay, lateness; arrears
+siembra	f0s	seeding; sowing time
+tapiz	m1ces	tapestry; carpet
+memorándum	m0es	memorandum
+ecosistema	m0s	ecosystem
+desalojo	m0s	eviction
+felicitación	f2ones	congratulation
+portera	f0s
+cornisa	f0s	cornice; crown molding
+suscripción	f2ones	subscription
+saqueo	m0s	sack, plunder
+convenio	m0s	agreement; covenant
+trazado	m0s	tracing; layout
+ligando	m0s	ligand
+facción	f2ones	trait, feature; faction
+premisa	f0s	premise
+balada	f0s	ballad
+bálsamo	m0s	balsam
+envase	m0s	bottle, jar; package
+autonomía	f0s	autonomy; range
+remolacha	f0s	beet; sugar beet
+peregrinación	f2ones	pilgrimage; voyage
+ciénaga	f0s	marsh, swamp
+seudónimo	m0s	pseudonym
+llano	m0s	plain
+onza	f0s	ounce; snow leopard
+simetría	f0s	symmetry
+disminución	f2ones	reduction, abatement
+discordia	f0s	discord, disagreement
+clero	m0s	clergy
+programador	m0es	programmer
+tempo	m0s	tempo
+partitura	f0s	score
+judo	m0s	judo
+engranaje	m0s	teeth of a gear wheel
+insistencia	f0s	insistence
+coacción	f2ones	coercion
+renombre	m0s	renown
+esguince	m0s	sprain
+sumisión	f2ones	submission; submissiveness
+meseta	f0s	plateau
+cautivo	m0s	captive
+minería	f0s	mining
+cinismo	m0s	cynicism
+frialdad	f0es	frigidity, coldness
+regulación	f2ones	regulation; adjustment
+antropología	f0s	anthropology
+ruedo	m0s	hem of a garment; circle
+glándula	f0s	gland
+soberbia	f0s	haughtiness; arrogance
+contratación	f2ones	contracting, hiring
+macizo	m0s	flowerbed; mass
+realismo	m0s	realism
+desobediencia	f0s	disobedience
+sondeo	m0s	survey, poll; sounding
+hormona	f0s	hormone
+flexibilidad	f0es	flexibility
+fábula	f0s	fable, myth; rumor
+deserción	f2ones	desertion
+contagio	m0s	infection, contagion
+honradez	f1ces	honesty
+transparencia	f0s	transparency
+patriarca	m0s	patriarch
+desequilibrio	m0s	imbalance; disequilibrium
+avistamiento	m0s	sighting, watching
+aristocracia	f0s	aristocracy
+virtuoso	m0s	virtuous person; virtuoso
+invasor	m0es	invader
+falsedad	f0es	untruth, falsehood
+remodelación	f2ones	remodeling, renovation
+mejoría	f0s	improvement, amelioration
+consorcio	m0s	consortium, partnership
+aporte	m0s	contribution
+bonificación	f2ones	bonus; bonus point
+hito	m0s	milestone; landmark
+pupila	f0s	pupil of the eye
+soberanía	f0s	sovereignty
+bit	m0s	bit
+burguesía	f0s	bourgeoisie
+valoración	f2ones	valuation; titration
+navegador	m0es	navigator; browser
+bombo	m0s	bass drum; bass drum player
+artesano	m0s	artisan
+traspaso	m0s	transfer, handover; passing
+rebeldía	f0s	rebelliousness; default
+infiltración	f2ones	infiltration
+braga	f0s	panty; bikini bottom
+frescura	f0s	coolness
+astrónomo	m0s	astronomer
+catalizador	m0es	catalyst
+prefectura	f0s	prefecture
+subsuelo	m0s	subsoil
+melodrama	m0s	melodrama
+rechace	m0s
+teología	f0s	theology
+vertido	m0s	tipping; pouring
+avioneta	f0s	light aircraft
+contingencia	f0s	contingency
+artesanía	f0s	craft, handicraft
+llamamiento	m0s	call, appeal; bequest
+comités	m0es
+latón	m2ones	brass; hackberry
+emir	m0es	emir
+afección	f2ones	medical condition, or disorder
+adición	f2ones	addition
+bragueta	f0s	fly; zip fastener
+mamífero	m0s	mammal
+piercing	m0es	piercing
+chasis	m0	chassis
+pensador	m0es	thinker
+polémica	f0s	controversy, polemic
+dispersión	f2ones	dispersion
+supremacía	f0s	supremacy
+recibimiento	m0s	reception
+larva	f0s	larva
+prostíbulo	m0s	brothel, whorehouse
+posgrado	m0s	postgraduate study
+productividad	f0es	productivity
+validez	f1ces	validity
+consistencia	f0s	consistency
+masculinidad	f0es	masculinity
+orbital	m0es	orbital
+inflexión	f2ones	inflection
+mediación	f2ones	mediation
+escrutinio	m0s	scrutiny; vote count
+provisión	f2ones	provision; provisions
+destierro	m0s	exile; wilderness
+euro	m0s	euro
+bobina	f0s	reel, bobbin; electrical coil
+bis	m0es	encore
+currículo	m0s	curriculum; curriculum vitae
+municipalidad	f0es	municipality
+cercanía	f0s	proximity, vicinity
+finalidad	f0es	purpose, objective
+milímetro	m0s	millimeter
+caricia	f0s	caress
+virrey	m0es	viceroy
+sirio	m0s	Syrian
+narración	f2ones	narration, story
+suburbio	m0s	suburb; outskirts
+procedencia	f0s	origin; appropriateness
+eutanasia	f0s	euthanasia
+alarde	m0s	large display; review
+colocación	f2ones	placement, positioning; collocation
+contienda	f0s	fight, dispute
+privación	f2ones	deprivation, privation
+beneficiario	m0s	beneficiary
+urbanización	f2ones	housing development; housing estate
+baza	f0s	trick; Aviceda
+afán	m2anes	desire; effort
+clonación	f2ones	cloning
+historieta	f0s	anecdote; comic strip
+espiritualidad	f0es	spirituality
+resorte	m0s	spring
+complexión	f2ones	person's build
+censo	m0s	census
+temática	f0s	subject, topic
+barullo	m0s	uproar; din
+vecindad	f0es	vicinity; neighborhood
+apreciación	f2ones	appreciation
+tez	f1ces	complexion
+espesor	m0es	thickness; density
+copo	m0s	flake
+vocero	m0s	spokesman
+articulación	f2ones	joint; articulation
+ancestro	m0s	ancestor, forefather
+caudillo	m0s	military leader, caudillo
+incumplimiento	m0s	nonfulfillment, noncompliance
+barracón	m2ones	bunkhouse
+localidad	f0es	place, locality; seat
+nerviosismo	m0s	nervousness
+agilidad	f0es	agility
+similitud	f0es	similarity, similitude
+apóstol	m0es	apostle
+mirador	m0es	viewpoint or vantage point
+malversación	f2ones	embezzlement, malversation
+conformidad	f0es	conformity, compliance; shape
+nostálgico	m0s	nostalgic
+inferioridad	f0es	inferiority
+martirio	m0s	martyrdom; martyrium
+gacela	f0s	gazelle
+sarcófago	m0s	sepulcher; sarcophagus
+sustitución	f2ones	substitution
+aspiración	f2ones	dream, wish; aspiration
+geología	f0s	geology
+cristiandad	f0es	Christianity, Christendom
+catarro	m0s	cold; mucus
+ardid	m0es	plot, trick
+comarca	f0s	district
+plenitud	f0es	plenitude
+epicentro	m0s	epicentre, epicenter
+propagación	f2ones	propagation
+tuerca	f0s	nut
+salamandra	f0s	salamander
+contribuyente	m0s	contributor; taxpayer
+loma	f0s	long hill or mountain; low hill
+regocijo	m0s	widespread joy, jubilation
+patrocinio	m0s	sponsorship
+exclusión	f2ones	exclusion
+percusión	f2ones	percussion
+nexo	m0s	link, nexus
+amputación	f2ones	amputation
+acompañamiento	m0s	side dish; act of accompanying
+granizo	m0s	hail; hailstone
+asador	m0es	roaster, spit
+palestino	m0s	Palestinian; foulard
+reproche	m0s	reproach, criticism; rebuking
+logotipo	m0s	logo, logotype
+estudioso	m0s
+portería	f0s	lobby of a hotel; reception desk
+cúmulo	m0s	pile; cluster
+escepticismo	m0s	skepticism
+emprendedor	m0es	entrepreneur
+animador	m0es	presenter, host; entertainer
+prórroga	f0s	extra time, overtime; extension
+biólogo	m0s	biologist
+discográfico	f0s
+hipertensión	f2ones	hypertension
+incubadora	f0s	incubator
+afroamericano	m0s	Afro-American
+caliza	f0s	limestone
+urticaria	f0s	urticaria
+golondrina	f0s	swallow
+faceta	f0s	facet
+convivencia	f0s	coexistence, cohabitation
+paella	f0s	paella
+ovación	f2ones	ovation
+sumario	m0s	summary
+yema	f0s	yolk; tip
+féretro	m0s	coffin
+proeza	f0s	prowess; feat
+antibiótico	m0s	antibiotic
+tropiezo	m0s	setback; blunder
+festejo	m0s	celebration
+fármaco	m0s	medicine, medication
+progresión	f2ones	progression
+grosor	m0es	thickness
+sanción	f2ones	sanction
+palmera	f0s	palm; palmier
+hundimiento	m0s	cave in, collapse
+subsecretario	m0s	undersecretary, deputy secretary
+infinidad	f0es	infinity
+olivo	m0s	olive tree
+mensajería	f0s	messenger service
+movilización	f2ones	mobilization
+molotov	m0es
+consigna	f0s	luggage locker; order
+destrozo	m0s	destruction; massacre
+narcotráfico	m0s	drug trafficking
+dolencia	f0s	ailment, illness
+solapa	f0s	lapel; inside flap of a book cover
+pudor	m0es	shame; modesty
+súbdito	m0s	subject
+ilustración	f2ones	illustration
+emisor	m0es	emittor
+colilla	f0s	butt, stub; roach
+facturación	f2ones	billing
+aeroplano	m0s
+paradigma	m0s	paradigm
+dilatación	f2ones	expansion, dilatation
+requerimiento	m0s	requirement, request; injunction
+disolución	f2ones	dissolution
+desesperanza	f0s	hopelessness
+festividad	f0es	festivity; holiday
+anterioridad	f0es	anteriority
+judaísmo	m0s	Judaism
+degustación	f2ones	action of tasting, sampling
+monitoreo	m0s	monitoring
+soldador	m0es	welder; soldering iron
+carabina	f0s	carbine; rifle
+cabida	f0s	space, room
+individualidad	f0es	individuality, selfhood
+pronunciación	f2ones	pronunciation; pronouncement
+filial	f0es	subsidiary, branch
+experimentación	f2ones	experimentation
+sencillez	f1ces	simplicity
+directivo	m0s	director, executive
+unanimidad	f0es	unanimity
+contorno	m0s	contour, outline; girth
+asignatura	f0s	class, subject
+ciclismo	m0s	cycling, cycle racing
+asesoría	f2ias	consultancy; consultant's office
+impulsor	m0es	impeller
+lucidez	f1ces	lucidity, lucidness
+natalidad	f0es	birth rate; natality
+trámite	m0s	procedure, step
+dramaturgo	m0s	playwright, dramatist
+fichero	m0s	file, file box
+antecedente	m0s	precedent; antecedent
+penumbra	f0s	half-light; shadow
+impertinencia	f0s	infamy, intrusiveness
+legalidad	f0es	legality
+cúspide	f0s	peak
+blindaje	m0s	armor-plating, armor
+dedicatoria	f0s	dedication
+pancarta	f0s	banner
+telefonía	f0s	telephony
+desenlace	m0s	outcome; dénouement
+capacitación	f2ones	training
+abridor	m0es	opener
+comparecencia	f0s	appearance
+recambio	m0s	spare, replacement
+percance	m0s	accident, mishap
+disquera	f0s	record label, record company
+funcionaria	f0s
+batuta	f0s	baton; rule
+consultora	f0s
+periferia	f0s	periphery
+patógeno	m0s	pathogen
+gul	m0es
+varilla	f0s	spoke; whisk
+tala	f0s	felling, cutting down; tala
+medición	f2ones	measurement
+bolchevique	m0s	Bolshevik
+piquete	m0s	prick; shot
+persiana	f0s	blind; shutter
+insurrección	f2ones	insurrection
+complemento	m0s	complement; object
+traza	f0s	trace; design
+calado	m0s	draught
+aval	m0es	endorsement; countersignature
+multinacional	f0es	multinational
+diócesis	f0	diocese
+butaca	f0s	armchair; seat
+panorámica	f0s
+permanencia	f0s	permanence; permanent contract
+omisión	f2ones	omission
+variante	f0s	variant
+salmo	m0s	psalm
+turbina	f0s	turbine
+habitante	m0s	inhabitant
+segregación	f2ones	segregation
+pauta	f0s	ruler, rule; guideline
+emplazamiento	m0s	place, location; summons
+simbolismo	m0s	symbolism
+derroche	m0s	waste, dissipation; wastefulness
+letrado	m0s	lawyer
+almendra	f0s	almond; kernel
+cupo	m0s	quota; capacity
+originalidad	f0es	originality
+clausura	f0s	closing, closure
+tópico	m0s	subject, topic; cliché
+cuña	f0s	wedge; chock
+finlandés	m0es	Finn; Finnish language
+erosión	f2ones	erosion
+neutralidad	f0es	neutrality
+centralita	f0s	switchboard
+triciclo	m0s	tricycle; any three-wheeled vehicle
+conocedor	m0es	expert
+prólogo	m0s	prologue; prelude
+hilera	f0s	row, windrow
+perjuicio	m0s	detriment
+cóndor	m0es	condor; Andean condor
+pliegue	m0s	fold or crease; pleat
+níquel	m0es	nickel
+desarme	m0s	disarmament
+superpoder	m0es	superpower
+gamba	f0s	shrimp; butterface
+boicot	m0s	boycott
+jonrón	m2ones	home run
+pretensión	f2ones	aspiration; intention
+peldaño	m0s	step, stair
+síntesis	f0	synthesis; summary
+vulgaridad	f0es	vulgarity; vulgarism
+efectividad	f0es	effectiveness
+exigencia	f0s	requirement; demand
+senderismo	m0s	trekking, hiking
+legitimidad	f0es	legitimacy
+sátira	f0s	satire
+carencia	f0s	lack, shortage
+divulgación	f2ones	divulgation, disclosure
+coso	m0s	thingy, thingo
+vencimiento	m0s	defeat; expiry
+concordancia	f0s	agreement, concord; harmony
+lámina	f0s	sheet, slab; engraving
+legislatura	f0s	legislature
+draft	m0es	draft
+conmemoración	f2ones	commemoration
+cordillera	f0s	mountain range, cordillera
+azafrán	m2anes	saffron crocus
+cocción	f2ones	cooking; boiling
+codificación	f2ones	codification, encoding
+poderío	m0s	power
+bocanada	f0s	puff; mouthful
+ascendencia	f0s	ancestry; ascendancy
+discrepancia	f0s	conflict; discrepancy
+especialización	f2ones	specialization
+pupilo	m0s	orphan; houseguest
+unificación	f2ones	unification
+óleo	m0s	oil; oil painting
+centenario	m0s	centenary, centennial
+germen	m=gérmenes	germen; microbe
+encapuchado	m0s	hooded person, hoodie
+derribo	m0s	demolition
+amplitud	f0es	amplitude; breadth
+casete	m0s	cassette
+azulejo	m0s	tile; cornflower
+nodo	m0s	node
+calzada	f0s	lane, road; path
+postgrado	m0s
+supresión	f2ones	suppression; deletion
+pueblecito	m0s
+imposición	f2ones	imposition
+extremidad	f0es	end, extremity
+afiche	m0s	poster
+cátedra	f0s	professorship; seminar room
+cromosoma	m0s	chromosome
+desprendimiento	m0s	loosening; landslide
+electrón	m2ones	electron
+culminación	f2ones	climax
+sardina	f0s	sardine
+tejano	m0s
+predisposición	f2ones	predisposition
+disponibilidad	f0es	availability, availableness
+degeneración	f2ones	degeneration
+nicho	m0s	niche
+desigualdad	f0es	inequality
+convocatoria	f0s	call; announcement
+incorporación	f2ones	incorporation
+pertenencia	f0s	belonging; property
+trilogía	f0s	trilogy
+pórtico	m0s	portico; porch
+chapuza	f0s	cheat, trick; work
+almidón	m2ones	starch
+fragilidad	f0es	fragility
+criminalidad	f0es	criminality, crime
+exención	f2ones	exemption
+atraque	m0s	mooring
+anfibio	m0s	amphibian
+catarata	f0s	waterfall, cataract
+destinatario	m0s	addressee
+colonización	f2ones	colonization
+tenencia	f0s	tenancy, occupancy; possession
+licenciada	f0s
+arbitraje	m0s	arbitration; refereeing
+litigio	m0s	litigation, lawsuit
+profesionalidad	f0es	professionalism
+dogma	m0s	dogma
+barbarie	f0s	barbarity
+semifinal	f0es	semifinal, semi-final
+consultoría	f0s	consulting; consultancy
+metodología	f0s	methodology
+abeto	m0s	fir
+envergadura	f0s	wingspan; breadth
+donativo	m0s	donation
+alzado	m0s	elevation, elevated part of the façade
+ecología	f0s	ecology
+bagre	m0s	catfish
+longevidad	f0es	longevity
+globalización	f2ones	globalisation, globalization
+peatón	m2ones	pedestrian
+ligereza	f0s	agility; instability
+hemoglobina	f0s	hemoglobin
+profesionalismo	m0s	professionalism
+cabezazo	m0s	headbutt; header
+polluelo	m0s	chick; fledgling
+escalador	m0es	climber
+adjetivo	m0s	adjective
+desempate	m0s	tiebreak
+clamor	m0es	clamor, shout; protest
+ranking	m0s	ranking
+despilfarro	m0s	waste, waste of money
+apartheid	m0es	apartheid
+limitación	f2ones	limitation; constraint
+afiliación	f2ones	affiliation
+detonante	m0s	trigger, cause
+ligamento	m0s	ligament
+afiliado	m0s	affiliate; member
+certamen	m4ámenes	contest, competition; challenge
+sílaba	f0s	syllable
+conspirador	m0es	conspirator
+matiz	m1ces	hue; nuance
+estatuilla	f0s
+convergencia	f0s	convergence
+backgammon	m0es	backgammon
+anotador	m0es	scorer; notepad
+biotecnología	f0s	biotechnology
+trasfondo	m0s	background
+brasa	f0s	hot coal, ember
+canon	m4ánones	canon; tax
+comercialización	f2ones	marketing
+inmediaciones	f0
+elaboración	f2ones	production
+acrobacia	f0s	acrobatics
+caducidad	f0es	expiry date; sell-by date
+inserción	f2ones	insertion
+relieve	m0s	relief
+comitiva	f0s	company, covey; cortege
+derivación	f2ones	derivation
+repulsión	f2ones	repulsion
+fisión	f2ones	fission
+imposibilidad	f0es	impossibility
+prerrogativa	f0s	prerogative
+aportación	f2ones	contribution
+designación	f2ones	designation
+polímero	m0s	polymer
+desorientación	f2ones	disorientation
+referéndum	m0es	referendum
+destitución	f2ones	dismissal, firing
+papeleta	f0s	sheet of paper; ballot
+liquidez	f1ces	liquidity
+carcajada	f0s	guffaw or cackle, belly laugh
+maleficio	m0s	hex
+proclamación	f2ones	proclamation
+otomano	m0s	Ottoman
+catedrático	m0s	professor
+hidromasaje	m0s	hydromassage
+deliberación	f2ones	deliberation
+solomillo	m0s	sirloin
+ambigüedad	f0es	ambiguity
+alusión	f2ones	allusion
+cónclave	m0s	conclave
+polonio	m0s	polonium
+cabreo	m0s	pest, frustration
+feudo	m0s	fief; stomping ground
+educador	m0es	educator
+notoriedad	f0es	notoriety
+blanqueo	m0s
+resignación	f2ones	resignation
+autovía	f0s	dual carriageway, divided highway
+irregularidad	f0es	irregularity
+lumbre	f0s	combustible material; fire
+prendedor	m0es	button; barrette
+búlgaro	m0s	Bulgarian; Bulgarian language
+retoque	m0s	retouching
+gestor	m0es	solicitor, attorney
+pesimismo	m0s	pessimism, gloom
+retén	m2enes	stock, reserve
+coordinadora	f0s
+utilización	f2ones	utilization
+penalti	m0s	penalty; shotgun wedding
+regata	f0s	regatta
+walkman	m0es	walkman
+equidad	f0es	equity, fairness
+abolición	f2ones	abolition
+soldadura	f0s	soldering; welding
+gospel	m0es	gospel music
+fluctuación	f2ones	fluctuation
+desagrado	m0s	displeasure, distaste
+agrupación	f2ones	grouping
+ariete	m0s	battering ram; striker
+modernidad	f0es	modernity, modern day
+sumergible	m0s	submarine
+ermita	f0s	hermitage; isolated chapel
+agravio	m0s	offense, grievance; tort
+certificación	f2ones	certification
+expectación	f2ones	expectation
+patrono	m0s	patron saint
+miligramo	m0s	milligram
+pétalo	m0s	petal
+escenografía	f0s	set; set design
+duna	f0s	dune
+filón	m2ones	lode, vein; gold mine
+primate	m0s	primate
+antropólogo	m0s	anthropologist
+protagonismo	m0s	importance, prominence; leading role
+confección	f2ones	confection; tailoring
+licitación	f2ones	bid
+terminología	f0s	terminology
+doblaje	m0s	dubbing
+imparcialidad	f0es	impartiality; neutrality
+reinserción	f2ones	reinsertion
+concesionaria	f0s
+chollo	m0s	bargain; plum
+recelo	m0s	mistrust; aversion
+irrupción	f2ones	irruption, break-in
+resbalón	m2ones	slip, skid; slip-up
+finalización	f2ones	finalization
+repercusión	f2ones	repercussion; impact
+privatización	f2ones	privatization
+abrevadero	m0s	waterer, fount; drinking trough
+patín	m2ines	skate, roller skate; foul smell
+electorado	m0s	electorate
+gestación	f2ones	gestation
+inmueble	m0s	property, estate
+tímpano	m0s	eardrum
+precursor	m0es	precursor, forerunner
+cauce	m0s	riverbed; course
+frivolidad	f0es	frivolity, levity
+holding	m0es	holding company
+claustro	m0s	claustration
+escaramuza	f0s	skirmish
+concejala	f0s
+metafísica	f0s	metaphysics
+fulgor	m0es	shine, glow
+letargo	m0s	lethargy, tiredness
+vicepresidencia	f0s	vice-presidency
+ensamblaje	m0s	assembly
+contemplación	f2ones	contemplation
+divisa	f0s	foreign currency; badge
+embalse	m0s	reservoir
+favoritismo	m0s	favoritism, favouritism
+reaparición	f2ones	comeback; reappearance
+archipiélago	m0s	archipelago
+salvajismo	m0s	savagery
+sinfín	m0es	load
+bula	f0s	bull; strength
+refriega	f0s	fray, scuffle
+helecho	m0s	fern
+operario	m0s	workman; operative
+coherencia	f0s	coherence
+colono	m0s	colonist, settler
+surgimiento	m0s	emergence, rise
+gazpacho	m0s	gazpacho
+matorral	m0es	brush, scrub; thicket
+polígono	m0s	polygon; industrial park
+profesorado	m0s	teaching position; teaching team
+acrónimo	m0s	acronym
+arácnido	m0s	arachnid
+lentitud	f0es	slowness
+náufrago	m0s	castaway, shipwrecked person
+vinculación	f2ones	connection, link
+basílica	f0s	basilica
+inactividad	f0es	inactivity, idleness
+nórdico	m0s
+normativa	f0s	rules, regulations
+reestructuración	f2ones	restructuring; reorganizing
+urbanismo	m0s	city planning
+manufactura	f0s	manufactured goods; factory
+remuneración	f2ones	payment, recompense
+cosmética	f0s
+jurisprudencia	f0s	jurisprudence
+reapertura	f0s	reopening
+ciclomotor	m0es	moped
+reorganización	f2ones	reorganization
+yacimiento	m0s	deposit; site
+obtención	f2ones	acquisition, obtaining
+recopilación	f2ones	summary, compendium; accumulation
+partición	f2ones	partition
+cacique	m0s	powerful person, fat cat; cacique
+confiscación	f2ones	confiscation
+trascendencia	f0s	importance; transcendence
+legionario	m0s	legionary
+peroné	m0s	calf bone, fibula
+remake	m0s	remake
+viabilidad	f0es	viability
+anchura	f0s	width, breadth
+subsistencia	f0s	subsistence
+denominación	f2ones	denomination
+eliminatoria	f0s	qualifying round
+escaño	m0s	seat
+nazismo	m0s	Nazism
+lírica	f0s	lyric; lyric poetry
+cota	f0s	coat of arms; mail
+sintetizador	m0es	synthesiser
+nacionalismo	m0s	nationalism
+artificio	m0s	artifact; artifice
+mucosa	f0s
+insurgencia	f0s	insurgency
+hipocampo	m0s	hippocampus; sea horse
+baya	f0s	berry
+incidencia	f0s	repercussion, impact; incident
+estancamiento	m0s	stagnation; blockage
+emigración	f2ones	emigration
+pigmento	m0s	pigment
+corrosión	f2ones	corrosion
+inclusión	f2ones	inclusion
+videoclub	m0es	video rental shop
+directriz	f1ces	guideline, guidance; directrix
+sublevación	f2ones	uprising, revolt
+reivindicación	f2ones	claim, demand; replevin
+fisco	m0s	national government; fisc
+kurdo	m0s	Kurd; Kurdish
+querella	f0s	lawsuit; complaint
+diputada	f0s
+dictamen	m4ámenes	report
+bisagra	f0s	hinge
+legislador	m0es	legislator
+consternación	f2ones	consternation
+caudal	m0es	flow; volume
+acreedor	m0es	creditor
+retransmisión	f2ones	broadcast, broadcasting
+reticencia	f0s	reticence, reluctance
+haitiano	m0s	Haitian
+cotización	f2ones	price quote, appraisal; contribution
+autocar	m0es	motorcoach, bus
+brocheta	f0s	skewer
+circunvalación	f2ones	circumambulation; vía
+quincena	f0s	period of fifteen days
+modalidad	f0es	modality
+plante	m0s
+gastronomía	f0s	gastronomy
+precipitación	f2ones	precipitation
+delegada	f0s
+cantón	m2ones	canton, district
+dotación	f2ones	resource; staff
+largometraje	m0s	feature film
+embutido	m0s	sausage; cold meat
+opositor	m0es	opponent; oppositionist
+diésel	m0es	diesel fuel
+incógnita	f0s	unknown; mystery
+realizador	m0es	filmmaker, director
+antesala	f0s	anteroom, antechamber; prelude
+contrarreloj	f0es
+potestad	f0es	power, authority
+hacendado	m0s	landowner
+invalidez	f1ces	invalidity; handicap
+hospitalización	f2ones	hospitalization
+ganadería	f0s	livestock; stockbreeding
+autoría	f0s	responsibility; authorship
+funcionalidad	f0es	functionality
+dopaje	m0s	doping
+malhechor	m0es	wrongdoer, malefactor
+mundillo	m0s	circle, group; warming pan
+ginecóloga	f0s
+bolero	m0s	bolero
+restaurador	m0es	restorer; restauranter
+proliferación	f2ones	proliferation
+isótopo	m0s	isotope
+adhesión	f2ones	adhesion; adherence
+estrépito	m0s	noise, clattering
+litoral	m0es	coast
+vástago	m0s	shoot of a plant; offspring
+bombona	f0s	bottle, canister; cylinder
+pastoreo	m0s	grazing; shepherding
+progenitor	m0es	progenitor
+posicionamiento	m0s	positioning
+comilona	f0s	feast; binge
+reunificación	f2ones	reunification
+insatisfacción	f2ones	dissatisfaction
+austeridad	f0es	austerity
+sosiego	m0s	calm, peace
+desinterés	m0es	disinterest
+reactivo	m0s	reagent
+investidura	f0s	investiture, inauguration
+carburante	m0s	fuel
+alegación	f2ones	allegation
+contrapunto	m0s	counterpoint; flipside
+oscilación	f2ones	oscillation
+enriquecimiento	m0s	enrichment
+expropiación	f2ones	expropriation
+misiva	f0s	missive, message
+fiabilidad	f0es	reliability, trustworthiness
+anchoa	f0s	anchovy
+filamento	m0s	filament
+sobresalto	m0s	jolt; scare
+córtex	m0	cortex
+interfase	f0s	interphase
+propensión	f2ones	propensity
+secreción	f2ones	secretion
+baldosa	f0s	tile, slab
+bastidor	m0es	frame, framework; embroidery hoop
+internamiento	m0s	internment
+solidez	f1ces	solidness
+amonestación	f2ones	admonishment; issuing of a caution
+asimilación	f2ones	assimilation
+decena	f0s	ten
+distensión	f2ones	muscle strain; defusion
+merluza	f0s	drunkenness; cocaine
+desconcierto	m0s	bewilderment, disorder
+espiga	f0s	spike; dowel
+arquetipo	m0s	archetype
+topografía	f0s	topography
+gag	m0s	gag
+semanario	m0s	weekly; allowance
+emparejamiento	m0s	pairing, match; mating
+distribuidora	f0s
+etnia	f0s	ethnic group
+cortometraje	m0s	short film
+cesión	f2ones	transfer; short pass of a ball
+arameo	m0s	Aramaean; Aramaic
+alfabetización	f2ones	literacy instruction
+cohesión	f2ones	cohesion
+cofradía	f0s	brotherhood
+saneamiento	m0s	sanitation, drainage; cleaning up
+instigador	m0es	instigator
+cordialidad	f0es	cordiality
+párpado	m0s	eyelid
+borrego	m0s	sheep, lemming
+infortunado	m0s
+afluencia	f0s	inflow, influx
+abonado	m0s	act of spreading fertilizer
+biógrafo	m0s	biographer
+butano	m0s	butane
+neutrón	m2ones	neutron
+dopado	m0s
+solemnidad	f0es	solemnity; festiveness
+cent	m0s
+confluencia	f0s	confluence
+molusco	m0s	mollusc
+peseta	f0s
+convencimiento	m0s	persuasion, convincing
+condolencia	f0s	condolence
+corsario	m0s	corsair
+competitividad	f0es	competitiveness
+modernización	f2ones	modernization
+desplome	m0s	collapse
+edificación	f2ones	building, construction
+colectividad	f0es	collectivity
+rentabilidad	f0es	profitability, cost-effectiveness
+dador	m0es	giver; dealer
+cédula	f0s	license; warrant
+hidratación	f2ones	hydration
+inhibición	f2ones	inhibition
+escama	f0s	scale; flake
+automovilismo	m0s	motor racing, auto racing
+dinamismo	m0s	dynamism
+chabola	f0s	shanty
+pesquisa	f0s	inquiry
+tonalidad	f0es	tonality
+implantación	f2ones	implantation
+moratoria	f0s	moratorium
+sucesora	f0s
+paraje	m0s	place; stopover
+grafito	m0s	graphite
+caserío	m0s	hamlet; country house
+són	m2ones
+planteamiento	m0s	approach, position; idea
+veintena	f0s	Set of twenty units
+liberalismo	m0s	liberalism
+fuero	m0s	charter; law
+agobio	m0s	bother, annoyance
+entramado	m0s	framework, structure; fabric
+antecesor	m0es	predecessor
+cabezada	f0s	nod; headbutt
+descubridor	m0es	discoverer
+estropajo	m0s	scourer, scrubbing brush; mop
+legalización	f2ones	legalization
+sufragio	m0s	suffrage
+patronal	f0es	management; employers
+repatriación	f2ones	repatriation
+señalización	f=senalizaciones	signalling; signposting
+bagaje	m0s	baggage, luggage
+implementación	f2ones	implementation
+parcialidad	f0es	partiality
+cofundador	m0es	cofounder, a male cofounder
+teólogo	m0s	theologian
+equivalencia	f0s	equivalence
+desembocadura	f0s	mouth
+coyuntura	f0s	juncture, conjuncture; situation
+abstracción	f2ones	abstraction; abstractedness
+superación	f2ones	overcoming; self-improvement
+regidor	m0es	regidor
+preparador	m0es	preparer, one who prepares
+reducto	m0s	redoubt
+redistribución	f2ones	redistribution
+espárrago	m0s	asparagus
+excentricidad	f0es	excentricity
+quinteto	m0s	quintet
+transbordo	m0s	change
+enclave	m0s	enclave
+sionismo	m0s	Zionism
+prestación	f2ones	service; perk
+viaducto	m0s	viaduct; in Mexico City
+vigencia	f0s	validity, applicability; term
+oxidación	f2ones	oxidation
+émbolo	m0s	piston; embolus
+regateo	m0s	act of bartering or haggling
+aliciente	m0s	lure, allure; incentive
+bolívar	m0es	bolívar
+coexistencia	f0s	coexistence
+vedette	f0s
+peculiaridad	f0es	peculiarity, oddity; quirk
+viceministro	m0s	vice minister
+cimiento	m0s	foundation
+consolidación	f2ones	consolidation
+aprovisionamiento	m0s	provisioning
+gastroenteritis	f0	gastroenteritis
+ilustrador	m0es	illustrator
+neurona	f0s	neuron
+frenazo	m0s	sudden or violent braking of a vehicle
+galardón	m2ones	award, prize; reward
+sostenibilidad	f0es	sustainability
+sequedad	f0es	dryness
+predicado	m0s	predicate
+cortesano	m0s	courtier
+mulata	f0s	marbled rock crab
+predio	m0s	plot of land
+clorofila	f0s	chlorophyll
+vehemencia	f0s	vehemence, zeal
+crustáceo	m0s	crustacean
+garita	f0s	watchtower, guard post; hut
+bosnio	m0s	Bosnian
+anticuerpo	m0s	antibody
+ilegalidad	f0es	illegality
+antología	f0s	anthology
+deportividad	f0es	sportsmanship
+titularidad	f0es	ownership; holding of office
+prepotencia	f0s	arrogance; absolute power
+expositor	m0es	exhibitor; speaker
+enebro	m0s	juniper
+coordenada	f0s	coordinate
+contragolpe	m0s	counterstroke, counterattack
+fosfato	m0s	phosphate
+plantel	m0es	schoolhouse; staff
+maduración	f2ones	maturation; ripening
+parámetro	m0s	parameter
+desventura	f0s	misfortune; unhappiness
+escarnio	m0s	jibe, taunt
+particularidad	f0es	particularity
+pasividad	f0es	passivity
+autoescuela	f0s	driving school
+videoclip	m0es	music video
+fuel	m0es	fuel oil
+pelotazo	m0s	hit with a ball; drink
+compilación	f2ones	compilation
+bretón	m2ones	Breton
+cantero	m0s	quarry worker, quarryman; bread crust
+desmantelamiento	m0s	dismantlement
+tertulia	f0s	talk show, chat show
+gobernación	f2ones	government, governance
+principado	m0s	principality
+flaqueza	f0s	slimness, thinness; weakness
+derrocamiento	m0s	overthrow, ousting
+adepto	m0s	supporter, follower
+anexión	f2ones	annexation
+quehacer	m0es	work; task
+consonancia	f0s	conformity; harmony
+balonmano	m0s	handball
+grada	f0s	step; stands
+blasón	m2ones	blazon; coat of arms
+prolongación	f2ones	prolongation
+paleontólogo	m0s	paleontologist
+electrodo	m0s	electrode
+circunscripción	f2ones	circumscription; constituency
+disparidad	f0es	disparity
+mochuelo	m0s	little owl; dirty job
+beato	m0s
+pacificación	f2ones	pacification
+malabarismo	m0s	juggling; juggling act
+fuelle	m0s	bellows
+euskera	m0s	Basque language
+abstención	f2ones	abstention
+protectorado	m0s	protectorate
+púgil	m0es	boxer, pugilist
+postulado	m0s	postulate; proposal
+espora	f0s	spore
+reglamentación	f2ones	ruling
+fortificación	f2ones	fortification
+perfeccionamiento	m0s	instance of perfecting
+genocida	f0s	genocider, genocidaire
+incomprensión	f2ones	incomprehension
+talante	m0s	way of being, way; outlook
+detrimento	m0s	detriment
+herma	f0s	herm
+andanada	f0s	volley, barrage; broadside
+cualificación	f2ones	qualification
+precepto	m0s	precept, rule
+solvencia	f0s	solvency; clearance
+modernismo	m0s	modernism
+analfabetismo	m0s	illiteracy, analphabetism
+desinfección	f2ones	disinfection
+mampostería	f0s	masonry, stonemasonry
+liderato	m0s	leadership
+alud	m0es	avalanche; barrage
+escrúpulo	m0s	scruple; qualm
+restablecimiento	m0s	reset, reestablishment
+ponencia	f0s	report, presentation
+reincorporación	f2ones	reincorporation
+repunte	m0s	recovery, hike
+calypso	m0s
+docencia	f0s	teaching, tutoring
+escombro	m0s	rubble; mackerel
+liturgia	f0s	liturgy; ritual
+pretemporada	f0s	preseason
+cuentagotas	m0	dropper
+inductor	m0es	inductor
+confín	m2ines	limit, boundary
+desconocimiento	m0s	ignorance
+celeridad	f0es	rapidity, velocity
+cultivador	m0es	farmer, grower
+interlocutor	m0es	interlocutor; negotiator
+isleño	m0s	islander
+depuración	f2ones	cleansing; purge
+ratificación	f2ones	ratification
+paralelismo	m0s	parallelism
+demarcación	f2ones	demarcation
+cómputo	m0s	calculation
+desbloqueo	m0s	unblocking
+eslovaco	m0s	Slovak; Slovak language
+desembolso	m0s	expenditure, outlay
+nutriente	m0s	nutrient
+pliego	m0s	sheet; document
+tanteo	m0s	estimate; scoring
+metrópoli	f0s	metropolis
+chacra	f0s	small farm
+consistorio	m0s	consistory; town hall
+pugna	f0s	fight; struggle
+sigla	f0s	initial; acronym
+desprestigio	m0s	loss of prestige, disrepute
+rectificación	f2ones	rectification
+raíl	m0es	rail
+homólogo	m0s	counterpart
+escarpa	f0s	escarpment; sidewalk
+cuantía	f0s	quantity; importance
+berlina	f0s	sedan
+descalificación	f2ones	disqualification; discrediting
+desnivel	m0es	difference of altitude; unevenness
+recuadro	m0s	square
+goleador	m0es	goalscorer
+óvalo	m0s	oval
+tubérculo	m0s	tubercle
+cebado	f0s
+autodeterminación	f2ones	self-determination
+acopio	m0s	gathering, collecting
+anticoncepción	f2ones	anticonception
+pacifismo	m0s	pacifism
+retablo	m0s	tableau; retable
+descansillo	m0s	landing
+fisonomía	f0s	appearance; physical features
+interventor	m0es	comptroller
+postguerra	f0s
+nanosegundo	m0s	nanosecond
+hípica	f0s	horse racing
+industrialización	f2ones	industrialization
+fortalecimiento	m0s	fortifying, strengthening
+vicuña	f0s	vicuna
+lacra	f0s	scar, trace; fault
+interconexión	f2ones	interconnection
+compraventa	f0s	trade
+sepelio	m0s	burial
+fichaje	m0s	signing
+dividendo	m0s	dividend
+formulación	f2ones	formulation
+intensificación	f2ones	intensification
+impago	m0s	nonpayment
+reactivación	f2ones	revival, recovery
+energúmeno	m0s	energumen; ugly person
+corralito	m0s	playpen; corralito
+asegurador	m0es	insurance agent; belayer
+elector	m0es	voter, elector
+desencanto	m0s	disillusion; disenchantment
+léxico	m0s	lexicon
+titulación	f2ones	qualification; titration
+arrabal	m0es	suburb
+hipermercado	m0s	hypermarket
+parón	m2ones	break, stop
+alargamiento	m0s	lengthening
+cantautor	m0es	singer-songwriter
+dragado	m0s	dredging
+volatilidad	f0es	tenacity
+canalización	f2ones	channeling
+desamparo	m0s	neglect; helplessness
+beneplácito	m0s	approval
+colegiado	m0s	ref, man in black
+instrumentación	f2ones	instrumentation
+istmo	m0s	isthmus
+hegemonía	f0s	hegemony
+reintegración	f2ones	reintegration
+cápita	f0s	see per cápita
+nomenclatura	f0s	nomenclature
+biomasa	f0s	biomass
+superávit	m0es	surplus
+pivote	m0s	pivot; bollard
+expresidente	m0s	ex-president
+tití	m0es	titi
+traspié	m0s	trip, stumble
+descodificador	m0es	decoder
+mutismo	m0s	muteness; mutism
+cisma	m0s	schism
+promulgación	f2ones	enactment, enacting
+divergencia	f0s	divergence
+afluente	m0s	affluent
+oratorio	m0s
+sustrato	m0s	substratum, underlayer; substrate
+guatemalteco	m0s	Guatemalan
+catamarán	m2anes	catamaran
+devaluación	f2ones	devaluation
+zaga	f0s	rear; defense
+amortización	f2ones	amortization
+aseveración	f2ones	assertion, contention
+sustracción	f2ones	subtraction
+miniserie	f0s	miniseries
+loncha	f0s	slice; slab
+primacía	f0s	primacy
+gravamen	m4ámenes	tax; encumbrance
+consecución	f2ones	obtaining, procurement
+incoherencia	f0s	incoherence
+captación	f2ones	capture, capturing
+aglomeración	f2ones	swarm; agglomeration
+arzobispado	m0s	archbishopric
+capitalización	f2ones	capitalization
+durabilidad	f0es	durability
+diversificación	f2ones	diversification
+menisco	m0s	meniscus, a part of the knee
+bibliografía	f0s	bibliography
+oligarquía	f0s	oligarchy
+hidrocefalia	f0s	hydrocephalus
+remero	m0s	rower, oarsman
+radicalismo	m0s	radicalism
+endeudamiento	m0s	indebtedness
+seleccionador	m0es	selector; manager
+salvadoreño	m0s	Salvadoran
+electrodoméstico	m0s	home appliance, electrical appliance
+enunciado	m0s	utterance
+paridad	f0es	parity, equality
+acervo	m0s	heritage; heap
+militancia	f0s	militance
+ensoñación	f2ones	daydream
+luxación	f2ones	dislocation
+aprovechamiento	m0s	use; improvement
+patronato	m0s	patronage
+granulado	m0s
+polarización	f2ones	polarization
+finés	m0es	Finnish language
+matriculación	f2ones	matriculation
+miliciano	m0s	militiaman, militiawoman
+benzodiazepina	f0s	benzodiazepine
+derbi	m0s	derby, local derby
+depreciación	f2ones	depreciation, devaluation
+pronunciamiento	m0s	pronouncement, declaration
+contencioso	m0s
+franquismo	m0s	Francoism
+tinnitus	m0	tinnitus
+artificiero	m0s	bomb-disposal technician
+plusvalía	f0s	capital gains
+esperpento	m0s	monstrosity; grotesque individual
+bigotudo	m0s	bearded tit. A bird
+despropósito	m0s	nonsense
+rotativo	m0s	rotary printing press; newspaper
+salinidad	f0es	salinity
+viñeta	f0s	vignette; frame
+diseminación	f2ones	dissemination
+significación	f2ones	signification; sense
+montañero	m0s	mountaineer; bumpkin
+gasóleo	m0s	diesel fuel
+párking	m0s	parking lot
+goleada	f0s	rout, landslide
+subespecie	f0s	subspecies
+rescisión	f2ones	termination; rescission
+calificativo	m0s	description, term
+autogobierno	m0s	self-government, autonomy
+reanudación	f2ones	resumption
+apelativo	m0s	surname; epithet
+córner	m0es	corner, corner kick
+edil	m0es	formal title for a mayor; aedile
+conductividad	f0es	conductivity
+injerencia	f0s	interference, meddling
+mestizaje	m0s	miscegenation, especially between…
+islote	m0s	islet
+cardiopatía	f0s	heart disease, cardiomyopathy
+arancel	m0es	tariff
+dupla	f0s	duo; doubles
+microorganismo	m0s	microorganism
+especificación	f2ones	specification
+pluralidad	f0es	plurality
+cohabitación	f2ones	cohabitation; coexistence
+opening	m0es	opening sequence
+estrago	m0s	damage, destruction; corruption
+repostaje	m0s	refuelling
+subcampeón	m2ones	runner-up
+desunión	f2ones	breakage, breakup; disunity
+padrón	m2ones	census; electoral roll
+mediado	m0s
+hostelero	m0s	innkeeper, landlord
+ecuatoriano	m0s	Ecuadorian
+ordenamiento	m0s	legislation; ordering
+escudería	f0s	occupation of a squire; racing team
+sonoridad	f0es	loudness; sound
+sobrevuelo	m0s	flyby; overfly
+repoblación	f2ones	repopulation
+diferenciación	f2ones	differentiation
+polideportivo	m0s	sports centre, sports center
+zaguero	m0s	fullback
+byte	m0s	byte
+tiniebla	f0s	shadow; darkness
+posterioridad	f0es	posteriority
+fatalismo	m0s	fatalism
+fungicida	m0s	fungicide
+disyuntiva	f0s	disjunctive, disjunct; dilemma
+cotejo	m0s	matching, match-up; check mark
+voracidad	f0es	voracity
+ultraderecha	f0s	far right
+vestidura	f0s	clothing
+insolvencia	f0s	insolvency
+nidada	f0s	clutch; brood
+desdoblamiento	m0s	splitting
+marcaje	m0s	marking, following
+contundencia	f0s	forcefulness, conviction
+motociclismo	m0s	motorcycle sport
+urbe	f0s	metropolis
+atribución	f2ones	attribution
+reconversión	f2ones	reconversion
+cogito	m0s
+colofón	m2ones	colophon; climax
+aseguramiento	m0s	assurance
+desidia	f0s	negligence, inertia; procrastination
+embate	m0s	bashing, beating; attack
+corrimiento	m0s	slide
+cabildo	m0s	body of churchmen that forms the chapter…
+autoconocimiento	m0s	self-discovery
+mandatario	m0s	head of state
+hortaliza	f0s	produce, vegetable; orchard
+potencialidad	f0es	potentiality; virtuality
+referendo	m0s	referendum
+desencuentro	m0s	discord, dissension; misencounter
+adelantamiento	m0s	overtaking, passing; progress
+regadío	m0s	fertile land
+liberalización	f2ones	liberalization
+reedición	f2ones	reprint
+pormenor	m0es	circumstance
+autoconciencia	f0s	self-consciousness
+automoción	f2ones	automotive industry; automotive science
+vocablo	m0s	word, term
+hidrocarburo	m0s	hydrocarbon
+detrito	m0s	debris, detritus
+democristiano	m0s	Christian Democrat
+telecomunicación	f2ones	telecommunication
+buchón	m2ones	pouter; drug trafficker
+inminencia	f0s	imminence
+pontificado	m0s	pontificate; papacy
+fuste	m0s	wood; stick
+tributación	f2ones	tax, taxation
+andadura	f0s	gait; walking
+millardo	m0s	billion, milliard
+apilamiento	m0s	stacking
+arbolado	m0s
+ránking	m0es
+precariedad	f0es	precariousness
+solapamiento	m0s	overlap
+semiconductor	m0es	semiconductor
+envite	m0s	bet; push
+exdirector	m0es	ex-director, former director
+palmarés	m0es	list of winners or champions, prize list
+baremo	m0s	scale
+octano	m0s	octane
+externalización	f2ones	outsourcing; externalization
+determinismo	m0s	determinism
+temporalidad	f0es	temporality; short-term employment
+carbunco	m0s	anthrax; fire beetle
+magistrada	f0s
+adecuación	f2ones	adaptation
+cohecho	m0s	bribing, bribery
+filólogo	m0s	philologist
+amiguismo	m0s	cronyism
+vicesecretario	m0s	vice-secretary
+valedor	m0es	protector; friend
+extranjería	f0s	state of being a foreigner
+beatificación	f2ones	beatification
+espectacularidad	f0es	spectacularness
+permeabilidad	f0es	permeability
+gestora	f0s
+decenio	m0s	decade
+liguilla	f0s	small league, play-off competition
+desmovilización	f2ones	demobilization, demobilisation
+refinanciación	f2ones	refinancing
+marginación	f2ones	marginalization
+compostaje	m0s	composting
+dehesa	f0s	meadow, pasture
+señalamiento	m0s	use of traffic signs and signals
+acepción	f2ones	sense, meaning
+fiscalización	f2ones	audit, investigation
+intermediación	f2ones	intermediation
+concreción	f2ones	concretion
+detractor	m0es	detractor
+despoblación	f2ones	depopulation
+pesquería	f0s	fishing; fishing ground
+ábside	m0s	apse
+larguero	m0s	crossbeam; jamb
+radicalidad	f0es	radicalness
+galeote	m0s
+esprint	m0es	sprint
+comicio	m0s	comitia; election
+exjugador	m0es	ex-player
+deflación	f2ones	deflation
+encuestado	m0s	surveyee
+coleóptero	m0s	coleopteran
+pluralismo	m0s	pluralism
+líbero	m0s	sweeper; libero
+separatismo	m0s	separatism
+preacuerdo	m0s	pre-agreement
+payés	m2eses	farmer, peasant
+balsero	m0s	balsero
+deslocalización	f2ones	offshoring, delocation; delocalization
+represor	m0es
+proteccionismo	m0s	protectionism
+vicisitud	f0es	vicissitude
+zíngaro	m0s
+reiteración	f2ones	reiteration
+profundización	f2ones	deepening
+estamento	m0s	social class
+sufijo	m0s	suffix
+eurozona	f0s
+peripecia	f0s	peripeteia; incident
+capitel	m0es	capital
+intentona	f0s	attempt
+obligatoriedad	f0es	obligatoriness
+prevaricación	f2ones	prevarication
+realizadora	f0s
+polimerización	f2ones	polymerization
+leitmotiv	m0es	leitmotif
+insumiso	m0s	objector
+trasvase	m0s	diversion
+linfocito	m0s	lymphocyte
+inclemencia	f0s	inclemency
+tobera	f0s	nozzle
+toletero	m0s	batter
+gobernabilidad	f0es	governability
+grafo	m0s	graph
+angstrom	m0s
+historiografía	f0s	historiography
+ecónomo	m0s	interim guardian
+altibajo	m0s	ups and downs; setback
+crispación	f2ones	tensing; annoyance
+hornacina	f0s	recess; niche
+ralentización	f2ones	slowing, a slowing down: the action or…
+fiscalidad	f0es	fiscality
+subdelegado	m0s	subdelegate
+accionariado	m0s	group of shareholders
+amerindio	m0s
+manierismo	m0s	Mannerism
+autorregulación	f2ones	self-regulation
+grafismo	m0s	graphism
+ttf	m0es
+hepatólogo	m0s	hepatologist
+megavatio	m0s	megawatt
+peronismo	m0s	Peronism
+transepto	m0s	transept
+mediocentro	m0s	midfielder
+desmán	m2anes	desman; outrage
+hospedador	m0es	host
+oficialismo	m0s	ruling party
+perceptor	m0es	recipient
+catalanismo	m0s	Catalanism
+micólogo	m0s	mycologist
+representatividad	f0es	representativity
+lindeza	f0s	prettiness; niceness
+pilastra	f0s	pilaster
+inflorescencia	f0s	inflorescence
+náhuatl	m0es
+pulpería	f0s	bar or tavern
+surafricano	m0s
+solubilidad	f0es	solubility
+trienio	m0s	triennium
+comercializador	m0es	marketer
+poliandria	f0s	polyandry
+correligionario	m0s	co-religionist
+animismo	m0s	animism
+dioso	f0s
+revalorización	f2ones	revaluing
+cuadriciclo	m0s	ATV
+glabra	f0s
+poblamiento	m0s	population
+reboteador	m0es	rebounder
+poblador	m0es	settler, colonist
+medallero	m0s	medal table
+pyme	m0s	Acronym of pequeña y mediana empresa
+universalización	f2ones	universalization
+subfamilia	f0s	subfamily
+eurodiputado	m0s	MEP
+poemario	m0s	collection of poems
+caladero	m0s	fishing ground; hunting ground
+corresponsabilidad	f0es	co-responsibility, joint responsibility
+justicialismo	m0s	justicialism, peronism
+encarecimiento	m0s	increase in price or cost
+freguesia	f0s	administrative parish of Portugal
+plafón	m2ones	ceiling lamp
+siniestralidad	f0es	accident rate
+corregimiento	m0s	corregimiento
+portaavión	f2ones
+topónimo	m0s	placename
+mundialización	f2ones	globalization
+compromisario	m0s	delegate of a convention
+vitoriano	m0s	someone from Vitoria
+centrosoma	m0s	centrosome
+touroperador	m0es	tour operator
+kirchnerismo	m0s	Kirchnerism
+independentismo	m0s	independentism
+aceptor	m0es	acceptor
+advocación	f2ones	naming or dedication
+alqueno	m0s	alkene
+autoconsumo	m0s	autoconsumption
+bráctea	f0s	bract
+calormeno	m0s
+chauchera	f0s
+conseller	m0es	councillor in a Catalan-speaking community
+desamortización	f2ones	seizure, confiscation
+edificabilidad	f0es	buildability
+foliolo	m0s
+fresón	m2ones	strawberry
+ftalocianina	f0s	phtalocyanine
+gibraltareño	m0s	Gibraltarian
+hectómetro	m0s	hectometre
+heterociclo	m0s	heterocycle
+leguminoso	f1as
+leridano	m0s	someone from Lérida
+macrociclo	m0s	macrocycle
+mbitis	m0
+metalomacrociclo	m0s
+motosegadora	f0s
+peatonalización	f2ones	pedestrianization
+pedanía	f0s	district, borough
+peonás	f0es
+planaridad	f0es
+poliacetileno	m0s	polyyne, polyacetylene
+polipirrol	m0es
+pulgado	f1as
+raión	m2ones	raion
+solutrense	m0s
+subregión	f2ones	subregion

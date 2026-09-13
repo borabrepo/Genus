@@ -1,0 +1,4288 @@
+#v 2026-09-11
+#lang it
+#ranked 4237
+cosa	f1e	what's-her-name
+casa	f1e	house; home
+tempo	m1i	time
+vita	f1e	life; waist
+parte	f1i	part; deal
+lavoro	m1i	work; labour
+volta	f1e	time, instance; turn
+uomo	m1ini	person, man
+padre	m1i	father
+bisogno	m1i	need
+amico	m1i	friend, companion; boyfriend
+posto	m1i	place, spot; seat
+cazzo	m1i	business, affair; shit
+giorno	m1i	day
+modo	m1i	manner, way; mood
+mamma	f1e	mom, mommy; mother
+madre	f1i	mother
+favore	m1i	favour
+successo	m1i	success; hit
+momento	m1i	moment; momentum
+tipo	m1i	type, standard
+idea	f1e	idea
+figlio	m1	child; son
+accordo	m1i	accord, agreement; arrangement
+gente	f1i	lineage; population
+caso	m1i	chance, fate
+forza	f1e	force; strength
+nome	m1i	name; first name
+problema	m1i	problem; glitch
+mondo	m1i	world; people
+donna	f1e	woman; wife
+faccia	f2e	face; countenance
+famiglia	f1e	family; household
+ragione	f1i	reason
+notte	f1i	night
+testa	f1e	head, obverse
+tesoro	m1i	valuable things, treasure
+dato	m1i	datum; fact
+scusa	f1e	apology, excuse
+moglie	f1	wife
+storia	f1e	history
+persona	f1e	person, pl people; someone
+polizia	f1e	police
+letto	m1i	bed; riverbed
+aiuto	m1i	help, assistance; support
+paura	f1e	fear; worry
+fratello	m1i	brother, sibling
+capo	m1i	head; boss
+amore	m1i	love
+piano	m1i	plane; floor
+macchina	f1e	machine; car
+mano	f1i	hand; band
+merda	f1e
+bambino	m1i	child, baby; boy
+sera	f1e	evening
+giro	m1i	detour; lap
+morte	f1i	death
+diavolo	m1i	devil, demon
+piacere	m1i	pleasure, enjoyment; delight
+colpa	f1e	fault; blame
+punto	m1i	point, jot; full stop
+papa	m1i	pope
+passato	m1i	past; past tense
+terra	f1e	ground; soil
+strada	f1e	road, way; street
+settimana	f1e	week
+papà	m0	dad, papa
+scuola	f1e	school; class
+sangue	m1i	blood
+traduzione	f1i	translation
+cuore	m1i	center, essence; breast
+marito	m1i	husband
+auto	f1i
+numero	m1i	number; numeral
+acqua	f1e	water; lane
+stanza	f1e	room; stanza
+roba	f1e	things, stuff; goods
+agente	m1i	agent, representative; constable
+corpo	m1i	body, corpse; corpus
+foto	f1i	photo, snap
+telefono	m1i	telephone, phone
+sacco	m1hetti	sack, bag
+festa	f1e	feast; holiday
+senso	m1i	sense; direction
+genere	m1i	kind; gender
+attimo	m1i	moment, instant; bit
+sorella	f1e	sister, sibling
+film	m0	film, movie
+ufficio	m1	office
+domanda	f1e	question; petition
+guerra	f1e	war, warfare
+dottore	m1i	Doctor
+vista	f1e	view, panorama; sight
+prova	f1e	trial, test; examination
+paio	m1i	pair
+conto	m1i	calculation; account
+mezzo	m1i	half, middle; means
+squadra	f1e	set square, triangle; team
+faro	m1i	lighthouse; headlight
+parola	f1e	word
+motivo	m1i	reason, ground; motive
+capitano	m1i	captain
+gioco	m1hi	game; backlash
+mente	f1i	mind
+resto	m1i	rest, remainder; change
+fortuna	f1e	luck; fortune
+cena	f1e	dinner
+controllo	m1i	test, check; surveillance
+tizio	m1	man, someone
+sicurezza	f1e	safety, security; certainty
+matrimonio	m1	marriage; wedding
+culo	m1i
+fuoco	m1hi	fire; lightning
+pistola	f1e	pistol, gun; pistole
+re	m1i	king, male monarch
+mandato	m1i	warrant, order; mandate
+puttana	f1e	bitch; whore
+inizio	m1	beginning, start; opening
+causa	f1e	cause; lawsuit
+voglia	f1e	wish, will; birthmark
+sesso	m1i	sex
+presidente	m1i	president; chairman
+città	f0	town, city
+ospedale	m1i	hospital
+attenzione	f1i	attention
+situazione	f1i	situation, position
+omicidio	m1	murder, homicide
+revisione	f1i	review; servicing
+cura	f1e	care; accuracy
+paese	m1i	country; village
+pace	f1i	peace
+musica	f1he	music
+libro	m1i	book; phloem
+scelta	f1e	choice; selection
+prigione	f1i	jail, prison; cooler
+giornata	f1e	day
+avvocato	m1i	lawyer, counsel; advocate
+messaggio	m1	message
+cielo	m1i	sky; heaven
+bagno	m1i	bath; swim
+aria	f1e	air; look
+voce	f1i	voice; animal noise
+cane	m1i	dog, male dog; hammer
+campo	m1i	field; battlefield
+luce	f1i	light; clearance
+giovane	m1i	youth; young man or woman
+minuto	m1i	minute, moment
+gruppo	m1i	pack; peloton
+arrivo	m1i	arrival; finish
+passo	m1i	footstep; footprint
+bambina	f1e	babe
+onore	m1i	honour; reputation
+verità	f0	truth
+futuro	m1e	future; future tense
+cibo	m1i	food
+fretta	f1e	hurry, haste
+incidente	m1i	incident; accident
+intenzione	f1i	intention, intent
+riguardo	m1i	respect, connection
+aspetto	m1i	look; sight
+viaggio	m1	journey, trip; travels
+bocca	f1he	mouth
+ordine	m1i	order
+occhio	m1	eye; hilum
+mattina	f1e	morning
+sistema	m1i	system; method
+fondo	m1i	bottom; fund
+potere	m1i	power
+mese	m1i	month
+appuntamento	m1i	date, tryst; appointment
+grado	m1i	degree; level
+nave	f1i	ship
+stronzo	m1i
+pezzo	m1i	piece, chunk
+colpo	m1i	blow, knock; punch
+porto	m1i	port, harbour
+lista	f1e	list, pile; strip
+assassino	m1i	assassin, hitman; murderer
+pazzo	m1i	madman
+vittima	f1e	victim
+consiglio	m1	advice, counsel; council
+zio	m1i	uncle
+centro	m1i	centre, center; middle
+specie	f0	kind, type; species
+sogno	m1i	dream; hope
+sole	m1i	star; sun
+legge	f1i	law
+scena	f1e	scene; stage
+rispetto	m1i	respect, deference; adherence
+incontro	m1i	encounter, meeting; match
+rapporto	m1i	report, statement; ratio
+errore	m1i	mistake, error
+sorpresa	f1e	surprise
+occhiata	f1e	look, glance
+risposta	f1e	answer, reply
+servizio	m1	service, serve; bathroom
+medico	m1i	doctor, physician
+schifo	m1i	disgust, nausea; crap
+dolore	m1i	ache, pain; sorrow
+personale	m1i	staff, personnel; figure
+realtà	f0	reality; situation
+fame	f1i	hunger
+programma	m1i	plan; programme
+posizione	f1i	position; whereabouts
+compagnia	f1e	company, troupe; line
+proposito	m1i	aim, object; subject
+ritardo	m1i	delay, lag; retardation
+bar	m0	bar; café
+fallo	m1i	fault, error; foul
+studio	m1	study; perusal
+arma	f1i	weapon, arms
+uscita	f1e	exit, way out; loophole
+video	m1i	video; display
+chiave	f1i	key; spanner
+cervello	m1i	brain; intellect
+coraggio	m1	courage, bravery
+peccato	m1i	sin; bummer
+questione	f1i	question, issue; argument
+aereo	m1i	aeroplane, airplane
+base	f1i	base, alkaline; basis
+compleanno	m1i	birthday
+relazione	f1i	connection; relationship
+diritto	m1i	right side; plain stitch
+appartamento	m1i	apartment, flat
+pranzo	m1i	lunch or dinner
+denaro	m1i	money; denier
+serata	f1e	evening, night
+vestito	m1i	suit, dress; clothing
+carta	f1e	paper; map
+zona	f1e	zone, area or district
+negozio	m1	shop, a store; deal
+partita	f1e	match, game; lot
+tv	f0	television
+spazio	m1	space; room
+notizia	f1e	item of news; piece of information
+linea	f1e	line; dash
+poliziotto	m1i	policeman, police officer; cop
+fronte	f1i	forehead, brow; squall line
+silenzio	m1	silence, quiet
+calma	f1e	calm, stillness; tranquility
+ricerca	f1he	research; investigation
+pena	f1e	sorrow; trouble
+luogo	m1hi	place
+lettera	f1e	letter; footnote
+canzone	f1i	song
+corso	m1i	course; stream
+regalo	m1i	present, gift
+missione	f1i	mission
+test	m0	test
+salute	f1i	health, wellbeing
+computer	m0	computer
+contatto	m1i	contact
+pericolo	m1i	peril, danger
+esercito	m1i	army; host
+guardia	f1e	guard; watch
+casino	m1i	brothel; mess
+caccia	f1e	hunting; look out
+ballo	m1i	dance, ball
+birra	f1e	beer
+club	m0	club
+governo	m1i	running, management; feeding
+oro	m1i	gold
+cucina	f1e	kitchen; cooking
+decisione	f1i	decision; decisiveness
+anima	f1e	soul; sound post
+forma	f1e	form; shape
+esempio	m1	example; specimen
+occasione	f1i	circumstance, occasion; bargain
+droga	f1he	spice; drug
+possibilità	f0	possibility; opportunity
+cellulare	m1i	cellular phone, cell phone
+borsa	f1e	bag, handbag; scholarship
+attacco	m1hi	attack, assault
+inferno	m1i	hell; inferno
+regina	f1e	queen
+crimine	m1i	crime
+chiesa	f1e	church
+livello	m1i	level
+spettacolo	m1i	sight, view; show
+visita	f1e	visit
+sinistra	f1e	left
+processo	m1i	process, course
+mare	m1i	sea
+direttore	m3rici	manager, director; editor
+classe	f1i	class; classroom
+cambio	m1	exchange
+tavolo	m1i	table, board
+stagione	f1i	season
+cavallo	m1i	horse; horsepower
+episodio	m1	episode
+volo	m1i	flight
+differenza	f1e	difference
+codice	m1i	code; codex
+lato	m1i	side
+carne	f1i	meat, flesh
+caldo	m1i	heat; fervour
+pelle	f1i	skin; hide
+interno	m1i	interior, inside; intern
+comandante	m1i	commander, commandant; captain
+pomeriggio	m1	afternoon
+giudice	m1i	judge, magistrate; umpire
+mostro	m1i	monster
+destra	f1e	right
+luna	f1e	natural satellite; silver
+affare	m1i	affair, matter; deal
+vino	m1i	wine
+caffè	m0	coffee; café
+barca	f1he	boat; skiff
+maledizione	f1i	curse, spell
+lezione	f1i	lesson, class
+data	f1e	date
+treno	m1i	train; gun carriage
+radio	f1	radius; radium
+bomba	f1e	bomb
+periodo	m1i	period; moment
+energia	f1e	energy
+segno	m1i	sign; mark
+speranza	f1e	hope
+rischio	m1	threat, jeopardy; risk
+operazione	f1i	operation; surgery
+gamba	f1e	leg
+biglietto	m1i	ticket; card
+pressione	f1i	pressure
+seguito	m1i	retinue, suite; sequel
+maestro	m1i	teacher; master
+offerta	f1e	offer; tender
+scherzo	m1i	joke, trifle; scherzo
+finta	f1e	affectation, simulation; feint
+testimone	m1i	witness; best man
+banca	f1he	bank
+indirizzo	m1i	address; drift
+esperienza	f1e	experience
+portata	f1e	course, plate; carrying capacity
+serie	f0	series; set
+guida	f1e	guide; driving
+prezzo	m1i	price; cost
+ritorno	m1i	return; comeback
+passaggio	m1	passage, passing; transfer
+progetto	m1i	plan, project
+danno	m1i	damage, harm; mischief
+ragazzino	f1e	young boy, little boy
+mossa	f1e	movement
+finestra	f1e	window
+destino	m1i	destiny, fate; destination
+edificio	m1	building; organisation
+colazione	f1i	breakfast; lunch
+collo	m1i	neck; collar
+difesa	f1e	defence; protection
+fiducia	f1e	trust, faith; confidence
+ristorante	m1i	restaurant
+laboratorio	m1	laboratory, lab; workshop
+comando	m1i	order, command
+arte	f1i	art
+meta	f1e	destination; aim
+discorso	m1i	speech, address; talk
+segnale	m1i	signal, sign
+carriera	f1e	career; fastest gait
+muro	m1i	wall
+dubbio	m1	doubt, uncertainty
+stazione	f1i	position, posture; stopping
+emergenza	f1e	emergency; emergence
+giustizia	f1e	justice, fairness; law
+odore	m1i	herbs; smell
+battaglia	f1e	battle, fight
+spirito	m1i	spirit, mind; sparkle
+lingua	f1e	tongue; language
+dipartimento	m1i	department, district
+riunione	f1i	meeting, assembly; reunion
+rumore	m1i	noise, sound; reputation
+torta	f1e	pie, tart; roundel
+eroe	m1i	hero
+turno	m1i	turn; shift
+coppia	f1e	couple; pair
+pausa	f1e	pause, break; rest
+memoria	f1e	memory, recall
+naso	m1i	nose
+nemico	m1i	enemy, foe
+colonnello	m1i	colonel
+palla	f1e	ball
+scatola	f1e	box; tin
+albero	m1i	tree; mast
+tribunale	m1i	court; judicature
+razza	f1e	race, breed; kind
+anello	m1i	ring; link
+piede	m1i	foot
+ferito	m1i	wounded or injured person
+arresto	m1i	arrest; stop
+soldato	m1i	soldier
+natura	f1e	nature; essence
+colore	m1i	color, colour; hue
+uso	m1i	use; usage
+professore	m1i	player; teacher
+sensazione	f1i	sensation, feeling
+compito	m1i	job, task; homework
+corte	f1i	courtyard
+pesce	m1i	fish
+obiettivo	m1i	objective; goal
+show	m0
+accesso	m1i	access, admittance; login
+isola	f1e	island, isle
+opera	f1e	work; means
+bacio	m1	kiss; shade
+bordo	m1i	edge, border; side
+fianco	m1hi	flank; haunch
+metà	f0	half; centre
+peso	m1i	weight; peso
+stile	m1i	style; class
+corsa	f1e	run, running; race
+entrata	f1e	hall, entry; tackle
+soluzione	f1i	solution; liquor
+contratto	m1i	contract, agreement
+scopo	m1i	aim, end
+coltello	m1i	knife
+fila	f1e	line, rank; row
+magia	f1e	magic; spell
+effetto	m1i	effect; appearance
+procuratore	m1i	someone who holds power of attorney
+azione	f1i	action, deed; share
+cadavere	m1i	corpse, body
+fede	f1i	faith, belief; creed
+stampa	f1e	press; print
+taxi	m0	taxi
+angolo	m1i	angle, corner
+latte	m1i	milk
+buio	m1i	darkness, dark
+malattia	f1e	illness, sickness
+gatto	m1i	cat; tom
+estate	f1i	summer
+scomparsa	f1e	disappearance, vanishing; death
+fiume	m1i	river
+schiena	f1e	back
+sindaco	m1i	mayor; statutory auditor
+campagna	f1e	campaign; base
+coglione	m1i	testicle; sucker
+importanza	f1e	importance, consequence
+particolare	m1i	detail, particular
+richiesta	f1e	request, demand
+faccenda	f1e	task, labour; housework
+matto	m1i	madman
+campione	m1i	champion, ace; sample
+mercato	m1i	market
+valore	m1i	value; sense
+bellezza	f1e	beauty; loveliness
+buco	m1hi	hole; gap
+conversazione	f1i	conversation, talk
+attesa	f1e	waiting, wait; expectation
+pensiero	m1i	thought; worry
+conoscenza	f1e	knowledge, cognition; acquaintance
+ponte	m1i	bridge; deck
+malato	m1i	patient, sick person
+sedia	f1e	chair
+ghiaccio	m1	ice; Used to indicate a very cold place
+bottiglia	f1e	bottle
+indagine	f1i	research, search; survey
+tiro	m1i	pull, tug; throw
+sguardo	m1i	glance, look
+perdita	f1e	loss, waste; leak
+milione	m1i
+pratica	f1he	practice; paper
+villaggio	m1	village, hamlet
+fantasma	m1i	ghost, spectre; illusion
+ispettore	m1i	inspector, supervisor
+teoria	f1e	theory
+dovere	m1i	duty
+camion	m0	lorry, truck
+parco	m1hi	park, garden
+palazzo	m1i	royal palace; palatial urban building
+troia	f1e	sow
+area	f1e	area, surface; land
+accusa	f1e	accusation
+pista	f1e	track, trail
+desiderio	m1	wish, desire
+popolo	m1i	people
+altezza	f1e	height, altitude
+seduta	f1e	session, meeting; seat
+minaccia	f2e	threat, menace
+età	f0	age
+genio	m1	genius; spirit
+cinema	m1i	cinema
+tetto	m1i	roof; cap
+media	f1e	average, mean; media
+suono	m1i	sound
+copertura	f1e	covering; roofing
+compagno	m1i	husband, spouse; comrade
+merito	m1i	merit
+società	f0	society, community
+spada	f1e	sword; épée
+bicchiere	m1i	glass, cup
+autobus	m0	bus
+animale	m1i	animal; beast
+azienda	f1e	firm, company
+sabato	m1i	Saturday
+pollo	m1i	chicken
+spiaggia	f2e	beach
+rotta	f1e	rout, defeat; course
+telefonata	f1e	phone call
+liceo	m1i	type of Italian secondary school/high…
+rosa	f1e	rose; shortlist
+doccia	f1e	shower; drainpipe
+arrestato	m1i	person under arrest
+gara	f1e	competition
+orologio	m1	clock, watch
+fan	m0s	fan
+erba	f1e	grass; herb
+viso	m1i	face
+distanza	f1e	distance, interval
+universo	m1i	universe
+esame	m1i	examination, test
+quartiere	m1i	quarter; district
+partito	m1i	party, political party; resolution
+cappello	m1ini	hat
+pagina	f1e	page
+mostra	f1e	exhibition, show
+giardino	m1i	garden
+taglio	m1	cut, slit
+paradiso	m1i	paradise, heaven
+rabbia	f1e	anger, chafe; rabies
+fuga	f1he	flight, escape; leak
+termine	m1i	end, close; limit
+collega	m1hi	colleague
+vittoria	f1e	victory
+giornale	m1i	newspaper; newspaper office
+talento	m1i	talent; talented person
+libertà	f0	freedom
+immagine	f1i	image; imago
+allarme	m1i	alarm; alert
+padrone	m1i	master; owner
+direzione	f1i	direction, way; conductorship
+vendetta	f1e	revenge, vengeance
+regola	f1e	moderation, restraint; menstruation
+ruolo	m1i	role
+mattino	m1i	morning
+funerale	m1i	funeral
+ministro	m1i	minister
+domenica	f1he	Sunday
+spia	f1e	spy, bug; light
+presenza	f1e	presence; attendance
+atto	m1i	act
+vacanza	f1e	holiday, vacation
+medicina	f1e	medicine
+informazione	f1i	information
+violenza	f1e	violence
+articolo	m1i	article
+caduta	f1e	fall; drop
+cugino	m1e	male cousin
+sospetto	m1i	suspect; inkling
+trappola	f1e	trap, snare
+giacca	f1he	jacket, coat
+pugno	m1i	fist; punch
+opinione	f1i	opinion, mind
+interesse	m1i	interest, concern
+ossa	f1e
+carico	m1hi	load, loading; shipment
+fastidio	m1	trouble, bother
+premio	m1	prize, award; reward
+battuta	f1e	witty remark, joke; hit
+tè	m0	tea
+cella	f1	cell
+membro	m1i	member; penis
+lupo	m1i	wolf
+gas	m0	gas; carbon dioxide
+lotta	f1e	fight, struggle; conflict
+percento	m1i	percent
+amicizia	f1e	friendship
+protezione	f1i	protection
+disturbo	m1i	trouble, bother; disturbance
+pane	m1i	bread; block
+aeroporto	m1i	airport, airfield
+gloria	f1e	glory; praise
+terapia	f1e	therapy, treatment
+disastro	m1i	disaster
+sedere	m1i	bottom, butt
+versione	f1i	version
+rete	f1i	net; network
+puzza	f1e
+gola	f1e	throat; gorge
+fumo	m1i	smoke; smudge
+crisi	f0	crisis; fit
+minimo	m1i	minimum, the least; idle speed
+traccia	f2e	vestige, remnant; hint
+albergo	m1hi	hotel, inn
+incendio	m1	fire, blaze
+polvere	f1i	dust, powder
+gioia	f1e	joy, delight
+fucile	m1i	gun, rifle
+maniera	f1e	manner, way; style
+tentativo	m1i	attempt, try
+trucco	m1hi	makeup; trick
+ambulanza	f1e	ambulance; field hospital
+proprietario	m1	owner, proprietary
+credito	m1i	credit
+pizza	f1e	pizza; reel
+movimento	m1i	movement; tempo mark
+regno	m1i	kingdom; reign
+stomaco	m1i	stomach, tummy
+analisi	f0	analysis, testing; parsing
+promessa	f1e	promise; promising person
+fonte	f1i	source, spring; source or fount
+divano	m1i	sofa, divan
+risultato	m1i	result, outcome
+scrivania	f1e	desk, writing desk
+pavimento	m1i	floor
+traffico	m1i	traffic; trade
+prestito	m1i	loan; loanword
+sorriso	m1i	smile
+proiettile	m1i	projectile; bullet
+motore	m1i	engine, motor; mover
+posta	f1e	mail, post; post office
+ingresso	m1i	entrance, hall; entry
+piatto	m1i	plate; dish
+proposta	f1e	proposal
+virus	m0	virus
+frattempo	m1i	meantime
+banda	f1e	side; tape or strip
+esplosione	f1i	explosion, blast
+calcio	m1	kick; association football
+lago	m1hi	lake
+ascolto	m1i	listening; reception
+teatro	m1i	theatre, theater; movie theater
+ladro	m1i	thief, lift; burglar
+pioggia	f2e	rain; shower
+debito	m1i	debt
+pietra	f1e	stone
+uccello	m1i	bird
+sito	m1i	place, site; website
+maiale	m1i	pig; pork
+parcheggio	m1	parking; car park
+camicia	f1e	shirt, dress shirt; jacket
+comportamento	m1i	behaviour, behavior
+montagna	f1e	mountain; blizzard
+formaggio	m1	cheese
+sparo	m1i	shot, gunshot; sound of a shot
+divorzio	m1	divorce
+tazza	f1e	cup, mug
+agenzia	f1e	agency, bureau; branch office
+volto	m1i	face
+intervento	m1i	intervention; presence
+mucchio	m1etti	heap, pile
+salto	m1i	jump, leap; change
+team	m0	team
+soccorso	m1i	aid; help
+respiro	m1i	breath
+giuria	f1e	jury; panel of judges
+modello	m1i	model; mould
+panico	m1hi	panic; foxtail millet
+ombra	f1e	shade, shadow
+piscina	f1e	swimming pool; plunge pool
+tavola	f1e	table
+carica	f1he	position; load
+pensione	f1i	pension; boarding house
+copia	f1e	copy; print
+pilota	m1i	pilot; driver
+sorveglianza	f1e	supervision; surveillance
+dichiarazione	f1i	bid, bidding; declaration
+limite	m1i	limit, limitation; boundary
+bugia	f1e	lie, untruth; candleholder
+affitto	m1i	renting, hiring
+evento	m1i	event
+governatore	m1i	governor
+dono	m1i	gift
+moda	f1e	fashion, trend
+petto	m1i	chest; breast
+custodia	f1e	care; custody
+impressione	f1i	feeling; impression
+terreno	m1i	ground, land; soil
+neve	f1i	snow
+gelato	m1i	ice cream, gelato
+vergogna	f1e	embarrassment, shyness; private parts
+castello	m1i	castle; municipality of San Marino
+pazienza	f1e	patience, endurance
+sonno	m1i	quiet, tranquility; state of being asleep
+malapena	f1e
+maschio	m1	sire, male; boy
+miracolo	m1i	miracle; marvel
+epoca	f1he	epoch, era
+vicenda	f1e	affair, event
+divertimento	m1i	divertimento; fun
+anticipo	m1i	early, time ahead; advance
+rapina	f1e	robbery, mugging; plunder
+nazione	f1i	nation
+band	f0
+argomento	m1i	argument; topic
+artista	m1i	artist
+alba	f1e	dawn, daybreak; sunrise
+telecamera	f1e	television camera
+fase	f1i	stroke; line
+abito	m1i	dress; suit
+suicidio	m1	suicide
+ginocchio	m1a	knee
+galera	f1e	prison, jail; galley
+invito	m1i	invitation; request
+università	f0	university
+bosco	m1hi	wood
+patto	m1i	pact, agreement
+ovest	m0	west
+bestia	f1e	beast
+socio	m1	member, affiliate
+magazzino	m1i	warehouse, store; stock
+commissione	f1i	commission, committee
+vantaggio	m1	advantage, vantage; favour
+mezzanotte	f1i	midnight; north
+esperto	m1i	expert, specialist
+onda	f1e	wave
+incubo	m1i	nightmare, incubus
+fattoria	f1e	farm
+senatore	m1i	senator, member of the Senate
+tasca	f1he	pocket
+secolo	m1i	century; age
+cima	f1e	top; peak
+corridoio	m1	corridor, passage; aisle
+bersaglio	m1	target
+riposo	m1i	rest, repose; sleep
+esterno	m1i	exterior, outside; outfielder
+concerto	m1i	concert, recital; concerto
+clinica	f1he	medicine; clinic
+tecnologia	f1e	technology; technique
+firma	f1e	signature
+furto	m1i	theft; plagiarism
+vendita	f1e	sale; shop
+carcere	m1i	jail, prison; imprisonment
+voto	m1i	vow; vote
+rock	m0	rock
+tomba	f1e	tomb, grave; underground cave or vault
+legame	m1i	link, bond; connection
+mancanza	f1e	absence; fault
+materiale	m1i	material, stuff; materials
+passeggiata	f1e	walk, stroll; public walk
+opportunità	f0	expediency, advisability; opportunity
+follia	f1e	folly, foolishness; fool's errand
+attività	f0	activity, operation; activeness
+leader	m0	leader
+unità	f0	unity
+supporto	m1i	helper; support
+giornalista	m1i	journalist
+scala	f1e	ladder; stair
+scienza	f1e	science; learning
+costume	m1i	custom, habit; costume
+passione	f1i	passion, love; fervour
+autista	m1i	driver; chauffeur
+coscienza	f1e	conscience; consciousness
+discussione	f1i	discussion; argument
+profilo	m1i	profile
+prete	m1i	priest, clergyman
+gusto	m1i	taste
+tunnel	m0	tunnel
+assicurazione	f1i	assurance; insurance
+foresta	f1e	forest
+mappa	f1e	any graphic representation with a scale…
+palco	m1hi	stand, platform; stage
+filo	m1i	thread; yarn
+trattato	m1i	treaty; treatise
+fabbrica	f1he	factory, plant
+cieco	m1hi	blind person
+responsabilità	f0	responsibility
+lancio	m1	throw, drop
+titolo	m1i	title, headline
+assegno	m1i	allowance; cheque
+istante	m1i	moment, instant; petitioner
+sorta	f1e	sort, type
+retta	f1e	straight line; fee
+tempesta	f1e	storm, tempest; shower
+maschera	f1e	mask; surface
+visione	f1i	vision; sight
+reazione	f1i	reaction, backlash
+oggetto	m1i	object
+sport	m0	sport; hobby
+sezione	f1i	section; department
+rifugio	m1	shelter, refuge
+spalla	f1e	shoulder; back
+coincidenza	f1e	concurrence, coincidence; connection
+alcol	m0	alcohol; ethanol
+impegno	m1i	promise, pledge; diligence
+zucchero	m1i	sugar
+giudizio	m1	judgment, wisdom; opinion
+personaggio	m1	figure, personality; character
+reparto	m1i	ward; department
+corda	f1e	rope; chord
+benzina	f1e	petrol, gasoline
+creatura	f1e	creature; protege
+ambiente	m1i	environment; sphere or circle
+garage	m1i	garage
+spiegazione	f1i	explanation, elucidation
+confine	m1i	border, frontier; boundary
+significato	m1i	meaning, sense; importance
+baseball	m0	baseball
+struttura	f1e	accommodation; structure
+specchio	m1	mirror; table
+dosso	m1i	rise; bump
+cambiamento	m1i	change or shift; turn
+reputazione	f1i	reputation; good name
+partenza	f1e	departure, leaving; start
+punizione	f1i	punishment
+influenza	f1e	influence; influenza
+nascita	f1e	birth
+scambio	m1	exchange, interchange; mix up
+distretto	m1i	district, precinct; recruiting office
+fiera	f1e	fair, exhibition; trade show
+palestra	f1e	gym, gymnasium
+inviato	m1i	correspondent, reporter; envoy
+oceano	m1i	ocean; immensity
+cioccolato	m1i	chocolate
+dolcezza	f1e	sweetness; mildness
+documento	m1i	document
+biblioteca	f1he	library; bookcase
+settore	m1i	sector; area
+robot	m0	robot
+veleno	m1i	poison
+diario	m1	diary, journal
+proprietà	f0	property, estate
+offesa	f1e	offence; insult
+incarico	m1hi	task, job; appointment
+inverno	m1i	winter
+maglietta	f1e	T-shirt / tee-shirt; vest
+organizzazione	f1i	organization
+frase	f1i	sentence; phrase
+attore	m1i	actor, player
+sigaretta	f1e	cigarette
+grasso	m1i	fat; any greasy substance
+gradi	m0
+umore	m1i	temper, temperament; mood
+riso	m1i	laughter, laugh; rice
+consegna	f1e	confusion, mix up; request of an exercise
+legno	m1i	wood; stick
+ferro	m1i	iron
+studente	m1i	student; grader
+raggio	m1	ray, beam; spoke
+resistenza	f1e	resistance; stamina
+richiamo	m1i	recall, recalling
+cerimonia	f1e	ceremony, ritual; service
+fegato	m1i	liver; courage
+torre	f1i	tower; rook
+imbarazzo	m1i	obstacle, trouble; embarrassment
+sfida	f1e	challenge
+fermata	f1e	fermata; stop
+stop	m0	stop
+figura	f1e	figure; illustration
+deserto	m1i	desert
+golf	m0	golf; jumper
+ringraziamento	m1i	thanks, thank-you; thanksgiving
+blocco	m1hi	block; notebook
+metro	m1i	metre, meter; ruler
+prodotto	m1i	product
+quadro	m1i	painting or picture; square
+delitto	m1i	murder, homicide; sin
+febbre	f1i	fever
+spinto	f1i
+armadio	m1	wardrobe, closet
+olio	m1	oil
+professionista	m1i	professional, pro
+aggressione	f1i	aggression, attack
+vetro	m1i	glass
+falla	f1e	hole, especially a leak
+elicottero	m1i	helicopter
+mistero	m1i	mystery, enigma
+nastro	m1i	ribbon; tape
+gigante	m1i	giant
+penna	f1e	feather; pen
+cameriera	f1e	waitress; maid
+condizione	f1i	condition; social background
+disco	m1hi	disc, disk
+valigia	f1e	suitcase
+coda	f1e	tail; queue
+cassetta	f1e	box, case; cassette
+sottofondo	m1i	background; substratum
+percorso	m1i	distance; journey
+velocità	f0	sprint; speed
+marcia	f2e	march; racewalking
+orario	m1	timetable, schedule
+commissario	m1	commissioner; superintendent
+saggio	m1	sage; assay
+miele	m1i	honey; sweetness
+conferenza	f1e	conference; lecture
+prigioniero	m1i	prisoner, captive
+folla	f1e	crowd; multitude
+stress	m0	stress
+segretario	m1	secretary; leader
+demone	m1i	demon
+eroina	f1e	heroine
+salsa	f1e	sauce
+torto	m1i	wrong, injustice
+conferma	f1e	confirmation; avowal
+orecchio	m1	ear; hearing
+tragedia	f1e	tragedy
+disposizione	f1i	disposal; gift
+territorio	m1	territory; precinct
+combattimento	m1i	battle, fight; match
+morso	m1i	bite
+vasca	f1one	basin, pond; bath
+contea	f1e	earldom; county
+potenza	f1e	power
+costo	m1i	cost
+canale	m1i	channel; canal
+barba	f1e	beard; root
+primavera	f1e	spring; years
+argento	m1i	silver; argent
+colloquio	m1	talk, conversation; interview
+udienza	f1e	audience; hearing
+fisica	f1he	physics
+tappeto	m1i	carpet, rug; treadmill
+miseria	f1e	poverty; trouble
+cognome	m1i	surname, cognomen
+esistenza	f1e	existence; life
+giocatore	m1i	player
+set	m0	set
+novità	f0	novelty; item of news
+soggetto	m1i	subject, matter
+rivista	f1e	magazine; review
+museo	m1i	museum
+matematica	f1he	mathematics, maths
+orgoglio	m1	pride
+volontà	f0	will, volition
+succo	m1i	juice except tomato juice; gist
+massa	f1e	mass; crowd
+cintura	f1e	waist; belt
+traditore	m1i	traitor; adulterer
+procedura	f1e	procedure
+cavo	m1i	hollow, cavity; cable
+collegamento	m1i	link, hyperlink; liaison
+party	m0	party
+annuncio	m1	announcement, notice; advertisement
+panino	m1i	bread roll, roll; sandwich
+tradimento	m1i	adultery, infidelity; betrayal
+cartello	m1i	signpost, road sign; shop sign
+divisione	f1i	division
+pancia	f1e	belly, stomach
+veicolo	m1i	vehicle; carrier
+autorità	f0	authority; authorities
+gesto	m1i	gesture, an act
+meraviglia	f1e	wonder, astonishment
+largo	m1hi	open sea; square
+adulto	m1i	adult
+infanzia	f1e	childhood, babyhood; infancy
+avventura	f1e	adventure, venture; love affair
+intervista	f1e	interview
+resa	f1e	surrender; return
+serpente	m1i	snake
+fiato	m1i	breath
+sabbia	f1e	sand
+possesso	m1i	possession, ownership; property
+capitolo	m1i	chapter
+osso	m1a	bone; stone
+frutta	f1e	fruit
+superficie	f1	surface; area
+felicità	f0	happiness
+album	m0	album; scrapbook
+pasto	m1i	meal
+nozze	f1i	wedding
+denuncia	f2e	denouncement; registration
+canto	m1i	song; singing
+pacco	m1hetti	parcel, package; bundle
+riserva	f1e	reserve; emergency fuel
+cammino	m1i	walk, way
+registrazione	f1i	registration; entry
+leggenda	f1e	legend; old wives' tale
+busta	f1e	envelope; cover
+danza	f1e	dance
+scorta	f1e	escort; supply
+parto	m1i	Parthian; childbirth
+cancello	m1i	gate, fence
+ipotesi	f0	hypothesis
+conte	m1i	count; earl
+bici	f0
+confessione	f1i	confession; denomination
+cavaliere	m1i	rider or horseman; cavalryman or trooper
+aula	f1e	room, hall; classroom
+burro	m1i	butter
+venerdì	m0	Friday
+produzione	f1i	production, making
+impresa	f1e	enterprise, undertaking; company
+scrittore	m1i	writer, author
+poesia	f1e	poetry, verse; poem
+croce	f1i	cross
+calore	m1i	warmth; heat
+deposito	m1i	deposit, trust; depositing
+pesca	f1he	peach
+plastica	f1he	plastic; plastic surgery
+dispositivo	m1i	appliance, device; dispositif
+espressione	f1i	expression
+sapore	m1i	taste, flavour
+tocco	m1i	touch; knock
+disagio	m1	inconvenience, trouble; hardships
+coma	m1i	coma
+disegno	m1i	drawing, cartoon; design
+atmosfera	f1e	atmosphere, air
+fatica	f1he	effort, endeavour; difficulty
+volante	f1i	steering wheel; Italian police car
+chance	f1i	chance
+impero	m1i	empire
+temperatura	f1e	temperature
+topo	m1i	mouse, rat; thief
+bimbo	m1i	child, baby
+catena	f1e	chain; tie
+femmina	f1e	female
+racconto	m1i	story, tale
+regista	m1i	director
+ruota	f1e	wheel
+rifiuto	m1i	refusal, declination; waste
+battito	m1i	beat, beating; baton
+flotta	f1e	fleet
+allenamento	m1i	training, practice; shape
+infarto	m1i	infarction, infarct
+ossigeno	m1i	oxygen
+affetto	m1i	affection; object of one's affection
+buca	f1he	hole; pit
+trauma	m1i	trauma
+indizio	m1	evidence; clue
+dl	m0
+shock	m0	shock
+identità	f0	identity
+ministero	m1i	ministry
+tubo	m1i	tube; pipe
+cabina	f1e	cabin
+pietà	f0	pity, compassion; piety
+tempio	m1	temple
+mago	m1i	magician, wizard; fortuneteller
+carro	m1i	means of transport used to carry goods
+tema	m1i	theme, subject; stem
+fiore	m1i	flower, bloom; surface
+esperimento	m1i	experiment; test
+gomma	f1e	gum; eraser
+tatuaggio	m1	tattoo
+qualità	f0	quality
+dollaro	m1i	dollar
+reato	m1i	offence, crime
+dipinto	m1i	picture or painting
+capacità	f0	capacity, ability
+patente	f1i	licence, permit
+anniversario	m1	anniversary; birthday
+stupro	m1i	rape
+potenziale	m1i	potential, power
+testimonianza	f1e	deposition, testimony; evidence
+standard	m0	standard
+scoperta	f1e	discovery; find
+comitato	m1i	committee, board
+strategia	f1e	strategy
+cultura	f1e	culture; learning
+confusione	f1i	confusion, chaos; bustle
+obiezione	f1i	objection
+simbolo	m1i	symbol, sign
+linguaggio	m1	language
+tradizione	f1i	tradition, transfer
+schermo	m1i	screen
+cameriere	m1i	waiter; valet
+fantasia	f1e	pattern; fantasia
+bastone	m1i	stick, cane; boom
+settembre	m1i	September
+sostegno	m1i	support; supporter
+gentiluomo	m1ini	gentleman
+chirurgo	m1hi	surgeon
+istituto	m1i	college; institute
+spinta	f1e	push, thrust; leg up
+difficoltà	f0	difficulty
+licenza	f1e	permission, leave; licence
+staff	m0	staff
+caos	m0	chaos
+tono	m1i	tone; shade
+spesa	f1e	shopping, purchase; groceries
+prostituta	f1e	prostitute, hooker
+rapimento	m1i	kidnapping, abduction; ravishment
+collezione	f1i	collection
+trattamento	m1i	treatment; service
+aumento	m1i	increase, rise
+cassaforte	f=casseforti	safe
+targa	f1he	plate, shingle; nameplate
+saluto	m1i	greetings, regards; nod
+temporale	m1i	thunderstorm, storm; temporal
+considerazione	f1i	remark, comment; consideration
+ebreo	m1i	Hebrew, Jew
+lana	f1e	wool
+seno	m1i	breast; bosom
+atteggiamento	m1i	attitude, behaviour
+rovina	f1e	ruins, remains; bane
+corona	f1e	crown
+comunicazione	f1i	communication
+boom	m0	boom
+segreteria	f1e	office of a secretary; secretariat
+coca	f1he
+batteria	f1e	battery; drums
+ritmo	m1i	rhythm
+impatto	m1i	impact
+accento	m1i	stress; accent
+condanna	f1e	sentence; condemnation
+filmato	m1i	clip
+ricompensa	f1e	reward, payoff
+fotografia	f1e	photography
+stipendio	m1	salary, pay
+addestramento	m1i	training
+crema	f1e	cream; custard
+sparatoria	f1e	gunfight, shootout
+dettaglio	m1	detail
+tumore	m1i	tumour, tumor
+boss	m0	boss
+immaginazione	f1i	imagination, fancy
+metodo	m1i	method
+raccolta	f1e	harvesting, picking
+trasferimento	m1i	transfer; conveyancing
+misura	f1e	measure, measurement; size
+coniglio	m1	rabbit; buck
+confronto	m1i	comparison; confrontation
+assistenza	f1e	assistance; attendance
+roccia	f2e	rock, crag; rock climbing
+cocaina	f1e	cocaine
+fallimento	m1i	failure, flop; bankruptcy
+interrogatorio	m1	interrogation, questioning
+carattere	m1i	character, letter; type
+vincitore	m1i	winner; victor
+dose	f1i	dose; quantity
+cimitero	m1i	cemetery, graveyard
+abitudine	f1i	habit, practice; custom
+cauzione	f1i	security, guarantee; bail
+banco	m1hi	desk; counter
+euro	m1i	euro
+ostaggio	m1	hostage
+asta	f1e	pole, rod; spear
+sofferenza	f1e	suffering; delay in the payment of a debt
+registro	m1i	register, book
+cortile	m1i	courtyard; forecourt
+mestiere	m1i	skill, expertise; housework
+sforzo	m1i	effort, endeavour; stress
+emorragia	f1e	hemorrhage, haemorrhage
+protocollo	m1i	register; protocol
+imperatore	m1i	emperor
+sacrificio	m1	sacrifice; cost
+educazione	f1i	education, training; upbringing
+rivoluzione	f1i	revolution; rotation
+tensione	f1i	tension, suspense; stress
+giallo	m1i	colour yellow; amber
+chitarra	f1e	guitar
+generazione	f1i	breed progeny, generation
+distruzione	f1i	destruction
+piazza	f1e	square, plaza; market
+rottura	f1e	breaking or breaking off; breakdown
+ansia	f1e	anxiety, apprehension; eagerness
+secco	m1i	dryland; dryness
+hamburger	m0	hamburger
+avviso	m1i	notice; warning
+dea	f1e	goddess; female star
+cittadino	m1i	citizen, subject; townsman
+portafoglio	m1	wallet, billfold; portfolio
+comunità	f0	community
+genitore	m1i	parent
+balla	f1e	falsehood, lie; large bundle
+mezzogiorno	m1i	midday, noon; south
+romanzo	m1i	novel; literature
+ambasciatore	m1i	ambassador; messenger
+religione	f1i	religion
+promozione	f1i	promotion, advancement; pass
+merce	f1i	goods, wares
+passaporto	m1i	passport
+infermiere	m1i	male nurse
+trono	m1i	throne
+privacy	f0	privacy
+abbraccio	m1	embrace, hug
+consigliere	m1i	adviser; councillor
+fascicolo	m1i	booklet, pamphlet; file
+bandiera	f1e	flag
+chip	m0	chip
+autorizzazione	f1i	authorization, permission; permit
+pubblicità	f0	publicity; advertising
+eccellenza	f1e	Excellency
+trasmissione	f1i	transmission; sending
+record	m0	record
+lusso	m1i	luxury; excess
+apertura	f1e	opening; crack
+spina	f1e	thorn; spine
+fango	m1hi	mud; sludge
+infezione	f1i	infection
+impronta	f1e	footprint; sign
+congresso	m1i	conference, meeting
+economia	f1e	economy; economics
+violazione	f1i	violation; infringement
+metallo	m1i	metal
+opzione	f1i	option
+trasporto	m1i	surge, fit; transposition
+asilo	m1i	nursery, nursery school; asylum
+acciaio	m1	steel
+parere	m1i	opinion, view; estimate
+amministrazione	f1i	administration, management
+suolo	m1i	ground; earth
+associazione	f1i	association, enterprise; clique
+cucciolo	m1i	cub; pup
+macchia	f1e	stain, smear; spot
+principio	m1	beginning, start
+produttore	m1i	producer; manufacturer
+scommessa	f1e	bet, wager; betting
+imputato	m1i	defendant, accused
+bus	m0
+luglio	m1	July
+candidato	m1i	candidate; applicant
+certezza	f1e	certainty, certitude; conviction
+cifra	f1e	figure, numeral; sum
+appello	m1i	plea, appeal; roll call
+dozzina	f1e	dozen
+puntata	f1e	bet, stake; thrust
+origine	f1i	origin, derivation
+isolamento	m1i	isolation; insulation
+lunedì	m3	Monday
+cacciatore	m1i	hunter, huntsman; chaser
+sollievo	m1i	relief, lift; solace
+tramonto	m1i	sunset, sundown; setting
+connessione	f1i	joint, juncture; connection
+miniera	f1e	mine
+stadio	m1	stadium; stage
+pasta	f1e	paste; pasta
+sede	f1i	venue; see
+schema	m1i	pattern, mould; outline
+estero	m1i	foreign countries, understood collectively
+collina	f1e	hill
+forno	m1i	oven; bakery
+cartella	f1e	folder, file; briefcase
+tigre	f1i	tiger
+cronaca	f1he	chronicle; news
+tuta	f1e	sweatsuit, tracksuit; overalls
+manuale	m1i	manual, handbook
+allenatore	m1i	coach, manager
+materia	f1e	matter, substance; subject-matter
+alternativa	f1e
+insegna	f1e	sign; insignia
+parente	m1i	relative or relation; sibling
+assenza	f1e	absence
+avvertimento	m1i	warning, a caution; cue
+sviluppo	m1i	development, growth
+bara	f1e	bier; coffin
+basket	m0	basketball
+tristezza	f1e	sadness, unhappiness; sorrow
+mela	f1e	apple
+osservazione	f1i	observation; remark
+ricetta	f1e	prescription, script; recipe
+umanità	f0	humanity, mankind
+cazzata	f1e
+maggio	m1	May; bloom
+fascino	m1i	charm, fascination
+tessuto	m1i	tissue; textile
+accademia	f1e	academy
+gravidanza	f1e	pregnancy
+investigatore	m1i	detective, investigator
+somma	f1e	sum, amount; addition
+pagamento	m1i	payment
+esecuzione	f1i	execution; carrying out
+guadagno	m1i	earnings; advantage
+irruzione	f1i	irruption, raid
+ambasciata	f1e	embassy; errand
+strumento	m1i	instrument, tool
+impianto	m1i	plant, factory; framework
+medaglia	f1e	medal
+flash	m0
+terrore	m1i	terror, fright
+pattuglia	f1e	patrol
+modulo	m1i	form; unit
+recupero	m1i	recovery; salvage
+bicicletta	f1e	bicycle
+esercizio	m1	exercise
+intelligenza	f1e	intelligence, intellect; understanding
+norma	f1e	rule, norm; model
+laser	m0	laser
+circolo	m1i	circle; club
+scontro	m1i	crash, collision; clash
+presentazione	f1i	presentation; introduction
+descrizione	f1i	description, sketch
+gita	f1e	trip, excursion
+ritiro	m1i	withdrawal; collection
+laurea	f1e	degree
+mafia	f1e	Mafia
+scarpa	f1e	shoe
+giugno	m1i	June
+tregua	f1e	truce; rest
+ottobre	m1i	October
+giuramento	m1i	oath
+terrorista	m1i	terrorist
+popolazione	f1i	population; people
+circo	m1hi	circus; corrie
+testamento	m1i	will, testament
+moneta	f1e	coin; currency
+petrolio	m1	petroleum, oil; paraffin
+rissa	f1e	fight, scuffle or brawl
+rivolta	f1e	revolt, a rebellion
+campanello	m1i	doorbell, bell; handbell
+conclusione	f1i	conclusion; completion
+logica	f1he	logic
+aprile	m1i	April
+volume	m1i	volume
+galleria	f1e	tunnel; gallery
+squalo	m1i	shark
+martello	m1i	hammer
+scandalo	m1i	scandal
+mazza	f1e	baton; club
+custode	m1i	keeper, custodian; warden
+sostanza	f1e	substance, matter; essence
+lutto	m1i	mourning
+pillola	f1e	pill; contraceptive pill
+cassetto	m1i	drawer
+concetto	m1i	concept; opinion
+leva	f1e	lever; those called-up
+equilibrio	m1	balance, equilibrium; harmony
+abilità	f0	ability, skill; cleverness
+attrezzatura	f1e	equipment; facilities
+chiusura	f1e	closure, closing; valediction
+industria	f1e	industry; manufacturing
+sorte	f1i	fate
+funzione	f1i	function; office
+ciclo	m1i	cycle, bike; series
+opposto	m1i	opposite; reverse
+sentiero	m1i	path, trail
+preoccupazione	f1i	preoccupation, worry
+ripresa	f1e	resumption; round
+supermercato	m1i	supermarket
+acido	m1i	acid
+benedizione	f1i	blessing; benediction
+copione	m1i	script; trend
+tortura	f1e	torture; torment
+eccezione	f1i	exception; criticism
+maglia	f1e	stitch; link
+collaborazione	f1i	cooperation, collaboration
+festival	m0s	festival; worker's festival
+pozzo	m1i	shaft, groove; well
+sindrome	f1i	syndrome
+bimba	f1e	child
+coro	m1i	chorus; choir
+dieta	f1e	diet
+debolezza	f1e	weakness
+patria	f1e	one's native land or country
+truffa	f1e	fraud, swindle
+ira	f1e	anger, ire
+parete	f1i	wall; side
+giunta	f1e	council, committee; junta
+repubblica	f1he	republic
+mucca	f1he	milk-cow, milch cow
+pianta	f1e	plant, tree; map
+noia	f1e	boredom, tediousness
+conflitto	m1i	conflict; clash
+ingegnere	m1i	engineer
+guaio	m1	trouble, difficulty
+elenco	m1hi	list, pile; directory
+sopravvivenza	f1e	survival
+canna	f1e	cane; barrel
+calibro	m1i	caliber, bore; callipers
+salotto	m1i	suite; salon
+autore	m1i	author; creator
+ago	m1hi	needle
+prospettiva	f1e	perspective; prospect
+combinazione	f1i	combination; chance
+sega	f1he	saw
+conseguenza	f1e	consequence
+lettura	f1e	reading; lecture
+condotta	f1e	conduct, behaviour; tubing
+scienziato	m1i	scientist; man of science
+vaso	m1i	jar, pot; vase
+azzardo	m1i	hazard, risk; chance
+jet	m0
+perfezione	f1i	perfection
+soggiorno	m1i	living room, lounge; stay
+carburante	m1i	fuel
+decesso	m1i	death, decease
+clown	m0	clown
+soldo	m1i	penny, cent; money
+autostrada	f1e	motorway, expressway
+complimento	m1i	congratulations; compliment
+duca	m1he	duke
+statua	f1e	statue
+frequenza	f1e	frequency; rate
+biancheria	f1e	linen, sheets; underwear
+ricevuta	f1e	receipt
+massaggio	m1	massage
+novembre	m1i	November
+amministratore	m1i	administrator, manager
+ispirazione	f1i	inspiration
+chirurgia	f1e	surgery
+sentenza	f1e	sentence
+marchio	m1	brand, trademark; branding iron
+formazione	f1i	formation, group; education
+torneo	m1i	tournament; competition
+continuazione	f1i	continuation, sequel
+svolta	f1e	turn; turning point
+affidamento	m1i	trust, confidence; custody
+copertina	f1e	cover, sleeve; small blanket
+nido	m1i	nest; home
+valutazione	f1i	calculation, reckoning; valuation
+pigiama	m1i	pyjamas
+carrozza	f1e	carriage; railroad car
+dente	m1i	tooth; cog
+pulsante	m1i	button
+certificato	m1i	certificate
+routine	f1i	routine; rut
+avversario	m1	opponent, antagonist
+attivo	m1i	active voice; assets
+agosto	m1i	August
+appoggio	m1	support
+quota	f1e	share, amount; fee
+perimetro	m1i	perimeter
+frutto	m1i	fruit
+schiavo	m1i	slave
+autunno	m1i	autumn, fall
+arco	m1hi	bow
+riparo	m1i	shelter, hovel
+depressione	f1i	depression; dejection
+consenso	m1i	approval, success; consent
+divisa	f1e	uniform; livery
+tennis	m0	tennis
+compromesso	m1i	arrangement; trade-off
+investimento	m1i	investment; crash
+concorso	m1i	concourse, gathering; concurrence
+clan	m0	clan; team
+salvezza	f1e	salvation
+satellite	m1i	satellite
+marzo	m1i	March
+giovedì	m0	Thursday
+giocattolo	m1i	toy; puppet
+corruzione	f1i	corruption
+sentimento	m1i	feeling, emotion; sensation
+atterraggio	m1	landing
+favola	f1e	fairy tale, fairy story; fable
+diamante	m1i	diamond; crown of an anchor
+fiamma	f1e	flame
+diploma	m1i	diploma
+contenuto	m1i	content; contents
+riga	f1he	line; stripe
+martedì	m0	Tuesday
+botta	f1e	blow, hit
+vena	f1e	vein; grain
+lampada	f1e	lamp, light
+sconfitta	f1e	defeat, overthrow
+durata	f1e	duration, length; life
+salvataggio	m1	rescue; save
+dicembre	m1i	December
+competizione	f1i	competition
+vernice	f1i	paint; varnish
+round	m0	round
+freccia	f2e	arrow
+spreco	m1hi	waste
+commercio	m1	commerce, trade
+assassinio	m1i	murder; assassination
+riabilitazione	f1i	rehabilitation
+flusso	m1i	flow; flux
+quantità	f0	quantity
+foglio	m1	sheet
+diagnosi	f0	diagnosis
+verdetto	m1i	verdict
+approvazione	f1i	approval
+ritratto	m1i	portrait, image
+web	m0	web
+riscontro	m1i	comparison; check
+applauso	m1i	applause; ovation
+riferimento	m1i	reference, mention
+riconoscimento	m1i	recognition, identification
+molo	m1i	jetty, pier
+farmaco	m1i	medicine, medication
+protagonista	m1i	protagonist
+animo	m1i	mind; spirit
+impulso	m1i	impulse, drive
+budget	m0	budget
+sindacato	m1i	syndicate, trust; trade union
+spedizione	f1i	expedition; consignment
+multa	f1e	fine
+solitudine	f1i	solitude, solitary place
+istruzione	f1i	education, schooling; teaching
+professione	f1i	profession, occupation
+commedia	f1e	comedy, play; act
+cava	f1e	quarry, mine
+business	m0	business
+campionato	m1i	championship
+volontario	m1	volunteer
+pipì	f0	pee, wee
+colonna	f1e	column, pillar
+vicepresidente	m1i	vice president; vice chairman
+amichevole	f1i	friendly
+elemento	m1i	element
+gennaio	m1	January
+emozione	f1i	emotion; excitement
+infinito	m1i	infinity, endlessness; infinitive mood
+crescita	f1e	growth
+radar	m0	radar
+curva	f1e	bend, curve
+nebbia	f1e	fog, mist
+sconto	m1i	discount; payment
+etichetta	f1e	label, tag; etiquette
+entusiasmo	m1i	enthusiasm, excitement
+probabilità	f0	probability, likelihood
+regione	f1i	region, area
+iniezione	f1i	injection
+grano	m1i	wheat, corn; grain
+galassia	f1e	galaxy; Milky Way
+archivio	m1	archive, library; filing cabinet
+sequenza	f1e	sequence; row
+colonia	f1e	colony; cologne
+esplosivo	m1i	explosive
+alleanza	f1e	alliance; covenant
+fenomeno	m1i	phenomenon
+fetta	f1e	slice; piece
+obbligo	m1hi	obligation, duty; condition
+cuoco	m1hi	cook, chef
+testo	m1i	earthenware lid; earthenware baking tray
+gabinetto	m1i	cabinet; ministry
+circuito	m1i	circuit; track
+pianoforte	m1i	piano, pianoforte
+orbita	f1e	orbit; eye socket
+formula	f1e	formula
+costruzione	f1i	construction; building
+casco	m1hi	helmet; crash helmet
+pirata	m1i	swindler, shark; pirate
+scudo	m1i	shield, specifically
+biscotto	m1i	biscuit, cookie; match fixing
+riva	f1e	bank, shore
+assalto	m1i	assault, raid; hold up
+guardiano	m1i	shepherd, herdsman; keeper
+tesi	f0	thesis; dissertation
+orrore	m1i	horror; disgust
+cecchino	m1i	sniper
+messicano	m1i	Mexican
+scarico	m1hi	unloading; dumping
+barone	m1i	baron; top brass
+pallone	m1i	ball, football; balloon
+jazz	m0	jazz
+omaggio	m1	homage, tribute; respect
+lotteria	f1e	lottery; sweepstake
+dramma	m1i	drama; tragedy
+attentato	m1i	attack; assassination attempt
+latino	m1i	Latin
+verbale	m1i	record; minutes
+innocenza	f1e	innocence, specifically
+rilascio	m1	issue; release
+ritirata	f1e	retreat, withdrawal; lavatory
+sordo	m1astri	deaf person
+destinazione	f1i	destination; purpose
+risata	f1e	laughter
+soffitto	m1i	ceiling; roof
+senato	m1i	senate
+banana	f1e	banana
+venditore	m1i	seller, vendor
+mattinata	f1e	morning; matinée
+cittadina	f1e	small town
+menzogna	f1e	lie, falsehood
+fotografo	m1i	photographer
+fulmine	m1i	lightning
+centinaio	f1a	hundreds, dozens
+detenuto	m1e	prisoner
+marijuana	f1e	marijuana
+illusione	f1i	illusion, delusion
+risorsa	f1e	resource; asset
+riscaldamento	m1i	heating; warming
+sosta	f1e	stop, halt; pause
+cannone	m1i	cannon; large joint
+personalità	f0	personality; legal personality
+dipendenza	f1e	dependency, dependence
+sciopero	m1i	strike, walkout
+agenda	f1e	diary; planner
+salita	f1e	climb; increase
+provino	m1i	sample, specimen; casting
+precisione	f1i	precision
+ossessione	f1i	obsession; nuisance
+comprensione	f1i	understanding, comprehension
+dimostrazione	f1i	demonstration
+tasso	m1i	rate, level; badger
+palo	m1i	stake, pole; goalpost
+tattica	f1he	tactics; stratagem
+marinaio	m1	sailor, mariner; tarpaulin
+garanzia	f1e	guarantee, warrant
+approccio	m1	approach
+salone	m1i	reception room; saloon
+massacro	m1i	massacre
+ballerina	f1e	pump; wagtail
+gestione	f1i	management
+disgrazia	f1e	misfortune, bad luck; accident
+portiere	m1i	doorman, janitor; goalkeeper
+carità	f0	charity
+software	m1i	software
+scheda	f1e	card; index card
+commento	m1i	comment; commentary
+epidemia	f1e	epidemic
+pompa	f1e	pump; blowjob
+disordine	m1i	excess, intemperance; riot
+priorità	f0	priority; triage
+carbone	m1i	coal; charcoal
+cattura	f1e	capture
+posa	f1e	pose; posing
+progresso	m1i	progress, progression
+dibattito	m1i	debate, discussion
+ring	m0
+creazione	f1i	creation
+sceneggiatura	f1e	screenplay
+delusione	f1i	disappointment
+disperazione	f1i	despair
+raffreddore	m1i	cold
+categoria	f1e	category, topic; class
+filosofia	f1e	philosophy; small pica: 11-point type
+estraneo	m1i	outsider, stranger
+dominio	m1	rule, dominion; power
+invasione	f1i	invasion, rush
+dimensione	f1i	dimension; measurement
+democrazia	f1e	democracy
+trapianto	m1i	transplant, transplantation
+volpe	f1i	fox, vixen; crafty person
+dossier	m0	dossier
+peste	f1i	plague; pest
+inchiesta	f1e	investigation, inquiry; survey
+soprannome	m1i	nickname, moniker
+cemento	m1i	cement; link
+frode	f1i	fraud, a deceit
+inganno	m1i	deception, trick; cheat
+yen	m0
+fusione	f1i	fusion; melting
+generatore	m1i	generator; power supply
+acquisto	m1i	purchase, acquisition
+comunicato	m1i	statement, announcement
+edizione	f1i	edition; broadcast
+cenere	f1i	ash, cinder
+iniziativa	f1e	initiative, enterprise; activity
+onorevole	m1i	Term of address for past and present…
+danneggiato	m1i
+febbraio	m1	February
+limone	m1i	lemon
+barriera	f1e	barrier, turnpike; reef
+finestrino	m1i	window; small window
+apparecchio	m1	braces; receiver
+panchina	f1e	small bench or seat
+contadino	m1i	peasant, farmer
+fondazione	f1i	foundation
+missile	m1i	missile
+mito	m1i	myth
+adozione	f1i	adoption; selection
+seta	f1e	silk
+ditta	f1e	firm, company
+ostacolo	m1i	obstacle; hurdle
+veste	f1i	dress; clothes
+poeta	m1i	poet
+polo	m1i	pole; polo
+mercoledì	m0	Wednesday
+casse	f1i
+franco	m1hi	Frank; franc
+alloggio	m1	lodging, accommodation; flat
+poltrona	f1e	armchair, easy chair; seat
+ritrovo	m1i	meeting place; hangout
+sufficienza	f1e	sufficiency, plenty; pass mark
+grandezza	f1e	size; magnitude
+definizione	f1i	definition
+sudore	m1i	sweat, perspiration
+gelosia	f1e	jealousy; shutter
+aquila	f1e	eagle
+lite	f1i	suit, lawsuit; quarrel
+muso	m1i	muzzle; mug
+caviglia	f1e	ankle; pin
+residenza	f1e	residence, abode
+maglione	m1i	sweater, pullover
+sponsor	m0	sponsor
+stima	f1e	respect; estimate
+punteggio	m1	score; mark
+vigilia	f1e	vigil; eve
+sottomarino	m1i	submarine
+vescovo	m1i	bishop
+libretto	m1i	booklet
+farmacia	f1e	pharmacy
+piega	f1he	fold; pleat
+scrittura	f1e	Scripture
+orchestra	f1e	orchestra; band
+notiziario	m1	news
+altare	m1i	altar
+esposizione	f1i	exposure, display; exhibition
+spot	m0	spot
+circolazione	f1i	traffic; circulation
+calendario	m1	calendar
+soddisfazione	f1i	satisfaction
+caverna	f1e	cave, cavern
+frontiera	f1e	frontier, border
+profitto	m1i	profit
+confraternita	f1e	brotherhood; frat house
+semestre	m1i	semester, half year
+razzo	m1i	skyrocket
+scadenza	f1e	expiration, expiry
+ricchezza	f1e	richness, wealth
+comunista	m1i	communist
+critica	f1he	criticism
+miglio	f1a	millet; Italian mile
+nucleo	m1i	nucleus; core
+freno	m1i	brake; bit
+crociera	f1e	cruise
+corrispondenza	f1e	correspondence; connection
+falco	m1hi	hawk, falcon; fierce and astute person
+bonus	m0	bonus
+legna	f1e	firewood
+pulizia	f1e	cleaning; cleanup
+privilegio	m1	privilege
+ironia	f1e	irony
+ricevimento	m1i	receipt; reception
+abuso	m1i	overuse; abuse
+ferie	f0	holidays, vacation
+protesta	f1e	protest, remonstrance
+cantiere	m1i	shipyard; building site
+individuo	m1i	individual; man
+insetto	m1i	insect, bug
+palude	f1i	marsh, fen
+zucca	f1hine	pumpkin; marrow
+carrello	m1i	trolley; hopper
+esibizione	f1i	performance, pageantry; exhibition
+mais	m0	maize, corn
+creatore	m1i	Creator, Maker
+benessere	m1i	well-being, wellness
+interruzione	f1i	suspension, discontinuation
+arancia	f2e	orange
+coppa	f1e	goblet; bowl
+disciplina	f1e	discipline; order
+terrorismo	m1i	terrorism
+marca	f1he	brand, make or trademark; stamp
+federazione	f1i	federation
+concentrazione	f1i	concentration; merger
+incrocio	m1	crossroads; junction
+sal	f0
+caserma	f1e	barracks
+attrazione	f1i	attraction; allure
+tessera	f1e	card; pass
+furia	f1e	fury, anger; hurry
+ferrovia	f1e	railway
+domicilio	m1	residence; domicile
+tartaruga	f1he	turtle, tortoise; tortoiseshell
+casinò	m0
+curiosità	f0	curiosity, inquisitiveness
+lotto	m1i	lot; plot
+parata	f1e	act of blocking; save
+passeggero	m1i	passenger
+immigrazione	f1i	immigration; immigrants
+letteratura	f1e	literature; bibliography
+addetto	m1i	person assigned or in charge
+maresciallo	m1i	marshall; warrant officer
+crack	m0
+perquisizione	f1i	search, investigation
+critico	m1i	critic; reviewer
+cera	f1e	wax; complexion
+piattaforma	f1e	platform
+pullman	m0	coach, bus
+sostituto	m1i	substitute; relief
+percentuale	f1i	percentage
+suggerimento	m1i	prompt; suggestion
+litigio	m1	litigation; quarrel
+preparazione	f1i	preparation; training
+editore	m1i	publisher; editor
+musicista	m1i	musician
+crollo	m1i	collapse; crash
+evoluzione	f1i	ordered movement
+pasticcio	m1	pie, pasty; mess
+libreria	f1e	bookshop, bookstore; library
+chilo	m1i	kilo; chyle
+perla	f1e	pearl; pill
+manutenzione	f1i	maintenance; upkeep
+bordello	m1i	brothel; great chaos or confusion
+farsa	f1e	farce, masquerade
+maggioranza	f1e	majority, most
+arteria	f1e	artery, arteria
+baracca	f1he	hut, hovel; shack
+terremoto	m1i	earthquake, quake; havoc
+udito	m1i	hearing
+artificio	m1	artifice; device
+clacson	m0	horn; hooter
+clima	m1i	climate; air conditioner
+gorilla	m1i	gorilla
+nuoto	m1i	swimming
+deputato	m1i	delegate, representative; deputy
+trofeo	m1i	trophy
+reporter	m0s	reporter
+architetto	m1i	architect
+ramo	m1i	branch; ramus
+rimorso	m1i	remorse
+chilometro	m1i	kilometre, kilometer
+profondità	f0	depth, depths
+difetto	m1i	defect, fault; deficiency
+lampo	m1i	flash; lightning
+grotta	f1e	cave; grotto
+sospensione	f1i	suspension; adjournment
+rimedio	m1	remedy; medicine
+eredità	f0	inheritance, hereditament; legacy
+piombo	m1i	lead; grey
+procura	f1e	power of attorney, proxy
+sessione	f1i	session
+dignità	f0	dignity
+sfera	f1e	sphere, ball; scope
+tribù	f0	tribe
+lealtà	f0	loyalty, faithfulness; fairness
+psicologia	f1e	psychology
+ammissione	f1i	admission, admittance; acknowledgement
+spaccio	m1	trafficking; passing
+miliardo	m1i
+beneficio	m1	benefit; profit
+fattore	m1i	factor, element
+civiltà	f0	civilization; civility
+baia	f1e	mockery, teasing; trifle
+aggiornamento	m1i	update, updating; adjournment
+separazione	f1i	separation, split-up
+cappella	f1e	chapel; cap
+riflesso	m1i	reflection, glare; reflex
+atleta	m1i	athlete
+regolamento	m1i	regulation; rule
+bacino	m1i	pelvis; field
+sfondo	m1i	setting; background
+comico	m1i	comedian
+seminario	m1	seminary
+contributo	m1i	contribution; charge
+sella	f1e	saddle
+zecca	f1he	mint; tick
+galla	f1e	gall; acorn
+specialista	m1i	specialist, expert
+barzelletta	f1e	joke
+cardinale	m1i	cardinal
+municipio	m1	town council; town hall
+vapore	m1i	steam; vapour especially water vapour
+collegio	m1	college; boarding school
+puzzle	m1i	jigsaw puzzle; difficult problem
+difensore	m1i	defender; advocate
+cucchiaio	m1	spoon; tablespoon
+parrucca	f1he	wig
+gamma	f1e	range, gamut
+patrimonio	m1	estate, property; wealth
+materasso	m1i	mattress
+frigorifero	m1i	refrigerator, fridge
+distributore	m1i	distributor
+ratto	m1i	abduction; rat
+suora	f1e	nun
+orlo	m1i	hem, hemline; orle
+aborto	m1i	abortion; miscarriage
+rio	m1i	brook, stream; stretch of urban canal
+rana	f1e	frog; breaststroke
+complotto	m1i	plot, conspiracy
+autografo	m1i	autograph
+duello	m1i	duel
+provincia	f2e	province; district
+ispezione	f1i	inspection, examination
+nazista	m1i	Nazi
+grido	m1i	cry, shout
+nano	m1i	dwarf, midget; shorty
+rovescia	f1e	part of a garment that is folded towards…
+bandito	m1i	bandit, outlaw
+fogna	f1e	sewer; cesspit
+costituzione	f1i	constitution
+invenzione	f1i	invention
+balena	f1e	whale
+contenitore	m1i	container, holder
+precedenza	f1e	precedence, priority; right of way
+fontana	f1e	fountain; source
+documentario	m1	documentary
+periferia	f1e	outskirts, suburbs; fringe
+abbigliamento	m1i	attire; clothes
+pecora	f1e	sheep; ewe
+asino	m1i	donkey, ass; dunce
+coinvolgimento	m1i	involvement, implication
+etica	f1he	ethics
+contesto	m1i	context, setting
+bancarotta	f1e	bankruptcy
+bottino	m1i	booty, loot; cesspit
+colla	f1e	size; glue or similar sticky material
+essenza	f1e	essence, gist; essential oil
+mutuo	m1i	loan
+farina	f1e	flour, meal
+cancelliere	m1i	chancellor; clerk of the court
+network	m0
+balcone	m1i	balcony
+laureato	m1i	graduate
+capello	m1i	single hair; head hair
+identificazione	f1i	identification; detection
+recinto	m1i	enclosure, cote; pen
+necessità	f0	necessity, need
+liberazione	f1i	release, liberation
+concorrenza	f1e	competition
+camper	m0	campervan, camper
+farfalla	f1e	butterfly; bow tie
+metafora	f1e	metaphor; trope
+disprezzo	m1i	scorn; contempt
+confidenza	f1e	intimacy, familiarity; confidence
+rientro	m1i	return; re-entry
+cellula	f1e	cell
+estrazione	f1i	extraction; mining
+spionaggio	m1	espionage, spying
+pagliaccio	m1	clown, buffoon
+dama	f1e	lady; draughts / checkers
+tabacco	m1hi	tobacco; snuff
+camino	m1i	fireplace; chimney
+sfilata	f1e	parade; march
+immobile	m1i	real estate, immovable property
+cartone	m1i	cardboard, paperboard; carton
+verifica	f1he	verification, test
+indipendenza	f1e	independence
+guanto	m1i	glove
+boxe	f1i	boxing
+tifo	m1i	typhus; enthusiasm
+traguardo	m1i	aim; purpose
+vulcano	m1i	volcano
+soffitta	f1e	attic, loft
+impiego	m1hi	job, position; employment
+assemblea	f1e	assembly, meeting
+guasto	m1i	damage; breakdown
+pittore	m1i	painter
+spugna	f1e	sponge; winesop
+dimora	f1e	residence, abode; delay
+cast	m0	cast
+nuvola	f1e	cloud
+compenso	m1i	remuneration; fee
+balletto	m1i	ballet; ballet music
+gravità	f0	gravity; heaviness
+parlamento	m1i	public assembly or meeting
+capolavoro	m1i	masterpiece
+scenario	m1	scenery, set; backdrop
+velo	m1i	veil; velum
+ambizione	f1i	ambition, purport
+timore	m1i	fear, dread; awe
+conquista	f1e	conquest, seizure; catch
+chiodo	m1i	nail; rivet
+abbandono	m1i	abandonment; desertion
+serbatoio	m1	tank, reservoir; cistern
+bagaglio	m1	luggage, baggage
+profezia	f1e	prophecy
+battesimo	m1i	baptism, christening
+panorama	m1i	view, panorama; outline
+ricognizione	f1i	reconnaissance
+analista	m1i	analyst; psychoanalyst
+meccanismo	m1i	mechanism
+urgenza	f1e	urgency; hurry
+ricatto	m1i	blackmail
+lavaggio	m1	washing, wash
+reggimento	m1i	regiment
+ergastolo	m1i	life sentence
+performance	f1i	performance
+navicella	f1e	gondola; incense boat
+rito	m1i	rite
+avanguardia	f1e	avant-garde; cutting edge
+coprifuoco	m1i	curfew
+gomito	m1i	elbow; bend in a tube
+insulto	m1i	insult, abuse
+patata	f1e	potato
+tentazione	f1i	temptation
+lunghezza	f1e	length
+motto	m1i	witty remark; motto
+biologia	f1e	biology
+dintorni	m0	surroundings, environs
+arbitro	m1i	referee, umpire; arbitrator
+sacca	f1he	bag; inlet
+elettricità	f0	electricity
+week-end	m0
+maratona	f1e	marathon
+fischio	m1	whistle
+baule	m1i	trunk; trunk or boot
+pittura	f1e	painting
+citazione	f1i	summons, subpoena; citation
+continente	m1i	continent; mainland
+traghetto	m1i	ferry
+indagato	m1i	someone under investigation
+giurisdizione	f1i	jurisdiction
+facoltà	f0	faculty
+recitazione	f1i	recitation; acting
+ignoto	m1i	unknown; unknown person
+convento	m1i	convent; monastery
+chiarezza	f1e	clearness; clarity
+calo	m1i	drop, loss
+casetta	f1e
+esemplare	m1i	specimen; example
+discesa	f1e	descent, slope; fall
+granata	f1e	grenade, hand grenade; pomegranate
+centimetro	m1i	centimetre
+sonda	f1e	sonde, probe; drill
+prenotazione	f1i	booking, reservation
+nostalgia	f1e	nostalgia, homesickness
+stoffa	f1e	cloth, material; stuff
+ombrello	m1i	umbrella, brolly
+occupazione	f1i	occupation; occupancy
+box	m0	horsebox; garage
+nodo	m1i	knot, gnarl; bond
+pentola	f1e	pot, saucepan; potful
+automobile	f1i	automobile
+contrabbando	m1i	smuggling; contraband
+ape	f1i	bee; honeybee
+foglia	f1e	leaf
+corsia	f1e	gangway, passageway; lane
+competenza	f1e	competence; jurisdiction
+organo	m1i	organ; panel
+stalla	f1e	cowshed; stable
+documentazione	f1i	documentation; material
+matita	f1e	pencil
+organismo	m1i	organism; body
+manovra	f1e	manoeuvre; shunting
+bibita	f1e	soft drink, non-alcoholic drink
+avvicinamento	m1i	approach
+mascalzone	m1i	rascal, scoundrel
+mozione	f1i	motion
+elezione	f1i	election; choice
+vizio	m1	vice; bad habit
+celebrità	f0	fame; celebrity
+pompiere	m1i	fireman, firefighter; fire brigade
+schifezza	f1e	hideousness, filthiness; rubbish
+armonia	f1e	harmony
+fascia	f2e	strip, band; bandage
+distribuzione	f1i	distribution; delivery
+ingegneria	f1e	engineering
+gioiello	m1i	jewel
+troupe	f1i	troupe, company
+cotone	m1i	cotton; cotton wool
+scatto	m1i	release; trigger
+soglia	f1e	threshold
+stupratore	m1i	rapist
+marketing	m0	marketing
+discoteca	f1he	club, a disco; record library
+tassista	m1i	taxi driver, cab driver; taxicab operator
+carbonio	m1	carbon
+prudenza	f1e	prudence, caution
+cotto	m1i	brickwork
+invio	m1	sending, dispatch; enter
+alleato	m1i	ally
+pila	f1e	pile
+commissariato	m1i	office of a commissioner
+serbo	m1i	Serb; Serbian language
+emendamento	m1i	amendment; emendation
+cesto	m1i	basket
+interpretazione	f1i	interpretation
+registratore	m1i	recorder
+fax	m0
+corvo	m1i	raven, crow
+montaggio	m1	assembly; frame
+segnalazione	f1i	signalling
+astronauta	m1i	astronaut
+messaggero	m1i	messenger
+inventario	m1	inventory, list
+presidenza	f1e	presidency; chairmanship
+regime	m1i	regime, régime; regimen
+umiliazione	f1i	humiliation
+trasformazione	f1i	change, alteration; transformation
+pronuncia	f1e	pronunciation; accent
+specialità	f0	speciality, specialty; peculiarity
+invidia	f1e	envy
+sequestro	m1i	confiscation; sequestration
+risarcimento	m1i	compensation
+intento	m1i	intention, intent; purpose
+schiuma	f1e	foam; froth
+trama	f1e	plot; weave
+ciglio	m1a	eyelash; eyebrow
+buffone	m1i	clown, buffoon
+selezione	f1i	selection, choice; dialing
+blackout	m0
+cattolico	m1i	Catholic
+picco	m1i	peak, summit; spike
+ribellione	f1i	rebellion, an insurrection
+scia	f1e	wake; slipstream
+frammento	m1i	fragment, snippet; passage
+decollo	m1i	takeoff
+striscia	f2e	strip, band; zebra crossing
+operatore	m1i	operator
+binario	m1	line, track; rail
+eccesso	m1i	excess, surplus; glut
+lamento	m1i	moan, groan; lament
+ammalato	m1i	patient; sick person
+simulazione	f1i	simulation; faking
+onestà	f0	honesty; fairness
+rimessa	f1e	garage; hangar
+ricostruzione	f1i	reconstruction
+pomodoro	m1i	tomato
+prostituzione	f1i	prostitution
+sportello	m1i	door, wicket; branch
+raduno	m1i	gathering, meeting
+uccisione	f1i	kill, killing; murder
+rivelazione	f1i	revelation; disclosure
+esecutivo	m1i	executive
+artiglieria	f1e	artillery; gunnery
+pugile	m1i	boxer, pugilist
+sacerdote	m1i	priest, clergyman
+muscolo	m1i	muscle; mussel
+rimpianto	m1i	regret
+fedeltà	f0	accuracy, exactness; loyalty
+barbone	m1i	vagrant; poodle
+ballerino	m1i	dancer, ballet dancer hoofer
+catastrofe	f1i	catastrophe, disaster
+lavatrice	f1i	washing machine
+ondata	f1e	wave
+reattore	m1i	reactor; jet engine
+tasto	m1i	key, button; touch
+sorgente	f1i	spring; source
+sfogo	m1hi	outlet; vent
+tela	f1e	cloth; canvas
+dialogo	m1hi	dialogue; conversation
+zampa	f1e	animal's leg; paw
+tendenza	f1e	trend, drift; leaning
+orizzonte	m1i	horizon
+virtù	f0	virtue; power
+cognata	f1e	sister-in-law
+acceleratore	m1i	accelerator
+spettro	m1i	spectre, ghost
+bevanda	f1e	beverage, drink
+radice	f1i	root; cause
+salario	m1	pay, wages
+serra	f1e	greenhouse, glasshouse
+reclamo	m1i	complaint, a claim; stink
+gemello	m1i	twin; cufflinks
+esito	m1i	result, outcome
+genero	m1i	son-in-law
+diga	f1he	barrier, defense
+forchetta	f1e	fork; frog
+strato	m1i	stratus, layer; stratum
+bilancio	m1	assessment, result; toll
+aggiunta	f1e	addition, inclusion; extension
+diabete	m1i	diabetes
+slogan	m0	slogan, specifically
+polmone	m1i	lung
+console	f1i	consul; console
+stagno	m1i	tin, a metallic element; pond
+evasione	f1i	escapism, escape; tax evasion
+funzionario	m1	official; employee
+abbondanza	f1e	abundance; richness
+rubrica	f1he	rubric; address book
+traiettoria	f1e	trajectory
+motivazione	f1i	motivation; explanation
+caramella	f1e	sweet, candy; monocle
+indice	m1i	index, rate; table of contents
+prototipo	m1i	prototype
+specifica	f1he	specification
+dogana	f1e	customs; customs house
+respirazione	f1i	breathing, respiration
+trionfo	m1i	triumph
+precauzione	f1i	precaution; care
+colpevolezza	f1e	guilt
+risparmio	m1	saving, thrift; savings
+pannello	m1i	panel
+palcoscenico	m1hi	stage
+design	m0	design
+lavoratore	m1i	worker, workman
+informatica	f1he	discipline computer science, information…
+lettore	m1i	reader; player
+scorciatoia	f1e	shortcut, cutoff
+tragitto	m1i	journey; route
+regia	f1e	direction
+nomina	f1e	constitution, assignment; nomination
+consapevolezza	f1e	consciousness, awareness
+calcolo	m1i	calculus
+convinzione	f1i	conviction
+decina	f1e	quantity of ten or so things
+esaurimento	m1i	exhaustion
+coscia	f2e	thigh; leg
+gioventù	f0	youth; young people
+orientamento	m1i	positioning; orientation
+bolla	f1e	bubble; bull
+status	m0	status
+sci	m0	ski; skiing
+illuminazione	f1i	lighting, illumination; enlightenment
+botto	m1i	crack
+volontariato	m1i	voluntary service or work
+balia	f1e	wet nurse; power
+manifestazione	f1i	expression; demonstration
+vetrina	f1e	showcase, display cabinet; glaze
+miglioramento	m1i	improvement
+cautela	f1e	caution, care; precaution
+vigile	m1i	policeman, traffic cop
+polizza	f1e	policy; bill
+pappagallo	m1i	parrot
+fondatore	m1i	founder
+rifornimento	m1i	refuelling; stocks
+accoglienza	f1e	welcome, welcoming; reception
+pentito	m1i	one who repents
+rap	m0
+rinuncia	f2e	renunciation; resignation
+mercurio	m1	mercury
+ignoranza	f1e	ignorance; rudeness
+fornitore	m1i	supplier; purveyor
+shampoo	m1i	shampoo
+operaio	m1	worker, factory worker
+borghese	m1i	middle-class person, bourgeois
+televisore	m1i	television set
+divieto	m1i	prohibition, forbiddance
+riservatezza	f1e	discretion; confidentiality
+magistrato	m1i	magistrate
+confezione	f1i	packaging, packing; clothing
+determinazione	f1i	determination; decision
+pescatore	m1i	fisherman
+scampo	m1i	escape, way out; small lobster
+diplomatico	m1i	diplomat; attaché
+sintomo	m1i	symptom, sign
+brivido	m1i	shiver, shudder
+margine	m1i	margin, border
+compratore	m1i	buyer, purchaser
+partecipazione	f1i	participation; appearance
+ingiustizia	f1e	injustice, wrong
+apparenza	f1e	appearance, look
+consolato	m1i	consulate
+terminale	m1i	terminal
+timone	m1i	rudder; shaft
+lente	f1i	lens
+iscrizione	f1i	inscription; enrolment
+equivoco	m1i	misunderstanding
+testata	f1e	headbutt
+casella	f1e	box; square
+trasmettitore	m1i	transmitter
+fattura	f1e	invoice, bill; cut
+gesso	m1i	chalk; cast
+intervallo	m1i	interval; half time
+sistemazione	f1i	accommodation; settlement
+viaggiatore	m1i	traveller, voyager; passenger
+procedimento	m1i	course; procedure
+classifica	f1he	placings; list
+cannella	f1e	cinnamon
+tappo	m1i	cap, cork; shorty
+filtro	m1i	filter; potion
+aviazione	f1i	aviation; air force
+manifesto	m1i	manifesto; poster
+ghetto	m1i	ghetto
+immaginario	m1	imaginary
+lesione	f1i	damage; injury
+consulenza	f1e	consultancy; advice
+pressi	m0	neighbourhood, outskirts
+propaganda	f1e	propaganda
+dote	f1i	dowry, dower; gift
+estinzione	f1i	extinction; payment
+fiasco	m1i	flask; fiasco
+supervisione	f1i	supervision
+semaforo	m1i	traffic light, stoplight; semaphore
+delfino	m1i	dolphin; dauphin
+proiezione	f1i	projection
+predatore	m1i	predator; plunderer
+paesaggio	m1	landscape; view
+esilio	m1	exile
+trimestre	m1i	term; quarterly payment
+quaderno	m1i	notebook, notepad; school exercise book
+scacco	m1hi	chess piece, chessman; square
+espansione	f1i	expansion
+devozione	f1i	devoutness; devotion
+lampadina	f1e	light bulb
+disoccupato	m1i	unemployed person, jobless person
+intrattenimento	m1i	entertainment
+morsa	f1e	vice, vise
+culto	m1i	religious devotion; liturgy
+imprenditore	m1i	businessman, entrepreneur
+facciata	f1e	side; exterior
+verdura	f1e	vegetable
+convoglio	m1	convoy, rake; funeral procession
+boia	m1i	executioner; hangman
+simpatia	f1e	pleasantness; liking
+inno	m1i	hymn, song
+tappa	f1e	rest, stop; stage
+fibra	f1e	fiber, fibre
+igiene	f1i	hygiene, cleanliness
+romanticismo	m1i	romanticism
+allegria	f1e	liveliness; cheerfulness
+veterano	m1i	veteran, old hand
+acquario	m1	aquarium
+menù	m0
+delirio	m1	delirium; frenzy
+inversione	f1i	reversal, inversion; exchange
+agonia	f1e	agony
+protesi	f0	prosthesis
+licenziamento	m1i	dismissal, sack
+condominio	m1	co-ownership; apartment building
+elmo	m1i	helmet
+alimentazione	f1i	feed, fuel; nutrition
+bis	m0	encore; repetition
+arroganza	f1e	arrogance
+transizione	f1i	transition
+mix	m0
+meteo	m1i	weather forecast
+sintonia	f1e	tuning; harmony
+navigazione	f1i	navigation, shipping; surfing
+candidatura	f1e	candidature, candidacy; application
+agguato	m1i	ambush
+turista	m1i	tourist
+ammasso	m1i	pile, heap; stockpile
+contenimento	m1i	content; limit
+santuario	m1	sanctuary, shrine
+labbro	f1a	lip, labium; rim
+catalogo	m1hi	catalogue, catalog; list
+prodigio	m1	wonder, marvel; prodigy
+stand	m0	stand, booth
+intermediario	m1	intermediary, go-between
+repubblicano	m1i	republican
+obbiettivo	m1i
+percezione	f1i	perception; inkling
+mirino	m1i	sight, scope; viewfinder
+tirocinio	m1	apprenticeship; training
+sbarra	f1e	bar; barrier
+bolletta	f1e	receipt; bill
+ricovero	m1i	shelter, refuge; admission
+ragioniere	m1i	accountant
+rettore	m1i	rector; chancellor
+carota	f1e	carrot; core
+nervo	m1i	nerve; vein
+monumento	m1i	monument, memorial
+vocazione	f1i	vocation; calling
+fantascienza	f1e	science fiction
+eleganza	f1e	elegance, style
+risentimento	m1i	resentment
+scaffale	m1i	shelf; bookshelf
+rivincita	f1e	revenge; rematch
+riparazione	f1i	repair; reparation or compensation
+raccomandazione	f1i	recommendation; advice
+comparsa	f1e	appearance, apparition; extra
+risoluzione	f1i	solution; resolution
+modifica	f1he	adjustment; alteration
+palloncino	m1i	balloon
+gel	m0
+interferenza	f1e	interference
+porzione	f1i	portion, share; helping
+affermazione	f1i	statement, assertion; success
+piccione	m1i	pigeon
+assedio	m1	siege; scrum
+quercia	f2e	oak; wood of such a tree
+fumetto	m1i	comics, comic strip; speech bubble
+equazione	f1i	equation
+offensiva	f1e	attack, assault
+votazione	f1i	voting; mark
+colombo	m1i	pigeon
+insegnamento	m1i	teaching; act of teaching
+composizione	f1i	composition; typesetting
+piuma	f1e	feather, plume; down
+allievo	m1i	pupil, student
+caratteristica	f1he	specifications; characteristic
+collasso	m1i	collapse
+deviazione	f1i	diversion, detour; deviance
+tabella	f1e	table; board
+apparizione	f1i	appearance; apparition
+saldo	m1i	settlement, payment; balance
+antenna	f1e	flagpole; yard
+disaccordo	m1i	disagreement
+logo	m1hi	logo; logotype
+spirale	f1i	spiral; coil
+dilemma	m1i	dilemma
+ambito	m1i	scope, ambit
+decennio	m1	decade
+normalità	f0	normality
+cubo	m1i	cube
+ebbrezza	f1e	intoxication, inebriation; thrill
+povertà	f0	bareness; poverty
+moschea	f1e	mosque
+fungo	m1hi	mushroom; fungus
+prescrizione	f1i	prescription; rule
+meccanica	f1he	mechanics; mechanism
+razzismo	m1i	racism, racialism
+gregge	m1i	flock
+rappresentazione	f1i	representation; portrayal
+mercante	m1i	merchant, dealer
+rombo	m1i	roar; rhombus
+boccata	f1e	mouthful; puff
+ricavato	m1i	proceeds
+lontananza	f1e	distance; absence
+cespuglio	m1	bush, shrub
+capro	m1i	male goat. See capra
+trasloco	m1hi	move; transfer
+applicazione	f1i	application; employment
+milizia	f1e	militia
+ricorso	m1i	recourse; appeal
+petizione	f1i	petition
+sarto	m1i	tailor
+tariffa	f1e	rate, tariff
+reddito	m1i	income; revenue
+vano	m1i	room; space
+abisso	m1i	abyss, gulf
+forum	m0	forum
+circostanza	f1e	circumstance
+vecchiaia	f1e	old age
+rimborso	m1i	repayment; reimbursement
+specializzazione	f1i	specialization
+prelievo	m1i	sample, sampling; withdrawal
+volantino	m1i	flier, leaflet; handwheel
+tributo	m1i	tax; tribute
+acquirente	m1i	buyer, purchaser
+sound	m0	sound
+soffio	m1	breath; murmur
+navigatore	m1i	websurfer; navigator
+corteccia	f1e	cortex; bark
+consumo	m1i	consumption, use
+banchiere	m1i	banker
+ricambio	m1	change, repayment; spare part
+bue	m1i	ox
+relax	m0	relaxation
+torrente	m1i	stream, creek
+prestigio	m1	prestige, status
+architettura	f1e	architecture
+frustrazione	f1i	frustration
+ananas	m0	pineapple
+parentesi	f0	bracket, parenthesis
+tolleranza	f1e	tolerance, toleration
+musulmano	m1i	Muslim
+riduzione	f1i	discount; reduction
+opposizione	f1i	opposition
+permanenza	f1e	stay, sojourn; permanence
+comunione	f1i	communion
+paglia	f1e	straw
+tavolino	m1i	stage of a microscope; small table
+utilizzo	m1i	utilization; availment
+ente	m1i	corporation, body; being
+aeronautica	f1he	aeronautics
+esattezza	f1e	exactness, accuracy
+clandestino	m1i	illegal immigrant; stowaway
+accettazione	f1i	acceptance; reception
+estorsione	f1i	extortion, extorting
+cuoio	m1	leather
+previdenza	f1e	prudence; foresight
+zar	m0	tsar, czar
+giornalismo	m1i	journalism
+litro	m1i	litre
+rianimazione	f1i	resuscitation, intensive care
+vigilanza	f1e	supervision; surveillance
+fosso	m1i	ditch; moat
+dispiacere	m1i	regret, sorrow; grief
+derby	m0	derby
+rottame	m1i	scrap, scrap iron; wreck
+bozza	f1e	bump; draft or proof
+varco	m1i	act of crossing or passing
+orto	m1i	vegetable garden; market garden
+marmo	m1i	marble
+shuttle	m1i	space shuttle
+espulsione	f1i	expulsion; deportation
+cattedrale	f1i	cathedral
+debutto	m1i	debut
+datore	m1i	giver; donor
+schiavitù	f0	slavery
+tonnellata	f1e	tonne, ton
+piramide	f1i	pyramid
+successore	m1i	successor, incomer
+dinastia	f1e	dynasty, house
+programmazione	f1i	programming, coding; planning
+osservatore	m1i	observer
+concessione	f1i	concession
+rapinatore	m1i	robber
+cartina	f1e	map or a small map; cigarette paper
+poppa	f1e	breast, boob; stern
+gol	m0	goal
+arredamento	m1i	furniture, furnishings
+diffusione	f1i	diffusion, spread; circulation
+anteprima	f1e	trailer, preview; antecedent
+viale	m1i	boulevard, avenue
+componente	m1i	component; element
+ambulatorio	m1	surgery, consulting room
+patologia	f1e	pathology; disease
+istituzione	f1i	institution, institute; institutes
+pretesto	m1i	excuse, pretext
+fascista	m1i	fascist
+sipario	m1	curtain
+riproduzione	f1i	reproduction
+visitatore	m1i	visitor, caller
+intesa	f1e	entente; arrangement
+idrogeno	m1i	hydrogen
+finanza	f1e	finance
+aspettativa	f1e	expectation
+giocata	f1e	game; bet
+allevamento	m1i	breeding or rearing; farm
+abitazione	f1i	habitation; residence
+bilancia	f2e	balance, scales
+meditazione	f1i	meditation
+altitudine	f1i	height, altitude
+vegetale	m1i	vegetable
+modalità	f0	formality; modality
+tassa	f1e	tax, duty
+clausola	f1e	clause, codicil
+scontrino	m1i	receipt, ticket
+ingrediente	m1i	ingredient; base
+bronzo	m1i	bronze
+unghia	f1e	nail, claw
+chiasso	m1i	din, uproar; fuss
+sperimentazione	f1i	experimentation, experiment
+contante	m1i	cash, ready cash
+riciclaggio	m1	recycling; money laundering
+delicatezza	f1e	delicacy; frailty
+scoppio	m1	explosion; bang
+meeting	m0	meeting
+istanza	f1e	expectation, need; request
+ammirazione	f1i	admiration
+filiale	f1i	branch; subsidiary
+getto	m1i	throwing
+idolo	m1i	idol
+valuta	f1e	currency; value date
+contrasto	m1i	obstacle, hindrance; quarrel
+ragionamento	m1i	reasoning; argument
+gradimento	m1i	liking; satisfaction
+strage	f1i	massacre, a mass murder
+ritrovamento	m1i	finding
+riforma	f1e	reform; discharge
+efficienza	f1e	efficiency
+ricevitore	m1i	receiver; tax collector
+collezionista	m1i	collector
+stampante	f1i	printer
+tastiera	f1e	keyboard; fingerboard
+rogo	m1hi	pyre; bonfire
+cappio	m1	slip knot; noose
+mutazione	f1i	change, alteration; Grimm's law
+alluminio	m1	aluminium
+minoranza	f1e	minority
+minchia	f1e	something unwanted or poor quality
+retorica	f1he	rhetoric
+match	m0	match; horserace
+scheggia	f2e	splinter, shiver
+scavo	m1i	excavation
+paragrafo	m1i	paragraph
+ingaggio	m1	bounty
+diva	f1e	star; goddess
+portatore	m1i	bearer; carrier
+burattino	m1i	puppet
+ascesa	f1e	ascent, climb; rise
+mischia	f1e	brawl, scuffle; scrum
+annullamento	m1i	cancellation, annulment
+acquisizione	f1i	acquisition
+clientela	f1e	customer, client
+trattativa	f1e	negotiation, talks
+sigla	f1e	initials; monogram
+notaio	m1	notary, notary public
+cilindro	m1i	cylinder; roller
+tutela	f1e	guardianship; protection
+scultura	f1e	sculpture
+spazzola	f1e	brush; hairbrush
+lacrima	f1e	tear
+conduttore	m1i	conductor; driver
+notifica	f1he	notification
+sodio	m1	sodium
+convegno	m1i	meeting; meeting place
+burocrazia	f1e	bureaucracy
+formalità	f0	formality; formalities
+bombardamento	m1i	bombardment
+investitore	m1i	investor; driver who ran somebody over
+vettura	f1e	car; carriage
+coperchio	m1	lid, cover
+combustibile	m1i	fuel, combustible
+intimità	f0	intimacy; privacy
+agricoltura	f1e	agriculture
+mafioso	m1i	Mafioso, a member of the Mafia
+cooperazione	f1i	cooperation, collaboration
+parroco	m1i	parish priest
+varietà	f0	variety; difference
+entità	f0	entity; extent
+residuo	m1i	remainder; residue
+congelatore	m1i	freezer; deep-freeze
+adattamento	m1i	adaptation; conversion
+capriccio	m1	whim, fancy; tantrum
+attivazione	f1i	starting; activation
+delizia	f1e	delight
+videogioco	m1hi	video game
+stabilimento	m1i	factory, plant; establishment
+vigore	m1i	vigour, stamina; force
+piantagione	f1i	plantation
+sponda	f1e	bank, riparian; shore
+vicedirettore	m1i	deputy manager, editor or headmaster
+collisione	f1i	collision; clash
+matrice	f1i	matrix; stencil
+azoto	m1i	nitrogen
+decreto	m1i	decree
+minerale	m1i	mineral, ore; bottle of mineral water
+tacco	m1hi	heel; chock
+avvio	m1	start, beginning; startup
+carenza	f1e	shortage; deficiency
+abbonamento	m1i	subscription; season ticket
+ottimismo	m1i	optimism
+stampo	m1i	kind, type; template
+pantera	f1e	panther; Italian police car
+urto	m1i	knock, bump; crash
+contorno	m1i	contour, outline; vegetables
+nube	f1i	cloud; haze
+stanchezza	f1e	tiredness, weariness
+pareggio	m1	balance; draw
+sensibilità	f0	sensibility; sensitivity
+esitazione	f1i	hesitation
+scaletta	f1e	disc jockey's playlist
+cabaret	m0	cabaret
+ristrutturazione	f1i	reorganization; restoration
+rimozione	f1i	repression; removal
+caldaia	f1e	boiler; cauldron
+poligono	m1i	polygon; firing range
+telaio	m1	loom, frame
+lanciatore	m1i	thrower; pitcher
+brano	m1i	piece, slip; passage
+colletto	m1i	collar
+eliminazione	f1i	elimination
+utente	m1i	user; consumer
+costruttore	m1i	builder; manufacturer
+debitore	m1i	debtor
+ordigno	m1i	complex device; explosive device
+rinascita	f1e	rebirth; revival
+banconota	f1e	banknote
+fisco	m1i	tax inspector, taxman; fisc
+retromarcia	f2e	reverse; rollback
+introduzione	f1i	insertion; introduction
+sbarco	m1i	unloading; disembarkation
+cittadinanza	f1e	citizenship; all the citizens of a town
+sondaggio	m1	sounding; drilling
+disoccupazione	f1i	unemployment, joblessness
+patatina	f1e	crisp; chip
+pseudonimo	m1i	pseudonym; pen name
+vetta	f1e	top, summit; peak
+asfalto	m1i	asphalt, bitumen
+negoziazione	f1i	negotiation
+gergo	m1hi	slang; jargon
+filosofo	m1i	philosopher
+macchinario	m1	machinery
+sporto	m1i	overhang, ledge
+insaputa	f1e	Only used in all'insaputa di
+sostenitore	m1i	supporter, backer; sponsor
+pegno	m1i	pledge, security; token
+biografia	f1e	biography
+microscopio	m1	microscope
+perizia	f1e	skill, ability; report or opinion
+designer	m0	designer
+paragone	m1i	comparison; large size of type
+tamburo	m1i	drum; brake drum
+grafico	m1i	graph, plot; graphic artist
+parallelo	m1i	parallel
+manichino	m1i	dummy, mannequin
+giurisprudenza	f1e	jurisprudence; case law
+prefetto	m1i	prefect
+assunzione	f1i	employment; engagement
+giustificazione	f1i	justification, explanation
+contabilità	f0	accountancy; accounting
+successione	f1i	succession, inheritance
+insediamento	m1i	settlement, settling; installation
+pregiudizio	m1	prejudice, bias
+mora	f1e	arrears; mulberry
+brevetto	m1i	patent
+zolfo	m1i	sulfur, sulphur; brimstone
+correzione	f1i	correction; marking
+cinghiale	m1i	wild boar; pigskin
+estensione	f1i	extension; expansion
+vitamina	f1e	vitamin
+commessa	f1e
+celebrazione	f1i	celebration
+tinta	f1e	dye; colour
+cisterna	f1e	tank; cistern
+atletica	f1he	athletics
+evidenza	f1e	evidence, obviousness; force
+dinamica	f1he	dynamics
+guru	m0	guru
+pubblicazione	f1i	publication
+discriminazione	f1i	discrimination
+aspirazione	f1i	suction; ambition
+itinerario	m1	itinerary, route
+redattore	m1i	editor; writer
+valanga	f1he	avalanche
+sussidio	m1	aid; subsidy
+commemorazione	f1i	commemoration
+edilizia	f1e	building
+rinvio	m1i	postponement; adjournment
+provenienza	f1e	origin, provenance
+manipolazione	f1i	manipulation; rigging
+ultimatum	m0
+liquidazione	f1i	liquidation; settlement
+merenda	f1ine	snack; tea
+attivista	m1i	activist
+ricezione	f1i	receipt; reception
+telefonino	m1i	mobile phone, mobile
+lastra	f1e	slab; sheet
+corteo	m1i	procession
+intercettazione	f1i	wiretap, wiretapping; interception
+trazione	f1i	traction; drive
+finanziamento	m1i	financing; funds
+commercialista	m1i	business consultant; chartered accountant
+colomba	f1e	dove
+declino	m1i	decline
+comunismo	m1i	communism
+sostituzione	f1i	substitution
+mandria	f1e	herd, drove; crowd
+puntino	m1i	dot, tittle
+monsignore	m1i	Monsignor
+paletto	m1i	stake, peg; bolt
+globo	m1i	globe
+pizzeria	f1e	pizzeria
+rugby	m0	rugby
+verbo	m1i	Word
+elogio	m1	praise, commendation; eulogy
+disputa	f1e	argument, quarrel; discussion
+sanità	f0	health; army medical corps
+incentivo	m1i	incentive; benefit
+leadership	f0	leadership
+fusto	m1i	trunk; stem
+riflessione	f1i	reflection, reflexion
+blitz	m0	blitz
+paradosso	m1i	paradox
+pianificazione	f1i	planning
+sterlina	f1e	pound, sterling
+compositore	m1i	composer; compositor
+mentalità	f0	mentality
+infortunio	m1	misfortune, mishap; accident
+vincolo	m1i	bond, tie; encumbrance
+ceramica	f1he	ceramic, ceramics
+lino	m1i	flax; linen
+previsione	f1i	prediction, forecast; expectation
+controllore	m1i	inspector; customs officer
+rilancio	m1	raising; relaunch
+filato	m1i	yarn, thread
+avorio	m1	ivory
+collaboratore	m1i	contributor; collaborator
+accelerazione	f1i	acceleration
+bivio	m1	fork; crossroads
+redazione	f1i	editing; writing
+olocausto	m1i	sacrifice; genocide
+geografia	f1e	geography
+cognizione	f1i	knowledge; notion
+rilievo	m1i	prominence or emphasis; relief
+ipocrisia	f1e	hypocrisy, cant
+distacco	m1hi	detaching; parting
+crostata	f1e	tart
+motorino	m1i	moped; motor
+organico	m1i	staff, personnel; line-up
+inventore	m1i	inventor
+diplomazia	f1e	diplomacy; tact
+artiglio	m1	claw; talon
+grillo	m1ini	cricket; whim
+gestore	m1i	manager
+cartellone	m1i	playbill, programme; poster
+dittatore	m1i	dictator, despot
+vincita	f1e	win, victory; winnings
+ipoteca	f1he	mortgage; claim
+capitalismo	m1i	capitalism
+estremità	f0	end; point
+trentina	f1e	about thirty
+imposta	f1e	tax, duty; shutter
+sfruttamento	m1i	exploitation, utilization
+radiazione	f1i	radiation; cancellation
+reperto	m1i	find; exhibit
+rammarico	m1hi	regret
+trave	f1i	beam, girder; balance beam
+ordinazione	f1i	order; ordination
+delegazione	f1i	delegation
+mantenimento	m1i	maintenance
+negoziato	m1i	negotiation, talks
+contagio	m1	contagion; disease
+magnate	m1i	magnate, tycoon
+realizzazione	f1i	realization; fulfilment
+solidarietà	f0	solidarity; sympathy
+rigore	m1i	rigour; strictness
+uguaglianza	f1e	equality; identity
+urna	f1e	urn, pot; ballot box
+incertezza	f1e	uncertainty, doubt; indecision
+malaria	f1e	malaria
+umidità	f0	humidity
+fazione	f1i	faction
+calamita	f1e	magnet; lodestone
+ottica	f1he	optics; perspective
+icona	f1	icon, ikon
+sospiro	m1i	sigh
+vocabolario	m1	vocabulary, lexicon; dictionary
+telo	m1i	sheet, cloth; weapon
+volata	f1e	flight; final sprint
+deficit	m0	deficit
+lira	f1e	lira; lyre
+lasso	m1i	flow, passage; lariat
+temperamento	m1i	temperament, disposition
+diametro	m1i	diameter
+zingaro	f1i	Gypsy; scruffy or slovenly person
+inquinamento	m1i	pollution
+carreggiata	f1e	carriageway
+velivolo	m1i	aircraft
+incursione	f1i	incursion, foray
+medioevo	m1i	Middle Ages
+abitato	m1i	built-up area; town
+nesso	m1i	connection; link
+intervistato	m1i	interviewee
+scalata	f1e	scaling, climbing
+arcivescovo	m1i	archbishop
+ricercatore	m1i	researcher
+pallacanestro	f1i	basketball, basket
+frana	f1e	landslide, landslip
+fornitura	f1e	supply
+ostilità	f0	hostility; hostilities
+servitù	f0	servitude, bondage
+lamentela	f1e	complaint, grumble; complaining
+cacao	m1i	cocoa
+anarchia	f1e	anarchy, anarchism
+truppa	f1e	troop; troops
+studioso	m1i	scholar, scientist
+genocidio	m1	genocide
+ribalta	f1e	leaf, flap; apron
+indicazione	f1i	indication; instruction
+avvistamento	m1i	sighting
+pneumatico	m1i	tyre, tire
+prassi	f0	praxis; Custom or established practice
+stratagemma	m1i	stratagem; scheme
+criminalità	f0	crime; criminality
+spettatore	m1i	spectator; bystander
+frazione	f1i	fraction; hamlet
+monologo	m1hi	monologue, soliloquy
+elettroshock	m0	electroshock
+intensità	f0	intensity, force
+trascrizione	f1i	transcription
+turismo	m1i	tourism
+medicinale	m1i	medicine; drug
+repertorio	m1	repertoire, repertory
+nullità	f0	nullity; invalidity
+diligenza	f1e	diligence; stagecoach
+inclinazione	f1i	gradient; slope
+leggerezza	f1e	lightness
+spostamento	m1i	movement; shift
+maternità	f0	maternity, motherhood; maternity ward
+paesino	m1i	small village
+statuto	m1i	statute
+pilastro	m1i	pillar, column; pilaster
+mediatore	m1i	mediator, negotiator; middle man
+culmine	m1i	summit, top
+dirupo	m1i	cliff, crag
+gerarchia	f1e	hierarchy
+miccia	f2e	fuse
+concentramento	m1i	concentration
+emissario	m1	effluent; river that drains a lake
+sterminio	m1	extermination, eradication
+rendimento	m1i	efficiency; productivity
+persecuzione	f1i	persecution
+pugilato	m1i	boxing
+frullatore	m1i	blender, liquidizer
+oppressione	f1i	oppression
+prestazione	f1i	service; performance
+passivo	m1i	passive voice; liabilities
+conversione	f1i	conversion
+padiglione	m1i	pavilion; large tent
+innesto	m1i	graft, grafting; clutch
+rivestimento	m1i	covering; coating
+handicap	m0	handicap
+nocciolo	m1i	stone, kernel; core
+apparato	m1i	deployment; apparatus
+svago	m1hi	amusement; relaxation
+balzo	m1i	leap, jump; crag
+mazzetta	f1e	bundle; wad
+duetto	m1i	duet; duo
+cooperativa	f1e	cooperative, co-op
+pesciolino	m1i	small, fast fish; lively child
+stabilità	f0	stability
+fissazione	f1i	fixation; obsession
+spunto	m1i	cue; starting point
+coalizione	f1i	coalition
+integrazione	f1i	integration; onboarding
+lascito	m1i	legacy, bequest
+statistica	f1he	statistics
+rilevamento	m1i	survey; bearing
+impasto	m1i	impasto; mixture
+bando	m1i	announcement, notice; banishment
+credibilità	f0	credibility, reliability
+tempia	f1e	temple
+demolizione	f1i	demolition
+corridore	m1i	runner; baserunner
+paletta	f1e	spade; shovel
+safari	m0	safari
+scalo	m1i	slipway; stop
+predecessore	m1i	predecessor
+ubicazione	f1i	site, location
+podio	m1	podium
+cattedra	f1e	desk; throne
+appalto	m1i	contract to assume another party's…
+avvenimento	m1i	event
+vicinanza	f1e	proximity, closeness; vicinity
+salma	f1e	body, corpse; remains
+acconto	m1i	advance; deposit
+interazione	f1i	interaction
+fenice	m1i	phoenix
+millennio	m1	millennium
+arsenico	m1hi	arsenic
+fondamento	m1a	fundamental; foundation
+versamento	m1i	pouring; payment
+restauro	m1i	restoration
+monarchia	f1e	monarchy
+ripetizione	f1i	repetition; revision
+decorazione	f1i	decoration; trimming
+rinnovo	m1i	renewal, extension; repeat
+israeliano	m1i	Israeli
+corazza	f1e	cuirass, breastplate; carapace
+qualifica	f1he	label, name; qualification
+raccomandata	f1e	recorded delivery
+variabile	f1i	variable, placeholder
+convenzione	f1i	agreement; convention
+euforia	f1e	euphoria
+garante	m1i	guarantor
+reclusione	f1i	imprisonment; confinement
+vertice	m1i	vertex; peak
+prosperità	f0	prosperity
+raffica	f1he	gust, windflaw; burst
+installazione	f1i	installation
+trasparenza	f1e	transparency
+nocciolina	f1e	peanut
+cinta	f1e	fence surrounding a garden etc
+sessualità	f0	sexuality
+provvidenza	f1e	providence
+presunzione	f1i	presumption; presumptuousness
+lacuna	f1e	gap; blank
+progettazione	f1i	planning, design
+riconciliazione	f1i	reconciliation
+pellegrino	m1i	pilgrim; traveller
+impazienza	f1e	impatience, eagerness
+problematica	f1he	problems, issues
+scarto	m1i	reject, waste; discard
+importo	m1i	amount, sum
+baratro	m1i	precipice, chasm
+argomentazione	f1i	argument
+concezione	f1i	conception; view
+opuscolo	m1i	booklet, pamphlet; brochure
+elica	f1he	helix, spiral; propeller
+manodopera	f1e	manpower, labor
+rilevanza	f1e	relevance
+monitoraggio	m1	monitoring
+benevolenza	f1e	benevolence, mercy
+provocazione	f1i	provocation
+disponibilità	f0	availability, supply; helpfulness
+cuffia	f1e	bonnet, cap; headphones
+serenità	f0	serenity, peace
+prevenzione	f1i	prevention; prejudice
+bagnino	m1i	lifeguard; bathing attendant
+apprezzamento	m1i	appreciation; comment
+ingegno	m1i	intelligence, mind; ingenuity
+tribuna	f1e	platform; gallery
+efficacia	f1e	effectiveness; efficacy
+negoziatore	m1i	negotiator
+placca	f1he	plate; plaque
+gommone	m1i	rubber dinghy
+utilità	f0	utility; advantage
+aneddoto	m1i	anecdote
+motoscafo	m1i	motorboat
+dittatura	f1e	dictatorship
+pellegrinaggio	m1	pilgrimage; pilgrims
+autonomia	f1e	autonomy; range
+maturità	f0	maturity, adulthood
+cronista	m1i	chronicler; reporter
+indicatore	m1i	indicator; indicative
+requisito	m1i	requirement; qualification
+impotenza	f1e	impotence; helplessness
+stimolo	m1i	stimulus; incentive
+slancio	m1	dash, leap; vault
+conservazione	f1i	preservation; conservation
+scuderia	f1e	stable; racing team
+agricoltore	m1i	farmer
+controparte	f1i	opposing party in a trial
+anidride	f1i	anhydride
+incasso	m1i	takings, take; till
+funzionamento	m1i	working, operation
+organizzatore	m1i	organizer
+panno	m1i	cloth; clothes
+decoro	m1i	decorum; dignity
+oasi	f0	oasis
+geometria	f1e	geometry; structure
+grammatica	f1he	grammar
+incolumità	f0	safety
+umiltà	f0	humility
+immigrato	m1i	immigrant
+perito	m1i	expert; surveyor
+prognosi	f0	prognosis
+supplemento	m1i	supplement
+allegato	m1i	enclosure; attachment
+scolo	m1i	drainage
+zanzara	f1e	mosquito
+rotella	f1e	wheel-shaped pasta; rotula
+elaborazione	f1i	elaboration; processing
+tangente	f1i	tangent; share
+seggio	m1	seat; seat for those in power
+veto	m1i	veto
+muratore	m1i	mason, bricklayer
+penisola	f1e	peninsula
+poema	m1i	poem
+cristianesimo	m1i	Christianity
+cioccolatino	m1i	chocolate
+transito	m1i	transit
+invecchiamento	m1i	aging, ageing
+danaro	m1i
+tifoso	m1i	fan
+mediazione	f1i	mediation; brokerage
+incremento	m1i	increase, growth
+scenografia	f1e	scenery; scenography
+sinonimo	m1i	synonym
+variazione	f1i	variation; change
+consistenza	f1e	consistency; texture
+missionario	m1	missionary
+imbarcazione	f1i	boat, watercraft
+combustione	f1i	combustion
+ciclone	m1i	cyclone; whirlwind
+irritazione	f1i	irritation, vexation
+parolaccia	f2e	swear word
+omissione	f1i	omission
+rata	f1e	instalment
+recessione	f1i	withdrawal, withdrawing; recession
+pudore	m1i	modesty; shame
+nobiltà	f0	nobility
+nervosismo	m1i	nervousness; irritability
+programmatore	m1i	planner; programmer
+concime	m1i	fertilizer; manure
+emissione	f1i	emission; transmission
+disfunzione	f1i	dysfunction, trouble
+contrazione	f1i	contraction; decrease
+ammoniaca	f1he	ammonia
+arancio	m1	orange
+ascoltatore	m1i	listener
+rally	m0	rally event involving groups of people
+fauna	f1e	fauna
+indomani	m0	next day, the day after; future
+spessore	m1i	thickness; depth
+rinforzo	m1i	reinforcements, back up troops
+comodità	f0	convenience, amenity; comfort
+discepolo	m1i	disciple; follower
+pm	m0
+distinzione	f1i	distinction; discrimination
+autobiografia	f1e	autobiography
+creatività	f0	creativity
+reportage	m1i	report; reportage
+interrogativo	m1i	interrogative, question
+incapacità	f0	incapacity, incompetence
+pretore	m1i	magistrate
+proroga	f1he	extension; deferment
+insicurezza	f1e	insecurity; uncertainty
+contempo	m1i	meantime, meanwhile
+amnistia	f1e	amnesty
+accumulo	m1i
+direttiva	f1e	directive, instruction
+popolarità	f0	popularity
+management	m0	management
+cancellazione	f1i	cancellation; erasure
+barricata	f1e	barricade
+sintesi	f0	synthesis, a summary
+lavorazione	f1i	tillage, cultivation; manufacturing
+diminuzione	f1i	diminution, decrease
+atrocità	f0	atrocity; atrociousness
+abbazia	f1e	abbey
+proteina	f1e	protein
+lobby	f0	lobby
+vegetazione	f1i	vegetation
+facilità	f0	easiness, ease; ability
+siepe	f1i	hedge; hurdle
+fantoccio	m1	dummy; puppet
+monopolio	m1	monopoly
+manganello	m1i	truncheon, baton
+eventualità	f0	eventuality, possibility
+alunno	m1i	schoolchild, schoolboy
+mandorla	f1e	almond
+ammontare	m1i	amount
+lastrico	m1i	paving, pavement
+contrabbandiere	m1i	smuggler; moonshiner
+ideologia	f1e	ideology
+tenore	m1i	tone; tenor
+bufala	f1e	hoax, canard; blunder
+congelamento	m1i	freezing; frostbite
+questionario	m1	questionnaire
+rialzo	m1i	rise or increase
+tovaglia	f1e	tablecloth, cloth
+parabola	f1e	parabola; course
+rendita	f1e	unearned income; revenue
+grattacielo	m1i	skyscraper
+esclusione	f1i	exclusion
+innovazione	f1i	innovation
+rassegna	f1e	inspection; review
+capannone	m1i	shed; barn
+fermezza	f1e	steadiness, firmness
+atomo	m1i	atom
+avanzo	m1i	remnant or scrap; leftovers
+mozzarella	f1e	mozzarella
+speculazione	f1i	speculation
+parentela	f1e	relationship; kin
+archiviazione	f1i	filing, archiving; storage
+galoppo	m1i	gallop
+chiacchiera	f1e	chat, gossip
+prole	f1i	offspring, issue; progeny
+località	f0	locality
+nettare	m1i	nectar
+abilitazione	f1i	qualification; license
+convivenza	f1e	living together; cohabitation
+estremista	m1i	extremist
+striscione	m1i	banner
+importazione	f1i	importation, import
+emancipazione	f1i	emancipation
+rifugiato	m1i	refugee
+compimento	m1i	completion, fulfilment
+spaccatura	f1e	splitting, cracking
+rappresentanza	f1e	representation; delegation
+lizza	f1e	lists
+repressione	f1i	repression
+narrativa	f1e	fiction; narrative
+albo	m1i	notice board, bulletin board
+criterio	m1	criterion, rule; sense
+guerriglia	f1e	guerrilla warfare
+fascismo	m1i	fascism
+collocamento	m1i	employment; placing
+affluenza	f1e	attendance, turnout
+ciclista	m1i	cyclist, biker
+pil	m0	Initialism of prodotto interno lordo
+conservatorio	m1	conservatory, conservatoire
+pioniere	m1i	pioneer, pathfinder; sapper
+socialismo	m1i	socialism
+calciatore	m1i	striker; footballer
+particella	f1e	particle
+ripensamento	m1i	second thoughts; change of mind
+contraddizione	f1i	contradiction; oxymoron
+vetrata	f1e	glass window; glass door
+coordinatore	m1i	coordinator
+poetica	f1he
+risalto	m1i	prominence; emphasis
+irrigazione	f1i	irrigation
+fabbricato	m1i	building, fabric
+pensionato	m1i	hostel; pensioner
+beffa	f1e	joke, prank
+mantra	m1i
+visibilità	f0	visibility
+stock	m0	stock, goods in supply
+deduzione	f1i	deduction
+destinatario	m1	addressee
+molestia	f1e	annoyance, bother; harassment
+sfumatura	f1e	slur; undertone or implication
+sottosuolo	m1i	subsoil
+frenesia	f1e	frenzy
+clamore	m1i	din; clamour
+smaltimento	m1i	disposal; selling off
+ceto	m1i	class
+filare	m1i	row, line
+inflazione	f1i	inflation
+buccia	f1e	skin, peel; pod
+dottrina	f1e	doctrine; learning
+comizio	m1	rally
+menzione	f1i	mention
+gambero	m1i	prawn
+parodia	f1e	parody
+spremuta	f1e	fruit juice
+azionista	m1i	shareholder, investor
+preferenza	f1e	preference, pleasure; partiality
+copyright	m0	copyright
+superiorità	f0	superiority
+assegnazione	f1i	allocation; assignment
+macedonia	f1e	fruit salad
+intimidazione	f1i	threat, intimidation
+multinazionale	f1i	multinational
+paternità	f0	authorship; paternity
+semplicità	f0	simplicity
+scalinata	f1e	staircase, stairway
+equipe	f1i	team
+casta	f1e	caste; establishment
+remissione	f1i	remission; withdrawal
+naufragio	m1	shipwreck, a wreck
+questore	m1i	magistrate; chief constable
+accessorio	m1	accessory, fitting
+restituzione	f1i	restitution; return
+seduttore	m3rici	seducer
+fumatore	m1i	smoker
+raddoppio	m1	doubling, redoubling; double
+edicola	f1e	shrine; niche
+assetto	m1i	order, arrangement; trim
+statuetta	f1e	figurine, statuette
+bambinaia	f1e	nursemaid; nanny
+memoriale	m1i	memoirs
+andamento	m1i	course; trend
+eutanasia	f1e	euthanasia
+infrastruttura	f1e	infrastructure
+calunnia	f1e	slander, calumny; aspersion
+pianura	f1e	plain
+parità	f0	parity; equality
+esodo	m1i	exodus
+ausiliario	m1	auxiliary
+sottosegretario	m1	undersecretary
+consorzio	m1	consortium
+cinismo	m1i	cynicism
+molecola	f1e	molecule
+lolita	f1e	sexually provocative young girl
+miraggio	m1	mirage
+diagramma	m1i	diagram; chart
+variante	f1i	variant
+platea	f1e	audience
+correttezza	f1e	propriety, correctness; good manners
+emarginato	m1i	outcast
+nozione	f1i	notion, idea
+quoziente	m1i	quotient; rate
+calcestruzzo	m1i	concrete
+baffo	m1i	whisker; moustache
+domenicale	m1i
+malumore	m1i	bad temper; disagreement
+vettore	m1i	vector; carrier
+andatura	f1e	gait, walk; pace
+augurio	m1	wish, pl wishes; omen
+enfasi	f0	emphasis; stress
+emblema	m1i	emblem
+pretesa	f1e	claim; pretension
+insistenza	f1e	insistence; persistence
+inserimento	m1i	insertion; integration
+imputazione	f1i	charge, accusation
+dotazione	f1i	equipment; endowment
+barbarie	f0	barbarism; barbarity
+censimento	m1i	census
+ambientalista	m1i	environmentalist, environmental activist
+rigetto	m1i	rejection
+nuotatore	m1i	swimmer
+avvento	m1i	Advent
+sfiducia	f1e	distrust; vote of no confidence
+segmento	m1i	segment
+patrono	m1i	patron saint
+congettura	f1e	guess
+assessore	m1i	councillor
+ossido	m1i	oxide
+ozono	m1i	ozone
+dissenso	m1i	dissent
+provvedimento	m1i	measure, act; precaution
+duplicato	m1i	duplicate, copy; spare set
+tipografia	f1e	typography, printing; press
+contraffazione	f1i	forgery; forging
+avanzamento	m1i	advance, advancement; progress
+frangia	f2e	fringe, forelock; ruche
+densità	f0	density; thickness
+premier	m0	premier, prime minister
+ribasso	m1i	reduction, fall; discount
+auspicio	m1	auspice, omen; patronage
+oncologo	m1i	oncologist
+ghiandola	f1e	gland
+consumatore	m1i	consumer; customer
+cave	f1i
+coltura	f1e	cultivation; culture
+malessere	m1i	indisposition, malaise; unease
+onere	m1i	burden; responsibility
+indennità	f0	allowance; indemnity
+tessitura	f1e	weaving; weaving mill
+alluvione	f1i	flood, inundation; alluvion
+dividendo	m1i	dividend
+lungomare	m1i	road or promenade that runs along a seashore
+squilibrio	m1	imbalance, disequilibrium; derangement
+ecosistema	m1i	ecosystem
+controversia	f1e	controversy; dispute
+convenienza	f1e	convenience, expedience; cheapness
+nazionalità	f0	nationality
+appartenenza	f1e	belonging; membership
+consuetudine	f1i	custom, habit
+beneficiario	m1	beneficiary; benefice
+batosta	f1e	blow
+configurazione	f1i	configuration; setting up
+scetticismo	m1i	scepticism, skepticism
+concessionario	f1e	agent; dealer
+rielezione	f1i	reelection
+ricamo	m1i	embroidery; needlepoint or needlework
+rivalità	f0	rivalry
+scoglio	m1	cliff, rock; difficulty
+completamento	m1i	completion; finishing
+ferocia	f1e	ferocity
+nicchia	f1e	niche; cavity
+decadenza	f1e	decline; decadence
+premessa	f1e	introduction; premise
+schieramento	m1i	formation
+ripristino	m1i	restoration; revival
+risvolto	m1i	lapel; cuff
+colosso	m1i	colossus; giant
+transponder	m0
+presupposto	m1i	supposition; premise
+circoscrizione	f1i	circumscription; district
+mosaico	m1i	mixture; mosaic
+convocazione	f1i	convening, summoning; meeting
+restrizione	f1i	restriction
+coordinazione	f1i	coordination
+infinità	f0	infinity, infinitude
+prerogativa	f1e	prerogative, privilege
+realismo	m1i	realism
+ritocco	m1hi	retouching; tweak
+artigiano	m1i	craftsman, artisan
+calderone	m1i	cauldron; hotchpotch
+portante	f1i
+confederazione	f1i	confederacy, confederation
+ingorgo	m1hi	blockage, obstruction; traffic jam
+avviamento	m1i	start, starting; introduction
+coltivazione	f1i	growing, cultivation
+suddito	m1i	subject
+esattore	m1i	collector of rates, taxes etc
+indennizzo	m1i	indemnity, compensation
+suggestione	f1i	suggestion; fascination
+classificazione	f1i	classification, classing
+picchetto	m1i	stake, peg; picket
+sopralluogo	m1hi	inspection; investigation
+scultore	m1i	sculptor; carver
+aggettivo	m1i	adjective
+concepimento	m1i	conception
+ristorazione	f1i	foodservice, catering industry
+apparecchiatura	f1e	equipment, appliance; machine
+riapertura	f1e	reopening
+capogruppo	m=capigruppo	group leader; parent company
+borghesia	f1e	middle classes; bourgeoisie
+paladino	m1i	paladin; champion
+svista	f1e	slip, oversight
+comicità	f0	comedy
+polemica	f1he	polemic, dispute; argument
+editoria	f1e	publishing, publishing industry
+piranha	m1i	piranha
+serietà	f0	seriousness, gravity; earnestness
+perno	m1i	pivot
+acronimo	m1i	acronym; initialism
+complessità	f0	complexity
+sciagura	f1e	disaster, calamity
+pantalone	m1i	trousers
+proporzione	f1i	proportion
+argine	m1i	bank; embankment
+comma	m1i	subsection, subparagraph; comma
+armamento	m1i	arming; equipment
+fatturato	m1i	turnover, sales
+botteghino	m1i	box office
+mortalità	f0	mortality; death rate
+pedaggio	m1	toll; paywall
+pensatore	m1i	thinker
+embargo	m1hi	embargo
+abbreviazione	f1i	abbreviation, initialism
+rivendicazione	f1i	claim
+centenario	m1	centenarian; centenary
+deterrente	m1i	deterrent
+accompagnamento	m1i	accompaniment, escort; supporting fire
+metropoli	f0	metropolis
+villetta	f1e	small house with a garden
+malcontento	m1i	malcontent; discontent
+falsificazione	f1i	falsification; forging
+fabbricazione	f1i	building; fabrication
+imballaggio	m1	packaging, packing
+potenzialità	f0	potential, potentiality
+correlazione	f1i	correlation
+simposio	m1	symposium; spree
+imperfezione	f1i	imperfection, flaw; faultiness
+svolgimento	m1i	discussion; carrying out
+confisca	f1he	confiscation
+calcolatore	m1i	computer; calculating person
+prosa	f1e	prose; drama
+volgarità	f0	vulgarity
+sinergia	f1e	synergy
+sapienza	f1e	knowledge, learning; wisdom
+franchising	m0
+compensazione	f1i	compensation; clearing
+residence	m1i
+apprendistato	m1i	apprenticeship
+salvaguardia	f1e	safeguard; care
+holding	f0	holding company
+esigenza	f1e	requirement, need
+indumento	m1i	garment
+casello	m1i	toll booth, tollgate; signal box
+instabilità	f0	changeableness, fickleness
+deterioramento	m1i	deterioration
+maestria	f1e	skill, mastery
+artigianato	m1i	craft; arts and crafts
+seppia	f1e	cuttlefish; sepia
+provvigione	f1i	honorarium, stipend; commission
+fonderia	f1e	foundry
+aviatore	m1i	aviator
+trend	m0	trend
+terriccio	m1	soil
+autenticità	f0	authenticity
+referendum	m0	referendum
+professionalità	f0	professionalism, skill
+gasolio	m1	diesel oil, derv
+diversità	f0	difference; variety
+scioglimento	m1i	melting; dissolving
+migrazione	f1i	migration
+locazione	f1i	lease; renting
+legislazione	f1i	legislation
+quesito	m1i	question, query
+ritorsione	f1i	retaliation
+pignoramento	m1i	distraint
+staffetta	f1e	courier, runner; relay race
+zinco	m1i	zinc
+divergenza	f1e	divergence; difference
+vestiario	m1	clothing, clothes
+anticamera	f1e	hall, lobby; antechamber
+pregio	m1	regard, esteem; praise
+tabù	m0	taboo
+frumento	m1i	grain
+intendente	m1i	financial administrator
+veduta	f1e	view, vista
+apnea	f1e	apnea, apnoea; freediving
+rivenditore	m1i	retailer
+foschia	f1e	mist, fog
+miriade	f1i	myriad
+intrigo	m1hi	intrigue; scheme
+doping	m0	doping
+pool	m0
+grandine	f1i	hail
+irregolarità	f0	irregularity
+anagrafe	f1i	register office, registry
+chiarimento	m1i	explanation, elucidation
+acquedotto	m1i	aqueduct
+collaudo	m1i	testing, trialing
+etnia	f1e	ethnic group
+assorbimento	m1i	absorption
+fabbricante	m1i	manufacturer
+pedana	f1e	footrest; springboard
+strumentazione	f1i	instrumentation
+calce	f1i	lime
+rinnovamento	m1i	renewal, renovation
+certificazione	f1i	certification
+promotore	m1i	promoter; organizer
+coltivatore	m1i	grower, cultivator
+divario	m1	gap; clearance
+affiliato	m1i	fostered child; affiliated member
+sequestratore	m1i	kidnapper
+durezza	f1e	hardness; stiffness
+lirica	f1he	lyric; lyric poetry
+gazzetta	f1e	gazette; Venetian coin
+coerenza	f1e	coherence; consistency
+attaccante	m1i	striker, attacker; forward
+circonferenza	f1e	circumference
+progressione	f1i	progression
+scrupolo	m1i	scruple, qualm; care
+display	m0
+contingente	m1i	contingent; quota
+istigazione	f1i	instigation, incitement
+riflettore	m1i	reflector; spotlight
+anagramma	m1i	anagram
+incognita	f1e	unknown; uncertainty
+discapito	m1i	detriment, damage
+aderenza	f1e	adhesion; grip
+ep	m0
+carabiniere	m1i	carabiniere; martinet
+sobrietà	f0	sobriety; moderation
+sprint	m0	sprint; vivacity
+presidio	m1	garrison; presidium
+ulivo	m1i
+tipologia	f1e	typology
+ricavo	m1i	proceeds; revenue
+impedimento	m1i	obstacle; impediment
+sterilizzazione	f1i	sterilization
+clou	m0	highlight
+finezza	f1e	fineness; thinness
+tennista	m1i	tennis player
+ampiezza	f1e	size; largeness
+filone	m1i	seam, lode; thalweg
+degrado	m1i	degradation
+diocesi	f0	diocese
+gaffe	f1i	gaffe, blunder
+erosione	f1i	erosion
+legalità	f0	legality, lawfulness
+quindicina	f1e	quantity of fifteen or so things
+realizzo	m1i	realization; clearance sale
+decadimento	m1i	lowering; decline
+radioattività	f0	radioactivity
+impalcatura	f1e	scaffolding; framework
+malore	m1i	sudden, unexpected illness
+consultazione	f1i	consultation; reference
+militante	f1i	militant
+inquietudine	f1i	restlessness, unrest; hardship
+anticipazione	f1i	anticipation; payment in advance
+workshop	m0
+ventata	f1e	gust, windflaw; blow
+astrofisica	f1he	astrophysics
+sonetto	m1i	sonnet
+alimento	m1i	food, nourishment; alimony
+condizionamento	m1i	conditioning
+cartiera	f1e	paper mill, a paper factory
+unanimità	f0	unanimity
+cuscinetto	m1i	pad; pincushion
+canone	m1i	rent, fee; canon
+telemetria	f1e	telemetry
+choc	m0
+rilevazione	f1i	survey
+rapidità	f0	speed, rapidity
+imposizione	f1i	imposition; order
+forfait	m0	lump sum, flat rate
+inserzione	f1i	advertisement, ad; insertion
+degenerazione	f1i	degeneration; deterioration
+ambientazione	f1i	setting
+doppler	m0
+somministrazione	f1i	giving, administering
+convergenza	f1e	convergence
+decade	f1i	decade, a period of ten days
+godimento	m1i	pleasure, enjoyment; possession
+smog	m0	smog
+rilassamento	m1i	relaxation
+monotonia	f1e	monotony; dullness
+articolazione	f1i	joint; articulation
+proseguimento	m1i	continuation; remainder of a journey
+ghirlanda	f1e	garland; wreath
+informativa	f1e
+check-up	m0
+imprudenza	f1e	imprudence, carelessness; imprudent act
+drammaturgo	m1hi	dramatist, playwright
+apporto	m1i	contribution
+villeggiatura	f1e	villegiatura
+coesione	f1i	cohesion
+preludio	m1	prelude; introduction
+nutrizione	f1i	nutrition; nourishment
+continuità	f0	continuity
+dimissione	f1i	discharge; resignation
+soppressione	f1i	suppression; stifling
+sovranità	f0	sovereignty; supremacy
+abolizione	f1i	abolition; abrogation
+possessore	m1i	possessor, owner; holder
+oncia	f2e	ounce
+delega	f1he	proxy; delegation
+automobilista	m1i	motorist, driver
+allestimento	m1i	preparation, dressing
+parato	m1i
+metodologia	f1e	methodology
+lembo	m1i	hem; strip
+impennata	f1e	short written text; rearing
+mutua	f1e	sickness benefit fund
+lacchè	m0	lackey
+vaccinazione	f1i	vaccination, immunization
+romanziere	m1i	novelist
+cattolicesimo	m1i	Catholicism
+giacimento	m1i	deposit, field
+bollo	m1i	stamp; seal
+ingenuità	f0	naivety
+collusione	f1i	collusion
+dopoguerra	m1i	postwar period
+conduttura	f1e	pipe, conduit; main
+unificazione	f1i	unification
+ciclismo	m1i	cycling, cycle racing
+acciaieria	f1e	steelworks, steel mill
+arredo	m1i	furnishings
+prospetto	m1i	summary table; prospectus
+att	m0
+peggioramento	m1i	worsening, deterioration
+disinvoltura	f1e	confidence; nonchalance
+soccorritore	m1i	rescuer
+degradazione	f1i	reduction, demotion; debasement
+kalashnikov	m0	Kalashnikov assault rifle
+sanzione	f1i	sanction, approval
+oscillazione	f1i	oscillation; fluctuation
+esportazione	f1i	export, exportation
+sbarramento	m1i	barrier; dam
+locandina	f1e	poster
+retribuzione	f1i	pay, remuneration; retribution
+malnutrizione	f1i	malnutrition
+produttività	f0	productivity, productiveness
+manetta	f1e	handcuffs; wristlet
+sottopassaggio	m1	underpass; subway
+mobilitazione	f1i	mobilization
+presepe	m1i	crib, creche
+originalità	f0	originality; eccentricity
+misurazione	f1i	measuring, measurement; surveying
+polistirolo	m1i	polystyrene
+disarmo	m1i	disarmament
+intreccio	m1	plot, intrigue; weave
+scalatore	m1i	climber
+golpe	m1i	mildew, smut; military coup or putsch
+listino	m1i	list
+indiscrezione	f1i	gossip, indiscretion
+primato	m1i	supremacy; record
+abbonato	m1i	subscriber; season ticket holder
+simbolismo	m1i	symbolism
+tandem	m0	tandem
+massone	m1i	freemason
+sindacalista	m1i	trade unionist
+ceceni	m0
+boicottaggio	m1	boycott
+esordio	m1	debut, first appearance; salutation
+surgelato	m1i	frozen food
+apartheid	m0	apartheid
+regolazione	f1i	regulation
+mansione	f1i	duty, task; job
+raggiungimento	m1i	attainment; fulfilment
+approvvigionamento	m1i	provisions, supplies; provisioning
+flessibilità	f0	flexibility
+tossicodipendenza	f1e	drug addiction
+elettorato	m1i	electorate; voters
+compatibilità	f0	compatibility
+contrattazione	f1i	negotiation; bargaining
+disturbatore	m1i	disturber; troublemaker
+affresco	m1hi	fresco
+elettore	m1i	voter, elector
+sughero	m1i	cork; cork oak
+procreazione	f1i	procreation; reproduction
+tracollo	m1i	collapse, ruin
+collocazione	f1i	classification; placing
+abbattimento	m1i	demolition; slaughter
+paradigma	m1i	paradigm
+riparto	m1i
+escursionista	m1i	tripper, day tripper; hiker
+privatizzazione	f1i	privatization, privatisation
+prepotenza	f1e	arrogance
+appezzamento	m1i	piece or plot
+cantautore	m1i	singer-songwriter
+allagamento	m1i	flooding
+frammentazione	f1i	fragmentation
+tesoreria	f1e	treasury
+indigeno	m1i	native
+audience	f1i	audience
+reinserimento	m1i	reinsertion
+riorganizzazione	f1i	shake-up or reorganization
+fragilità	f0	fragility; delicacy
+assenso	m1i	assent
+pesticida	m1i	pesticide
+forzatura	f1e	unnatural or tendentious interpretation,…
+nickel	m0
+bot	m0	Initialism of Buono ordinario del tesoro.…
+magistratura	f1e	magistracy
+distinguo	m1i
+basilica	f1he	basilica; church
+dialettica	f1he	dialectic; dialectics
+delibera	f1e	decision, resolution
+cessione	f1i	transfer
+carabina	f1e	carbine, rifle
+congiunzione	f1i	join; joint
+mutamento	m1i	change, variation
+commentatore	m1i	commentator; annotator
+peruviano	f1i	Peruvian
+indecisione	f1i	indecision, hesitation
+regolamentazione	f1i	control, regulation
+invalidità	f0	invalidity; disability
+cellulite	f1i	cellulite; cellulitis
+coordinamento	m1i	coordination
+slavo	m1i	Slav, Slavonic
+impostazione	f1i	setting out, setting
+quintale	m1i	quintal
+petroliera	f1e	tanker, oil tanker
+approfondimento	m1i	deepening
+emigrato	m1i	emigrant
+usuraio	m1	usurer, loan shark
+statuina	f1e	statuette, figurine
+anzianità	f0	old age; seniority
+ricongiungimento	m1i	reunion, reconnection
+validità	f0	validity
+smembramento	m1i	dismemberment
+cartoleria	f1e	stationer's
+secessione	f1i	secession
+acrobazia	f1e	acrobatics
+lentezza	f1e	slowness, sluggishness; slow-wittedness
+mobilità	f0	mobility
+quotazione	f1i	quotation; rating
+alienazione	f1i	alienation; transfer
+potenziamento	m1i	development, expansion; strengthening
+distensione	f1i	relaxation; stretching
+polimero	m1i	polymer
+interlocutore	m1i	speaker; interlocutor
+iter	m0	procedure, course
+memorandum	m0	memorandum
+stelo	m1i	stem; rod
+flessione	f1i	bending
+rallentamento	m1i	slowing down, slackening
+conformità	f0	conformity, compliance
+ricorrenza	f1e	recurrence, return; anniversary
+graduatoria	f1e	list
+contraddittorio	m1	cross-examination; debate
+annotazione	f1i	note; annotation
+adesione	f1i	adhesion; agreement
+economista	m1i	economist
+capitaneria	f1e	captaincy
+nazismo	m1i	Nazism
+battente	m1i	shutter; sash
+ampliamento	m1i	widening, broadening; expansion
+suffragio	m1	vote; suffrage
+rendiconto	m1i	report, account; statement
+dibattimento	m1i	debate, discussion; hearing
+accertamento	m1i	check, verification; assessment
+affiliazione	f1i	fostering; affiliation
+retroscena	m1i	backstage
+collante	m1i	glue; bond
+obesità	f0	obesity
+fanatismo	m1i	fanaticism
+catasto	m1i	cadastre, land register
+liquidità	f0	liquidity
+contemplazione	f1i	contemplation
+cachemire	m1i	cashmere
+sensibilizzazione	f1i	awareness, sensitivity; sensitization
+astrofisico	m1i	astrophysicist
+consulta	f1e	conference, consultation; council
+esonero	m1i	exemption; waiver
+coefficiente	m1i	coefficient
+sovrapposizione	f1i	superimposition
+arcipelago	m1hi	archipelago
+centrocampo	m1i	midfield
+riqualificazione	f1i	requalification, renewal
+terracotta	f1e	terracotta
+granoturco	m1i	maize
+dismisura	f1e	excess
+regolarità	f0	regularity; steadiness
+narcotraffico	m1hi	drug trafficking
+abbassamento	m1i	lowering; reduction
+corsivo	m1i	cursive script; italics
+rassegnazione	f1i	resignation
+scapito	m1i	detriment
+riquadro	m1i	square; panel
+desktop	m0	desktop
+ideatore	m1i	creator, inventor
+limitazione	f1i	limitation
+export	m0
+adempimento	m1i	fulfilment; carrying out
+welfare	m1i	welfare state
+bracconiere	m1i	poacher
+trapiantato	m1i
+transistor	m0	transistor; transistor radio
+pulsazione	f1i	beat, pulsation; throbbing
+degenza	f1e	stay in hospital
+acciuga	f1he	slim or thin person
+policlinico	m1hi	polyclinic; general hospital
+globalizzazione	f1i	globalisation
+socializzazione	f1i	socialization
+nautica	f1he	navigation
+contestazione	f1i	dispute; charge
+individualità	f0	individuality
+generalità	f0	generality; majority
+sbocco	m1hi	mouth, outlet
+malafede	f1i	bad faith, or an intent to deceive
+ambiguità	f0	ambiguity
+creditore	m1i	creditor
+rivalsa	f1e	revenge; compensation
+sordomuto	m1i	deaf-mute
+cessazione	f1i	cessation, ceasing
+collettività	f0	collectivity; social community
+disavventura	f1e	misadventure, mishap
+veliero	m1i	sailing ship
+bosniaco	m1i	Bosnian; Bosnian language
+particolato	m1i	particulate
+investitura	f1e	investing, investiture
+fognatura	f1e	sewage
+litorale	m1i	coast, littoral
+telefonia	f1e	telephony
+esaltazione	f1i	extolling, exalting; exaltation
+didattica	f1he	didactics, education
+orma	f1e	footprint; track
+tiramisù	m0	tiramisu
+cialtrone	m1i	good-for-nothing, wastrel; scoundrel
+totalità	f0	totality, entirety
+riscossione	f1i	collection
+graffito	m1i	graffiti
+rettifica	f1he	correction; rectification
+antidoping	m0	dope test, drug test
+sincope	f1i	syncope; syncopation
+sconvolgimento	m1i	confusion; devastation
+smantellamento	m1i	dismantling, demolition
+estremismo	m1i	extremism
+attuazione	f1i	carrying out, effecting; implementation
+disuguaglianza	f1e	disparity, inequality; unevenness
+rigurgito	m1i	regurgitation, spitting up
+romance	f1i
+innalzamento	m1i	raising, elevation; rise
+contromisura	f1e	countermeasure
+stabilizzazione	f1i	stabilization
+tabulato	m1i	tabulation, printout
+camorra	f1e	Camorra; any criminal organization
+import	m0
+legittimità	f0	legitimacy
+fabbisogno	m1i	needs, requirements
+spartizione	f1i	division
+attualità	f0	actuality; topicality
+vaglio	m1	sieve; examination
+ecologista	m1i	environmentalist, environmental activist
+inadempienza	f1e	breach, default
+colono	m1i	colonist, settler; farmer
+automazione	f1i	automation, automatization/automatisation
+ausilio	m1	help, aid
+impossibilità	f0	impossibility, inability
+qualificazione	f1i	qualification
+stanziamento	m1i	allocation
+legislatura	f1e	legislature
+squalifica	f1he	disqualification
+espositore	m1i	exhibitor; display
+giornalaio	m1	newsagent
+deroga	f1he	dispensation
+spezzone	m1i	large piece or fragment; clip
+derivazione	f1i	derivation; shunt
+sponsorizzazione	f1i	sponsorship; patronage
+spontaneità	f0	spontaneity
+sciatore	m1i	skier in general, male skier
+conformismo	m1i	conformism, conformity
+detentore	m1i	holder; possessor
+nazionalismo	m1i	nationalism
+surplus	m0	surplus
+interrogazione	f1i	question, point of order; oral test
+piastrella	f1e	tile
+antologia	f1e	anthology
+vignetta	f1e	illustration; cartoon
+oppositore	m1i	opponent
+ritenzione	f1i	retention
+incidenza	f1e	effect of some phenomenon
+mutanda	f1e
+sussistenza	f1e	existence; subsistence
+congestione	f1i	congestion
+montatore	m1i	assembler; editor
+ripartizione	f1i	division; distribution
+arricchimento	m1i	enrichment
+illegalità	f0	illegality, lawlessness; illegal act
+finanziere	m1i	financier; customs officer
+castagna	f1e	chestnut
+normativa	f1e	regulations
+morbidezza	f1e	softness, smoothness
+eccedenza	f1e	surplus, excess
+voltafaccia	m1i	volte-face, about turn
+coronamento	m1i	completion; fulfilment
+plesso	m1i	plexus; complex
+immatricolazione	f1i	registration; admission
+similitudine	f1i	simile; similarity
+individuazione	f1i	detection, spotting; individualization
+parsimonia	f1e	thrift, thriftiness
+espropriazione	f1i	expropriation
+corrispettivo	m1i	fee; amount of money due
+afa	f1e	sultriness, sultry weather
+comproprietario	m1	coowner; part-owner
+decorso	m1i	course; period
+profugo	m1hi	refugee
+costrutto	m1i	construction
+sottoprodotto	m1i	by-product
+formulazione	f1i	formulation
+cellulosa	f1e	cellulose
+concussione	f1i	exaction, extortion
+cerino	m1i	wax match
+obbligazione	f1i	obligation; bond
+totocalcio	m1	football pools
+precisazione	f1i	clarification, explanation
+liquame	m1i	liquid sewage; slurry
+prefazione	f1i	preface, foreword
+proliferazione	f1i	proliferation
+biografo	m1i	biographer
+bonifica	f1he	reclamation
+annessione	f1i	annexation
+scrutinio	m1	ballot; marking
+munizione	f1i	ammunition; munitions
+peculiarità	f0	peculiarity
+parametro	m1i	parameter
+congratulazione	f1i	congratulations
+dolo	m1i	malice; fraud
+fisionomia	f1e	physiognomy; face
+predominio	m1	predominance
+massoneria	f1e	Freemasonry
+pronostico	m1i	forecast; prediction
+perfezionamento	m1i	perfection; improvement
+legislatore	m1i	legislator, lawmaker
+ettaro	m1i	hectare
+gip	m0
+ordinamento	m1i	order, arrangement; rule
+cereale	m1i	cereal
+scudetto	m1i	national championship, shield
+imparzialità	f0	impartiality, fairness
+alpinista	m1i	mountaineer, climber
+aggiustamento	m1i	adjustment
+ferragosto	m1i	August bank holiday
+detrito	m1i	detritus; silt
+adito	m1i	entrance; approach
+ridosso	m1i	shelter
+perplessità	f0	perplexity
+assise	f1i	assizes
+aggio	m1	premium
+condono	m1i	remission, amnesty
+ripercussione	f1i	reflection; reverberation
+eguaglianza	f1e
+aggregato	m1i	aggregate; skandha
+riordino	m1i
+iniquità	f0	iniquity
+stangata	f1e	terrible result; shot
+acclamazione	f1i	acclamation, cheering
+provveditorato	m1i	superintendent's office
+scippatore	m1i	bag-snatcher
+indebolimento	m1i	weakening
+giurista	m1i	jurist
+sostenibilità	f0	sustainability; bearableness
+restringimento	m1i	shrinkage; constriction
+rafforzamento	m1i	strengthening; reinforcement
+guerrigliero	m1i	guerrilla
+designazione	f1i	designation; appointment
+dengue	f1i
+ingerenza	f1e	interference, meddling
+importatore	m1i	importer
+risanamento	m1i	upturn, recovery
+contenzioso	m1i	legal department; cases
+completezza	f1e	completeness
+profumeria	f1e	perfumery
+indulto	m1i	pardon; indult
+atollo	m1i	atoll
+schedina	f1e	football pools coupon
+ansa	f1e	handle; curve or bend
+tivù	f0	TV, telly
+factotum	m0	individual employed to do all sorts of…
+consolidamento	m1i	consolidation
+pavimentazione	f1i	paving; flooring
+intermediazione	f1i	intermediation; brokerage
+immissione	f1i	enter, input; launch
+superamento	m1i	overcoming; crossing
+incongruenza	f1e	inconsistency; incongruity
+vitalizio	m1	life annuity
+passività	f0	passivity, passiveness; liabilities
+raggruppamento	m1i	group, grouping; unit
+neutrino	m1i
+ispiratore	m1i	instigator, inspirer
+marcatura	f1e	marking; branding
+individualismo	m1i	individualism
+inclusione	f1i	inclusion
+diossina	f1e	dioxin
+slalom	m0	slalom
+equità	f0	equity, fairness
+remora	f1e	hesitation, scruple; remora
+canottiere	m1i	rower, oarsman
+ratifica	f1he	ratification
+accezione	f1i	meaning, sense
+by-pass	m0
+tematica	f1he	main or basic theme
+autodeterminazione	f1i	self-determination
+mescolanza	f1e	mixture, blend
+esubero	m1i	excess
+calura	f1e	intense sticky heat; sultry passion
+gluteo	m1i	buttock, bum
+protone	m1i	proton
+deficienza	f1e	deficiency; shortage
+astensione	f1i	abstention
+commediografo	m1i	comedy writer
+emigrazione	f1i	emigration; emigrants
+positività	f0	positiveness, positivity
+recesso	m1i	withdrawal, withdrawing; recess
+erogazione	f1i	supply; distribution
+correttivo	m1i	corrective
+borgata	f1e	outskirt, suburb; small village
+concittadino	m1i	fellow citizen, concitizen
+razionalizzazione	f1i	rationalization
+terziario	m1	Tertiary
+comparto	m1i	division, sector
+bastimento	m1i	ship, vessel
+ragioneria	f1e	accountancy
+tricolore	m1i	Italian national flag
+incrinatura	f1e	crack; rift
+disparità	f0	disparity; difference
+persistenza	f1e	persistence
+evasore	m1i	evader, dodger
+bosone	m1i	boson
+latitanza	f1e	hiding
+apogeo	m1i	apogee, peak
+osservanza	f1e	observance
+prosecuzione	f1i	continuation; extension
+minorato	m1i	handicapped or disabled person
+legittimazione	f1i	legitimation
+minchiata	f1e
+riconsegna	f1e	redelivery; restitution
+detrazione	f1i	deduction
+interdizione	f1i	ban; interdict
+denominazione	f1i	name; designation
+svalutazione	f1i	devaluation
+convitto	m1i	boarding school
+conciliazione	f1i	reconciliation; settlement
+deliberazione	f1i	intention; deliberation
+invadenza	f1e	intrusiveness
+semplificazione	f1i	simplification
+competitività	f0	competitiveness
+meridiano	m1i	meridian
+sedimento	m1i	sediment
+preambolo	m1i	preamble
+sollecitazione	f1i	request, solicitation; stimulus
+prevalenza	f1e	predominance, prevalence
+concomitanza	f1e	combination; concomitance
+potestà	f0	power, authority
+suddivisione	f1i	subdivision
+ionosfera	f1e	ionosphere
+compilazione	f1i	compilation
+egemonia	f1e	hegemony
+austerità	f0	austerity
+contrapposizione	f1i	contrast, contraposition
+sottoscrizione	f1i	signing; subscription
+fuciliere	m1i	fusilier
+finalità	f0	finality; aim
+partenariato	m1i	partnership
+centrocampista	m1i	midfielder, midfield player
+vertenza	f1e	lawsuit, case; dispute
+industrializzazione	f1i	industrialization
+dm	m0
+caratterizzazione	f1i	characterization
+utilizzatore	m1i	user
+pregiudiziale	f1i
+fattispecie	f0	case, instance
+erudizione	f1i	erudition; scholarship
+viscosa	f1e	viscose
+emanazione	f1i	emanation; exhalation
+incompatibilità	f0	incompatibility
+logoramento	m1i	wear
+allargamento	m1i	widening, extension
+requisizione	f1i	requisition
+rivalutazione	f1i	revaluation; re-evaluation
+diaspora	f1e	diaspora
+modernizzazione	f1i	modernization
+interconnessione	f1i	interconnection
+inox	m0	stainless steel
+adeguamento	m1i	adjustment; adaptation
+affollamento	m1i	crowding
+politicante	m1i	politician whose behavior is…
+insidia	f1e	trick, trap; danger
+firmatario	m1	signatory
+ateneo	m1i	university
+orecchia	f1e	any prominent form similar to an ear
+viceministro	m1i	undersecretary
+convincimento	m1i	conviction; belief
+bacchettata	f1e	blow with a rod
+piazzetta	f1e	bald spot on the scalp
+capoluogo	m1hi	chief town or city of a region
+diramazione	f1i	issuing; circulation
+decorrenza	f1e	date or time from which something is in…
+addizione	f1i	addition
+telecomunicazione	f1i	any particular telecommunications system
+cosmetico	m1i	cosmetic
+commercializzazione	f1i	commercialization
+finanziera	f1e	frock coat
+assessorato	m1i	department
+telespettatore	m1i	viewer, a television watcher
+utenza	f1e	use, consumption; account
+capitalizzazione	f1i	capitalization
+peculato	m1i	embezzlement
+liberalizzazione	f1i	liberalization
+riscoperta	f1e	rediscovery
+codipendenza	f1e	codependency
+attribuzione	f1i	attribution; awarding
+inosservanza	f1e	nonobservance
+proibizione	f1i	prohibition
+tuffatore	m1i	diver
+ottimizzazione	f1i	optimization
+ingombro	m1i	bulk, mass; encumbrance
+aggregazione	f1i	aggregation
+rastrellamento	m1i	raking; combing
+rimanenza	f1e	remnant; leftover
+esclusività	f0	exclusiveness, exclusivity
+dinamismo	m1i	dynamism
+fregio	m1	frieze
+deperimento	m1i	wasting away; deterioration
+chilogrammo	m1i	kilogram / kilogramme
+contropartita	f1e	compensation, return; offset
+reciprocità	f0	reciprocity
+pamphlet	m0	pamphlet
+interscambio	m1	interexchange; interchange
+gemellaggio	m1	town twinning
+vicesegretario	m1	vice-secretary, deputy
+imprevedibilità	f0	unpredictability, unforeseeability
+congiuntura	f1e	trend, tendency; circumstance
+cardiopatico	m1i	person suffering from a heart problem
+riassetto	m1i	rearrangement; reorganization
+arabico	f1hi
+conseguimento	m1i	achievement, attainment
+cordata	f1e	party of climbers roped together
+concretezza	f1e	concreteness
+imprenditoria	f1e	entrepreneurs; entrepreneurship
+inquinante	m1i	pollutant
+accattonaggio	m1	begging
+prosieguo	m1i
+riarmo	m1i	rearmament
+incorporazione	f1i	incorporation
+accumulazione	f1i	accumulation
+populista	m1i	populist
+comprensorio	m1	district, area
+postulato	m1i	postulate, axiom
+redditività	f0	capacity to generate income
+sonorità	f0	sonority, resonance
+raffronto	m1i	comparison
+etichettatura	f1e	labelling
+demagogia	f1e	demagogy
+ristagno	m1i	stagnation
+neurobiologia	f1e	neurobiology
+modificazione	f1i	adjustment; alteration
+immobilizzo	m1i
+poltroncina	f1e	rear stalls
+ottenimento	m1i	obtaining, receiving
+estraneità	f0	extraneity
+immobilizzazione	f1i	immobilization; locking up
+xenofobia	f1e	xenophobia
+emarginazione	f1i	ostracism, exclusion
+risparmiatore	m1i	saver, thrifty person
+contestatore	m1i	protester, complainer
+dispendio	m1	expenditure; waste
+agevolazione	f1i	facilitation
+perigeo	m1i	perigee
+soliloquio	m1	soliloquy; monologue
+profittatore	m1i	profiteer, exploiter
+omologazione	f1i	standardization, conformity
+spurgo	m1hi	clearing, cleaning; discharge
+emodialisi	f0	hemodialysis
+alternanza	f1e	alternation; rotation
+ottemperanza	f1e	accordance, compliance
+riedizione	f1i	re-release, new edition; republication
+normalizzazione	f1i	normalization
+esportatore	m1i	exporter
+fattibilità	f0	feasibility, practicability
+autoveicolo	m1i	motor vehicle
+demagogo	m1hi	demagogue
+biennio	m1	period of two years
+accreditamento	m1i	accreditation
+ordinativo	m1i	order
+tranche	f1i
+colonnina	f1e	petrol pump; bollard
+stratificazione	f1i	stratification
+solvibilità	f0	solvency; payability
+valutatore	m1i	surveyor, assessor
+sfollato	m1i	evacuee
+jamming	m0
+irrigidimento	m1i	stiffening, rigor mortis; tightening
+insofferenza	f1e	impatience, intolerance
+calzatura	f1e	footwear, shoe
+henné	m0	henna
+differenziazione	f1i	differentiation
+tentennamento	m1i	wavering; hesitation
+deflusso	m1i	flow, outflow; ebb
+inesistenza	f1e	nonexistence
+intimazione	f1i	order, intimation
+indebitamento	m1i	debt, borrowing
+cocciniglia	f1e	cochineal
+stagnazione	f1i	stagnation
+alleggerimento	m1i	lightening; loosening
+tempestività	f0	timeliness
+condomino	m1i	joint owner
+esborso	m1i	outlay, disbursement
+ballatoio	m1	balcony, gallery; landing
+semilibertà	f0	work release
+prevedibilità	f0	predictability
+avvicendamento	m1i	alternation; rotation
+militanza	f1e	militancy
+afide	m1i	aphid
+prosciugamento	m1i	drying, draining; reclamation
+valorizzazione	f1i	exploitation, utilization; improvement
+connivenza	f1e	connivance
+amfetamina	f1e
+frontespizio	m1	frontispiece, title page
+cultore	m1i	enthusiast, lover; worshipper
+riconversione	f1i	reconversion; makeover
+gettito	m1i	yield; revenue
+eurozona	f1e	Eurozone
+rincaro	m1i	rise, increase
+usucapione	f1i	usucaption The acquisition of right or…
+sondaggista	m1i	pollster
+usufrutto	m1i	usufruct
+precarietà	f0	frailty; precariousness
+parterre	m1i
+erario	m1	treasury
+abbuono	m1i	discount; handicap
+torbiera	f1e	peat bog
+filatura	f1e	spinning; spinning mill
+rivoltoso	m1i	rebel; insurgent
+pochezza	f1e	paucity; shortage
+accorgimento	m1i	trick, device; shrewdness
+alveo	m1i	bed, runway; riverbed
+inadempimento	m1i	non-fulfilment
+facilitazione	f1i	facilities
+conferimento	m1i	grant; contribution
+bimestre	m1i	two months
+copiatura	f1e	copying; cribbing
+utilizzazione	f1i	use, utilization
+instaurazione	f1i	establishment, foundation
+volatilità	f0	volatility
+centro-sinistra	m1i
+provveditore	m1i	superintendent
+leghista	m1i	member or supporter of the Lega / Lega Nord
+sperimentatore	m1i	experimenter
+scoria	f1e	slag; waste
+demanio	m1	state property
+agrume	m1i	citrus
+molteplicità	f0	multiplicity
+idrocarburo	m1i	hydrocarbon
+smottamento	m1i	landslide, landslip
+arretratezza	f1e	backwardness
+notificazione	f1i	notification
+mèta	f1e
+accantonamento	m1i	billet, billeting; cantonment
+disavanzo	m1i	deficit
+soprannumero	m1i
+commistione	f1i	merging, mixture
+ricevitoria	f1e	receiving office; post office
+ammortamento	m1i	redemption; amortization
+fondatezza	f1e	soundness, sturdiness
+discontinuità	f0	break, a change; fitfulness
+dismissione	f1i	cessation, interruption
+scostamento	m1i	gap, separation; deviation
+decremento	m1i	decrease, diminution; decrement
+conflittualità	f0	conflict, unrest
+stalinismo	m1i	Stalinism
+triennio	m1	period of three years
+rateo	m1i	Division into instalments; accrual
+astronautica	f1he	astronautics
+pecetta	f1e	greasy stain on clothing; patch
+occhiale	m1i	glasses, spectacles
+inefficacia	f1e	inefficacy, ineffectiveness
+quietanza	f1e	receipt
+accoglimento	m1i	welcome, welcoming; acceptance
+computo	m1i	counting, calculation
+bioetica	f1he	bioethics
+pirofila	f1e	heat-resistant or ovenproof dish
+riassorbimento	m1i	reabsorption; resorption
+ricostituzione	f1i	reconstitution; reconstruction
+aggravamento	m1i	worsening; increase
+sgravio	m1	reduction, relief
+populismo	m1i	populism
+dicastero	m1i	ministry; office
+consuntivo	m1i	balance sheet, final balance
+impugnazione	f1i	opposition, dispute; impugnation
+illegittimità	f0	illegitimacy, unlawfulness
+maceria	f1e
+sottoscrittore	m1i	underwriter
+strumentalizzazione	f1i	instrumentalization, exploitation
+minicamera	f1e
+compartecipazione	f1i	sharing; share
+rinunzia	f1e
+riordinamento	m1i	reorganization
+extracomunitario	m1	non-EC immigrant, a non-EU immigrant
+azionariato	m1i	shareholding; shareholders
+differimento	m1i	deferment, postponement
+accecamento	m1i	blinding
+soprattassa	f1e	surtax, surcharge
+naturalismo	m1i	naturalism
+elettrificazione	f1i	electrification
+arretramento	m1i	regression, regress; retreat
+decentramento	m1i	decentralization; devolution
+incentivazione	f1i	incentivization, motivation
+autoregolamentazione	f1i	self-regulation
+standardizzazione	f1i	standardization
+pluralismo	m1i	pluralism
+aggravio	m1	increase, burden
+dissesto	m1i	disorder; difficulty
+plusvalenza	f1e	capital gain
+corazziere	m1i	cuirassier
+apposizione	f1i	apposition
+formatore	m1i	educator, teacher
+governance	f1i
+devoluzione	f1i	devolution; transfer
+esattoria	f1e	tax office
+intendenza	f1e	administrative organization controlled by…
+tragicommedia	f1e	tragicomedy
+significatività	f0	significance
+inquisito	m1i	person under investigation
+usufruttuario	m1	usufructuary
+cementeria	f1e
+risone	m1i	paddy
+cedola	f1e	counterfoil; coupon
+inammissibilità	f0	inadmissibility
+centralità	f0	centrality
+internazionalismo	m1i	internationalism
+microgrammo	m1i	microgram
+spettanza	f1e	concern; amount of money due or owing
+armonizzazione	f1i	harmonization
+federalismo	m1i	federalism
+qualunquismo	m1i	post-war movement that tried to remove…
+istogramma	m1i	histogram
+medagliere	m1i	collection of medals
+autofinanziamento	m1i	self-financing
+designatore	m1i	appointer, nominator
+tecnocrazia	f1e	technocracy
+impiantistica	f1he	design and installation of industrial plant
+bordura	f1e	border, hem; bordure
+ritrovatore	m1i
+riassicurazione	f1i	reinsurance
+alabardiere	m1i	halberdier
+pluralità	f0	plurality
+tollerabilità	f0	tolerability; toleration
+nocumento	m1i	harm, injury
+centrosinistra	m1i	centre left
+micelio	m1	mycelium
+ricapitalizzazione	f1i	recapitalization
+subalternità	f0	subordinance, subordinacy
+imprenditorialità	f0	entrepreneurship
+partitocrazia	f1e	partocracy, partitocracy
+parser	m0
+indisponibilità	f0	unavailability
+sperequazione	f1i	inequality, disproportion
+accessione	f1i	accession
+centralismo	m1i	centralism
+provento	m1i	revenue, proceeds
+titolarità	f0	entitlement, title; tenure
+quinquennio	m1	five years, quinquennium
+cooptazione	f1i	co-optation
+internazionalizzazione	f1i	internationalization
+specificazione	f1i	specification
+btp	m0
+cespite	m1i	source of income or earnings
+capoverso	m1i	incipit; indent
+minitel	m0
+associazionismo	m1i	associationism
+astensionismo	m1i	abstentionism
+estimo	m1i	valuation; surveying
+rappresentatività	f0	representativeness
+commissariamento	m1i	management by a commissioner when the…
+impositore	m1i
+scafista	m1i	person who maintains and repairs the…
+incostituzionalità	f0	unconstitutionality
+cetnico	m1i	chetnik
+acquis	m0
+strutturalismo	m1i	structuralism
+colombre	m1i	type of legendary leviathan
+inappellabilità	f0	finality
+annualità	f0	annual salary
+storicismo	m1i	historicism
+cct	m0
+laicità	f0	secularism
+siderurgia	f1e	iron and steel industry
+idealità	f0	ideality
+antipolitica	f1he	aversion to politics
+fideiussore	m1i	surety
+addizionalità	f0
+affrancazione	f1i	enfranchisement
+agroindustria	f1e	agroindustry
+arroccamento	m1i	castling
+autoproduzione	f1i	self-publishing
+bardolatria	f1e
+berlusconismo	m1i	Berlusconism
+burotica	f1he	office automation )
+cessionario	m1	transferee, assignee
+colatoio	m1	sieve, strainer
+comitatologia	f1e	comitology
+comparabilità	f0	comparability
+comprensibilità	f0	justifiability; comprehensibility
+concertazione	f1i	plotting, devising; tuning up
+conservatoria	f1e	office of a conservator
+delegatario	m1	delegatee
+delegittimazione	f1i	delegitimization
+detassazione	f1i	abolition of a tax
+effettuazione	f1i	carrying out, making
+enfiteusi	f0	emphyteusis
+enfiteuta	m1i	person who holds the right of enfiteusi
+esternalità	f0	externality
+fisiocrati	m0
+frantume	m1i	smithereen
+ineleggibilità	f0	ineligibility
+insussistenza	f1e	inexistence, non-existence
+minusvalenza	f1e	capital loss
+neopresidente	m1i	newly appointed president
+normazione	f1i	normation
+novazione	f1i	novation
+parametrio	m1	parametrium
+parsificazione	f1i
+pentapartito	m1i
+perimento	m1i	loss or destruction
+piovente	m1i
+polittico	m1hi	polyptych
+presidenzialismo	m1i	presidential system, presidential government
+progressività	f0	progressivity
+quadriennio	m1	period of four years
+ravvicinamento	m1i	reconciliation; rapprochement
+ribilanciamento	m1i	rebalancing
+schematismo	m1i	schematism
+sopravvenienza	f1e	contingency
+subordine	m1i	Only used in in subordine
+sussidiarietà	f0	subsidiarity
+tangento	f0poli
+totoscommessa	f1e
+viciniorità	f0

@@ -1,0 +1,3915 @@
+#v 2026-09-11
+#lang fr
+#ranked 3883
+chose	f0s	thing
+temps	m0	time; weather
+besoin	m0s	need; want
+accord	m0s	chord; agreement
+vie	f0s	biography, life
+fois	f0	time; times
+monde	m0s	world; people
+personne	f0s	person
+père	m0s	father
+homme	m0s	man
+femme	f0s	woman; wife
+mort	f0s	dead person; death
+mère	f0s	mother
+fille	f0s	girl; daughter
+gens	m0	set of people
+maison	f0s	house
+soir	m0s	evening
+jour	m0s	day; daylight
+monsieur	m0s	mister, sir; gentleman
+salut	m0s	wave; bow
+nom	m0s	noun; name
+argent	m0s	silver; money
+bonjour	m0s	greetings
+nuit	f0s	night
+raison	f0s	reason
+maman	f0s	mummy, mom
+moment	m0s	moment
+air	m0s	air; tune
+problème	m0s	problem; trouble
+peur	f0s	fear
+gars	m0	lad, guy; guys
+fils	m0	son; any male descendant
+famille	f0s	family
+travail	m2ux	work; job
+tête	f0s	head
+voiture	f0s	car
+idée	f0s	idea
+chance	f0s	chance; luck
+part	f0s	share; portion
+ami	m0s	friend
+truc	m0s	procedure, technique; trick
+sens	m0	meaning, sense
+porte	f0s	door; gate
+heure	f0s	hour, time
+coup	m0s	sound of the action
+ensemble	m0s	outfit; set
+amour	m0s	love
+sang	m0s	blood
+cas	m0	case, situation
+question	f0s	question; matter or issue
+partie	f0s	part; party
+histoire	f0s	story; history
+aide	f0s	help, support; assist
+demande	f0s	request; demand
+genre	m0s	kind; style
+police	f0s	police; cop
+mois	m0	month; period
+frère	m0s	brother
+ville	f0s	town, city
+bébé	m0s	baby
+place	f0s	place, square
+attention	f0s	attention; vigilance
+affaire	f0s	business; deal
+endroit	m0s	place, spot
+corps	m0	body; field
+façon	f0s	way
+train	m0s	train; pace
+écoute	f0s	act of listening; sheet
+pouvoir	m0s	power; authority
+type	m0s	type; guy
+côté	m0s	side; edge
+point	m0s	point
+main	f0s	hand; handball
+enfant	m0s	child
+matin	m0s	morning
+pardon	m0s	pardon, forgiveness
+suite	f0s	result; sequel
+cause	f0s	cause; case
+chambre	f0s	room; hotel room
+droit	m0s	right; law
+parti	m0s	party; parti
+eau	f0x	In particular, rain; water
+compte	m0s	account
+terre	f0s	earth; land
+mari	m0s	husband; cannabis
+fin	f0s	end, close
+boulot	m0s	work; job
+bureau	m0x	desk; office
+dehors	m0	outside
+docteur	m0s	doctor
+confiance	f0s	confidence; trust
+vérité	f0s	truth
+école	f0s	school
+chef	m0s	head; article
+propos	m0	aim, intention; remark
+semaine	f0s	week; menstrual period
+feu	m0x	fire; lighter
+journée	f0s	day; daytime
+madame	f0s	madam, Mrs. or Ms; lady
+téléphone	m0s	telephone
+équipe	f0s	team
+guerre	f0s	war
+sécurité	f0s	security, safety
+garçon	m0s	boy; young man
+mariage	m0s	marriage; wedding
+capitaine	m0s	captain, leader
+fou	m0s	madman; jester
+vue	f0s	sight
+envie	f0s	desire, lust; appetite
+fête	f0s	winter holidays; party
+jeu	m0x	game; play
+pays	m0	land, country
+garde	f0s	watch, guard; handle
+cours	m0	stream of water, river; course
+numéro	m0s	number; phone number
+retour	m0s	return; second coming
+peine	f0s	punishment; pain
+minute	f0s	minute
+plan	m0s	plan; map
+instant	m0s	instant, minute
+prison	f0s	prison
+arme	f0s	weapon, arms
+mot	m0s	word; note
+choix	m0	choice; pick
+film	m0s	movie, film
+abord	m0s	manner with which one acts in the…
+faute	f0s	error, mistake; fault
+plaisir	m0s	pleasure
+tour	m0s	tower; rook
+agent	m0s	agent
+lit	m0s	bed
+amie	f0s	friend
+route	f0s	road; route
+lieu	m0x	place
+année	f0s	year
+service	m0s	service
+devoir	m0s	duty; exercise
+sujet	m0s	subject
+état	m0s	state, nation; government
+sorte	f0s	sort, kind; way
+chien	m0s	dog; cock
+café	m0s	coffee; coffee colour
+calme	m0s	calmness, stillness; coolness
+photo	f0s	photo
+ferme	f0s	roof truss; farm
+verre	m0s	symbol of fragility
+doute	m0s	doubt
+musique	f0s	music
+courant	m0s	current
+moyen	m0s	medium; way
+avis	m0	opinion; piece of advice
+hôpital	m1ux	hospital
+meurtre	m0s	murder
+esprit	m0s	disembodied mind
+marché	m0s	market; deal
+salle	f0s	hall; room
+seigneur	m0s	lord
+dîner	m0s	dinner, evening meal; lunch
+chemin	m0s	path, way; road
+bras	m0	arm
+visage	m0s	face
+face	f0s	face; surface
+soirée	f0s	evening; evening activity
+roi	m0s	king
+retard	m0s	delay
+écrit	m0s	writing
+livre	m0s	book; imperial pound ≈ 454 g
+rapport	m0s	ratio; report
+message	m0s	message
+président	m0s	president; chairperson
+bois	m0	wood
+erreur	f0s	error
+rendez-vous	m0	date; rendezvous
+pièce	f0s	room; piece
+mets	m0	dish
+intérieur	m0s	interior, inside
+honneur	m0s	honor; face card
+an	m0s	year
+groupe	m0s	group
+rêve	m0s	dream
+carte	f0s	card; chart
+appel	m0s	call; appeal
+manque	m0s	lack, absence
+début	m0s	start, beginning
+secret	m0s	secret; secrecy
+effet	m0s	effect; spin
+sac	m0s	bag, sack; plunder
+voix	f0	voice; vote
+grâce	f0s	grace, charm; favour
+maître	m0s	title given to lawyers and notaries…
+prix	m0	prize; price
+âge	m0s	age
+long	m0s
+rue	f0s	street, road; rue
+patron	m0s	boss, employer; pattern
+avocat	m0s	lawyer; avocado
+force	f0s	force, the invisible omnipresent energy…
+accident	m0s	accident
+bout	m0s	end, extremity; bit
+ordre	m0s	order
+voyage	m0s	trip, travel
+bienvenue	f0s	welcome
+situation	f0s	situation
+scène	f0s	scene, stage
+oncle	m0s	uncle
+liste	f0s	list
+soeur	f0s
+dos	m0	back; backs
+armée	f0s	army; armed forces
+paix	f0	peace
+crime	m0s	category of severe infractions within…
+anniversaire	m0s	birthday; anniversary
+contrôle	m0s	control; test
+hôtel	m0s	mansion, town house; hotel
+victime	f0s	victim
+impression	f0s	print, print-out; impression
+avion	m0s	aeroplane
+habitude	f0s	habit
+table	f0s	table; table of a stringed instrument
+système	m0s	system; period
+médecin	m0s	physician
+bateau	m0x	boat; ship
+faim	f0s	hunger
+fond	m0s	back; bottom
+surprise	f0s	surprise
+ligne	f0s	line; route
+colère	f0s	anger, rage; wrath
+balle	f0s	ball; bullet
+or	m0s	gold; or
+risque	m0s	risk
+mission	f0s	mission
+cadeau	m0x	present, gift
+gauche	f0s	left, the left-hand side; left-hander
+inspecteur	m0s	inspector; assessor
+réponse	f0s	response, answer
+lumière	f0s	light; lumen
+pote	m0s	mate, buddy
+pied	m0s	foot; leg
+espèce	f0s	type, sort; species
+soleil	m0s	sun
+camp	m0s	camp
+coin	m0s	wedge, cornerpiece
+moitié	f0s	half; significant other
+sortie	f0s	exit, way out; act of exiting
+recherche	f0s	research
+arrière	m0s	back; fullback
+lire	f0s	lira
+avance	f0s	advance; advances
+club	m0s	club
+arrivée	f0s	arrival
+professeur	m0s	teacher; professor
+loi	f0s	law
+tueur	m0s	killer; slaughterer
+lettre	f0s	letter
+forme	f0s	shape
+conseil	m0s	piece of advice; council
+bar	m0s	bar
+danger	m0s	danger; jeopardy
+offre	f0s	offer; supply
+but	m0s	aim; goal
+classe	f0s	class, type
+poste	m0s	post office; mail
+attaque	f0s	attack; onset of a syllable
+boîte	f0s	box; tin
+enquête	f0s	survey, inquiry; inquest
+visite	f0s	visit
+juge	m0s	judge; referee
+bord	m0s	border, edge; side
+preuve	f0s	evidence, proof
+ciel	m1ux	sky; heaven
+touche	f0s	touch; key
+télé	f0s	TV, telly
+droite	f0s	straight line; right
+travers	m0	outside; wide side
+santé	f0s	health
+dossier	m0s	dossier; folder
+cuisine	f0s	kitchen; cuisine
+relation	f0s	relation; relationship
+centre	m0s	centre, center; cross
+dame	f0s	lady; queen
+chanson	f0s	song
+don	m0s	gift, talent
+âme	f0s	soul
+manière	f0s	manner, way
+décision	f0s	decision
+compagnie	f0s	company
+déjeuner	m0s	lunch, luncheon; breakfast
+clé	f0s	key
+vaisseau	m0x	ship, vessel
+enfer	m0s	Hell
+signe	m0s	sign; gesture
+lieutenant	m0s	lieutenant
+diable	m0s	devil; rogue
+bouche	f0s	mouth
+soin	m0s	care
+milieu	m0x	middle; social circle
+appartement	m0s	apartment, flat
+cerveau	m0x	brain
+blague	f0s	pouch, especially for tobacco
+époque	f0s	epoch; time
+voie	f0s	way, track; lane
+réunion	f0s	meeting; set union
+intérêt	m0s	interest
+cheval	m1ux	horse; horsepower
+combat	m0s	combat
+silence	m0s	silence
+trou	m0s	hole; blank
+amoureux	m0	lover
+drogue	f0s	drug
+commandant	m0s	commander; major
+prise	f0s	socket, wall socket; hold
+gouvernement	m0s	government
+client	m0s	customer
+adresse	f0s	address; skill
+journal	m1ux	diary, journal; newspaper
+contact	m0s	contact
+base	f0s	base
+peau	f0x	skin of a person or animal
+peuple	m0s	people
+exemple	m0s	example
+fiche	f0s	record; card
+société	f0s	society; company
+tort	m0s	fault; wrong
+héros	m0	hero
+mer	f0s	sea
+bière	f0s	beer; bier
+robe	f0s	dress, frock; fur
+opération	f0s	operation
+entrée	f0s	entry, act of entering; entrance
+vol	m0s	flight; stealing
+vin	m0s	wine
+colonel	m0s	colonel, highest commissioned officer…
+nez	m0	nose; someone who invents perfumes
+justice	f0s	justice
+départ	m0s	departure, start
+bruit	m0s	noise; rumor or report
+secours	m0	aid
+enceinte	f0s	enclosure, compound; interior
+mise	f0s	placement; bet
+témoin	m0s	witness; best man
+directeur	m0s	director; school principal
+excuse	f0s	excuse
+danse	f0s	dance
+position	f0s	position
+avenir	m0s	future
+bête	f0s	beast, animal; fool
+approche	f0s	approach
+nourriture	f0s	food, nourishment
+plupart	f0s	main part, majority; most of
+lycée	m0s	public secondary school
+sexe	m0s	gender; sex
+niveau	m0x	level
+banque	f0s	bank
+lune	f0s	Moon; any natural satellite of a planet
+pitié	f0s	pity, mercy
+liberté	f0s	liberty, freedom
+expérience	f0s	experiment, trial; experience
+procès	m0	lawsuit; trial
+radio	f0s	radio, tuner
+thé	m0s	tea
+mur	m0s	wall
+revenu	m0s	revenue; income
+bande	f0s	band, strip; stripe
+nord	m0s	north
+copine	f0s	Ellipsis of petite copine.: girlfriend
+anglais	m0	English person
+rôle	m0s	role; character
+reine	f0s	queen
+église	f0s	church
+vide	m0s	space; vacuum
+personnel	m0s	staff, members of staff
+sol	m0s	soil, earth; ground
+code	m0s	code
+espoir	m0s	hope
+vidéo	f0s	video
+défense	f0s	defence
+sud	m0s	south
+match	m0s	match, game
+bombe	f0s	bomb; aerosol
+zone	f0s	zone
+tante	f0s	aunt; homosexual
+magasin	m0s	shop, store; magazine
+souvenir	m0s	memory; souvenir
+douleur	f0s	pain; distress
+presse	f0s	press, papers
+fenêtre	f0s	window
+terrain	m0s	ground, landscape; field
+sergent	m0s	sergeant
+projet	m0s	project; plan
+quartier	m0s	impoverished neighbourhood
+planète	f0s	planet
+importance	f0s	importance; significance
+mérite	m0s	merit
+machine	f0s	machine, device
+programme	m0s	program
+occasion	f0s	occasion, opportunity; cause
+glace	f0s	ice; ice cream
+camion	m0s	lorry
+village	m0s	village; town
+spectacle	m0s	sight, a showing
+vis	f0	screw
+parole	f0s	speech, language; word utterance
+rencontre	f0s	encounter; meeting
+réalité	f0s	reality
+respect	m0s	respect
+ha	m0s
+officier	m0s	officer
+solution	f0s	solution; liquid mix
+monstre	m0s	monster; hideous person
+ordinateur	m0s	computer, a computing device
+nature	f0s	nature; lexical category
+énergie	f0s	energy
+pression	f0s	pressure
+espace	m0s	space
+bain	m0s	bath
+charge	f0s	load, burden; cargo
+ennemi	m0s	enemy
+grand-père	m0s	grandfather
+test	m0s	test, a tryout
+copain	m0s	friend, chum
+suspect	m0s	suspect
+patient	m0s	patient, an outpatient
+repas	m0	meal, repast
+urgence	f0s	emergency, urgency
+conversation	f0s	conversation
+bus	m0	bus
+mémoire	f0s	memory
+série	f0s	series; television program
+contraire	m0s	opposite
+vent	m0s	atmospheric wind; flatulence
+taille	f0s	size; waist
+chat	m0s	cat
+contrat	m0s	contract
+couteau	m0x	knife
+carrière	f0s	racecourse; career
+université	f0s	university
+papier	m0s	paper
+courage	m0s	courage
+beauté	f0s	beauty
+après-midi	m0s	afternoon
+couple	m0s	force couple; ordered pair
+différence	f0s	difference
+course	f0s	run, running; race
+accès	m0	access; attack
+cible	f0s	target; aim
+bonheur	m0s	happiness
+action	f0s	action, act; campaign
+taxi	m0s	taxi; taxi driver
+restaurant	m0s	restaurant
+crise	f0s	crisis; attack
+piste	f0s	track or trail
+coupe	f0s	goblet, cup
+prince	m0s	prince
+maladie	f0s	illness, disease
+week-end	m0s	weekend
+km	m0s
+alcool	m0s	spirits, hard liquor; alcohol
+île	f0s	island
+caméra	f0s	video camera
+image	f0s	picture, image; frame
+étage	m0s	floor, storey; floor in ocean and sea
+langue	f0s	tongue; language
+direction	f0s	direction
+frais	m0	cost, charge
+soldat	m0s	soldier
+couleur	f0s	color, colour; flush
+épouse	f0s	female spouse, wife
+pont	m0s	bridge; deck
+poisson	m0s	fish
+date	f0s	date
+intention	f0s	intention
+procureur	m0s	representative, agent; attorney
+goût	m0s	taste, flavour
+shérif	m0s	sheriff
+arrêt	m0s	stopping, checking
+sourire	m0s	smile
+lait	m0s	milk; individual serving of milk
+chasse	f0s	hunt; hunting
+signal	m1ux	signal
+destin	m0s	destiny, fate
+princesse	f0s	princess
+foi	f0s	faith; depiction of a handshake
+présence	f0s	presence
+partenaire	m0s	partner
+costume	m0s	suit worn by a man
+entreprise	f0s	company, business; enterprise
+lien	m0s	link
+discours	m0	oral presentation
+art	m0s	art
+magie	f0s	magic; art illusionism
+bouteille	f0s	bottle
+tribunal	m1ux	tribunal; court
+identité	f0s	identity
+campagne	f0s	country, countryside; campaign
+morceau	m0x	piece, slice; gun
+os	m0	bone
+nombre	m0s	number
+gâteau	m0x	cookie; sponge cake
+cou	m0s	neck
+joie	f0s	joy
+star	f0s	star
+regard	m0s	look, glance; sight
+menace	f0s	threat
+appareil	m0s	apparatus; aircraft
+jambe	f0s	leg
+ange	m0s	angel
+cinéma	m0s	cinema
+produit	m0s	product; production
+chapeau	m0x	hat; introductory text
+adn	m0s	Initialism of acide désoxyribonucléique
+échange	m0s	exchange
+vitesse	f0s	speed; gear
+succès	m0	success; achievement
+odeur	f0s	smell, odour
+pain	m0s	bread; piece of bread
+règle	f0s	rule, regulation
+ministre	m0s	minister; indigo bunting
+vendredi	m0s	Friday
+arbre	m0s	tree; axle
+maire	m0s	mayor; male mayor
+faveur	f0s	favour
+fac	f0s	university
+champ	m0s	wide open space; area of study
+valeur	f0s	value, worth; valor
+couverture	f0s	blanket; coverage
+million	m0s
+article	m0s	article
+parc	m0s	park; playpen
+toit	m0s	roof
+unité	f0s	unity
+plage	f0s	beach; range
+coffre	m0s	chest, box; boot
+mode	m0s	fashion, trend; method
+folie	f0s	folly; madness
+extérieur	m0s	exterior, outside
+membre	m0s	member; limb
+hasard	m0s	chance; coincidence
+génie	m0s	genie; genius
+jardin	m0s	garden
+saison	f0s	season
+ouest	m0s	west
+poids	m0	weight
+poche	f0s	pocket; pouch
+source	f0s	source, spring
+samedi	m0s	Saturday
+univers	m0	universe
+viande	f0s	meat; object of sexual desire
+changement	m0s	change
+bal	m0s	dance party, ball
+page	f0s	page
+passage	m0s	time when such an act occurs
+piège	m0s	trap, snare; pitfall
+trésor	m0s	Treasury
+perte	f0s	loss; ruin
+fantôme	m0s	ghost
+naissance	f0s	birth
+retraite	f0s	retirement; pension
+poulet	m0s	chicken
+marque	f0s	mark; brand
+bâtiment	m0s	building, edifice; ship or boat
+animal	m1ux	animal
+paradis	m0	paradise; Heaven
+émission	f0s	emission; programme
+dimanche	m0s	Sunday
+conscience	f0s	conscience; consciousness
+connaissance	f0s	knowledge; acquaintance
+sentiment	m0s	opinion; sentiment
+bataille	f0s	battle; war
+souci	m0s	worry; marigold
+note	f0s	note; mark
+doigt	m0s	finger; toe
+mensonge	m0s	lie or falsehood
+volonté	f0s	wish, will
+victoire	f0s	victory
+information	f0s	piece of information; news
+traitement	m0s	treatment; processing
+cancer	m0s	Cancer
+cousin	m0s	cousin
+douche	f0s	shower
+gaz	m0	gas
+théorie	f0s	theory
+trace	f0s	trace; track
+internet	m0s	Internet
+salon	m0s	living room; salon
+protection	f0s	protection
+style	m0s	style
+semblant	m0s	semblance
+acte	m0s	act
+aéroport	m0s	airport
+queue	f0s	tail; queue
+supporter	m0s	supporter, fan
+métier	m0s	job, profession; skill
+surveillance	f0s	surveillance; supervision
+suicide	m0s	suicide
+pilote	m0s	pilot
+leçon	f0s	lesson
+immeuble	m0s	building; apartment building
+oiseau	m0x	bird
+propriétaire	m0s	owner
+station	f0s	station
+mandat	m0s	mandate; postal order
+assassin	m0s	assassin or other murderer
+bague	f0s	ring
+ventre	m0s	belly; antinode
+terme	m0s	terms; conclusion
+commande	f0s	order
+souris	f0	mouse; computer mouse
+sport	m0s	sport
+pluie	f0s	rain; loads of sth
+ombre	f0s	shade, shadow; darkness
+épisode	m0s	episode
+talent	m0s	talent, a gift
+chocolat	m0s	chocolate; hot chocolate
+assurance	f0s	insurance; assurance
+couche	f0s	bed; nappy/diaper
+site	m0s	site; website
+neige	f0s	cocaine, crack; snow
+chemise	f0s	shirt; folder
+emploi	m0s	job; employment
+jury	m0s	jury
+voleur	m0s	robber, thief; flier
+chaise	f0s	chair, seat
+mouvement	m0s	movement; motion
+sommeil	m0s	sleep
+traduction	f0s	translation
+repos	m0	rest, ease
+siège	m0s	seat, chair; siege
+policier	m0s	policeman, police officer; police movie
+puissance	f0s	power; dominion
+cellule	f0s	cell
+violence	f0s	violence; act of violence
+ours	m0	bear
+gorge	f0s	throat; breast
+examen	m0s	exam, test
+major	m0s	major, the upper rank of French…
+distance	f0s	distance
+titre	m0s	heading, title
+lundi	m0s	Monday
+choc	m0s	hit, strike; shock
+théâtre	m0s	theatre; movie theater
+rivière	f0s	river
+logique	f0s	logic
+miracle	m0s	miracle
+montagne	f0s	mountain
+plat	m0s	dish or course; flat area of ground
+mine	f0s	mine; pencil lead
+divorce	m0s	divorce
+forêt	f0s	forest
+fortune	f0s	fortune
+explosion	f0s	explosion
+responsabilité	f0s	responsibility
+épée	f0s	sword; glaive
+tableau	m0x	painting; picture
+cabinet	m0s	office, a surgery; cabinet
+alerte	f0s	alert
+meurtrier	m0s	murderer
+rock	m0s	rock
+vision	f0s	vision, sight
+mesure	f0s	measure; measurement
+secrétaire	m0s	secretary; writing desk
+fuite	f0s	escape; leak
+amitié	f0s	friendship, amity
+minuit	m0s	midnight
+humeur	f0s	humour/humor; mental state
+top	m0s	signalling sound; top
+lac	m0s	lake
+vente	f0s	sale
+vache	f0s	cow
+modèle	m0s	model, example; template
+version	f0s	version; translation exercise
+concert	m0s	concert
+blessure	f0s	wound; injury
+tir	m0s	Initialism of Transports Internationaux…
+chauffeur	m0s	stoker; driver
+midi	m0s	noon, midday; south
+moteur	m0s	motor, engine
+dessous	m0	underside; disadvantage
+démon	m0s	demon
+gare	f0s	railway station
+rentrée	f0s	return
+fer	m0s	iron; shoe
+soutien	m0s	support
+usine	f0s	factory; mill
+château	m0x	castle
+garage	m0s	garage
+oreille	f0s	ear
+virus	m0	virus
+crédit	m0s	credit; course credit
+canon	m0s	cannon, gun; barrel
+criminel	m0s	criminal
+agence	f0s	agency
+comportement	m0s	behavior, demeanor
+artiste	m0s	artist
+gouverneur	m0s	governor
+période	f0s	period; era
+fromage	m0s	cheese
+essence	f0s	essence; petrol
+côte	f0s	rib; hill
+chaleur	f0s	heat
+objet	m0s	thing, object; aim
+tournée	f0s	tour, round
+résultat	m0s	outcome; bottom line
+fusil	m0s	rifle, gun
+gardien	m0nes	guard; guardian
+vote	m0s	vote
+herbe	f0s	grass; weed
+adulte	m0s	adult
+siècle	m0s	century
+attente	f0s	wait; expectation
+piscine	f0s	swimming pool; piscina
+lendemain	m0s	day after, the next day
+concours	m0	competition; concourse
+chaîne	f0s	chain; channel
+chèque	m0s	cheque
+réseau	m0x	network
+enfance	f0s	childhood
+science	f0s	knowledge; science
+billet	m0s	ticket; note
+crâne	m0s	skull, cranium
+arrestation	f0s	arrest
+caisse	f0s	box, crate; cash register
+traité	m0s	treatise; treaty
+sénateur	m0s	senator
+sucre	m0s	sugar
+cloche	f0s	bell; clumsy person
+réputation	f0s	reputation
+chute	f0s	fall
+plainte	f0s	complaint; moan
+sorcière	f0s	witch
+journaliste	m0s	journalist; anchorman or anchorwoman
+département	m0s	department; département
+peinture	f0s	painting
+opinion	f0s	opinion
+geste	m0s	gesture; move
+empire	m0s	empire; influence
+pizza	f0s	pizza
+fan	m0s	fan
+poitrine	f0s	chest; breast
+aventure	f0s	adventure
+barre	f0s	bar, cake; helm
+foyer	m0s	hearth; lobby
+cauchemar	m0s	nightmare
+soupe	f0s	soup
+jus	m0	juice
+prêtre	m0s	priest
+corde	f0s	rope; chord
+champion	m0s	champion
+conférence	f0s	conference; lecture
+commissaire	m0s	commissioner; chief of police
+crème	f0s	cream; café crème
+entraînement	m0s	training
+joueur	m0s	player
+couloir	m0s	corridor, hallway; aisle
+horreur	f0s	horror
+propriété	f0s	property
+matériel	m0s	equipment, supplies; hardware
+foule	f0s	crowd; thronging of a crowd
+réaction	f0s	reaction
+hiver	m0s	winter
+conseiller	m0s	counsellor, advisor
+humanité	f0s	humanity
+studio	m0s	studio; pied-à-terre
+lapin	m0s	rabbit
+désert	m0s	desert
+boutique	f0s	shop
+fonds	m0	fund, funds; resources
+discussion	f0s	debate, argument
+incendie	m0s	fire
+surface	f0s	surface
+ascenseur	m0s	lift, elevator; scroll bar
+mars	m0	March
+abri	m0s	shelter or refuge against the elements or…
+marine	f0s	navy; Marine
+cadavre	m0s	corpse, cadaver; empty bottle
+front	m0s	forehead; front
+parking	m0s	car park, parking lot
+gloire	f0s	glory
+communauté	f0s	community; commonwealth
+déclaration	f0s	declaration
+frontière	f0s	boundary, frontier
+prénom	m0s	first name, given name
+liaison	f0s	link, bond; friendship
+cérémonie	f0s	ceremony
+océan	m0s	ocean
+vélo	m0s	bike, bicycle
+poupée	f0s	doll
+navire	m0s	ship
+prisonnier	m0s	prisoner
+ménage	m0s	housework, housekeeping; household
+bouton	m0s	button; bud
+acteur	m0s	actor
+show	m0s	show
+mardi	m0s	Tuesday
+médecine	f0s	medicine
+baisse	f0s	drop
+véhicule	m0s	vehicle
+tâche	f0s	task
+réserve	f0s	reservation; reserve
+origine	f0s	origin
+tapis	m0	carpet; all-in
+absence	f0s	absence
+tempête	f0s	storm, tempest
+écran	m0s	screen
+enterrement	m0s	burial; funeral
+rythme	m0s	rhythm
+pratique	f0s	practice; execution or implementation
+ballon	m0s	ball; beachball
+équipage	m0s	crew; equipment
+récompense	f0s	reward, recompense; prize
+loup	m0s	wolf; bass
+vengeance	f0s	revenge, vengeance
+lutte	f0s	struggle, fight; wrestling
+opportunité	f0s	state of opportuneness
+personnage	m0s	character
+limite	f0s	limit
+panique	f0s	panic
+technologie	f0s	technology
+région	f0s	region
+salaire	m0s	salary, wage
+veille	f0s	day before, the eve; wakefulness
+ceinture	f0s	belt
+explication	f0s	explanation
+roman	m0s	novel; very long text
+sandwich	m0s	sandwich
+incident	m0s	incident
+comité	m0s	committee
+haine	f0s	hatred
+portée	f0s	reach; litter
+fleur	f0s	best of something; virginity of a woman
+palais	m0	palace; courthouse
+jeudi	m0s	Thursday
+élève	m0s	schoolboy, pupil; schoolchild
+pêche	f0s	peach; form
+masque	m0s	mask
+malheur	m0s	sadness, unhappiness; misfortune
+royaume	m0s	kingdom
+porc	m0s	pork; pig
+entretien	m0s	upkeep; welfare
+bloc	m0s	block
+alarme	f0s	alarm
+étoile	f0s	star; mullet
+singe	m0s	monkey; ape
+assistant	m0s	assistant
+mm	m0s
+étape	f0s	stage, stop; leg
+alliance	f0s	alliance, union; wedding ring
+collier	m0s	collar
+rayon	m0s	ray, beam; spoke
+créature	f0s	creature, a living being
+monnaie	f0s	change; currency
+voisin	m0s	neighbour/neighbor
+temple	m0s	temple; hall
+passion	f0s	passion
+existence	f0s	existence; life
+analyse	f0s	analysis
+mystère	m0s	mystery; mystery play
+port	m0s	port, harbour
+tension	f0s	tension; blood pressure
+qualité	f0s	quality
+piano	m0s	piano
+secteur	m0s	sector
+pot	m0s	cooking pot; dish
+cigarette	f0s	cigarette
+jugement	m0s	judgment
+bibliothèque	f0s	library; bookcase
+désir	m0es	desire
+condition	f0s	term, condition
+courrier	m0s	mail
+volant	m0s	steering wheel; flywheel
+fumée	f0s	smoke; steam
+expert	m0s	expert
+pile	f0s	heap, stack; pillar
+essai	m0s	try, trial; assay
+épreuve	f0s	test; ordeal
+conduite	f0s	behavior, conduct
+avantage	m0s	advantage
+miroir	m0s	mirror
+procédure	f0s	procedure
+copie	f0s	copying
+disque	m0s	disc; discus
+golf	m0s	golf
+section	f0s	section
+vampire	m0s	vampire
+échec	m0s	failure; check
+profil	m0s	profile
+pointe	f0s	point
+sauce	f0s	sauce
+séance	f0s	session
+partage	m0s	sharing
+foot	m0s	association football
+accusation	f0s	accusation
+boule	f0s	ball, globe; bowl
+organisation	f0s	organization
+moto	f0s	bike, motorbike
+attitude	f0s	attitude, position
+effort	m0s	effort
+proposition	f0s	proposition, suggestion
+serpent	m0s	snake
+audience	f0s	audience, viewer
+info	f0s	Contraction of information
+télévision	f0s	television
+possibilité	f0s	possibility
+football	m0s	association football, soccer
+paire	f0s	pair
+maximum	m0s	maximum
+domaine	m0s	domain; zone
+poussière	f0s	dust; speck of dust
+rat	m0s	rat; sweetheart
+valise	f0s	case, suitcase
+empereur	m0s	Emperor
+printemps	m0	spring
+légende	f0s	legend; caption
+disparition	f0s	disappearance
+poule	f0s	hen; pool
+éducation	f0s	education; upbringing
+dragon	m0s	dragon, creature or person
+plaque	f0s	sheet, plate; slab
+musée	m0s	museum
+pensée	f0s	thought; worry
+sable	m0s	sand; heraldic colour sable
+fièvre	f0s	fever
+imagination	f0s	imagination
+objection	f0s	objection
+autorisation	f0s	authorization
+chirurgie	f0s	surgery, medical operation
+magazine	m0s	magazine
+matière	f0s	material; matter
+cercle	m0s	circle; group of people
+étudiant	m0s	student
+cirque	m0s	circus; cirque
+congé	m0s	leave; holiday
+beurre	m0s	butter
+stade	m0s	stadium
+épaule	f0s	shoulder
+taux	m0	rate, level
+tireur	m0s	one who pulls; shooter
+ouverture	f0s	opening; overture
+huile	f0s	oil; big gun
+parfum	m0s	perfume; scent
+cap	m0s	cape; heading
+demi-heure	f0s	half an hour
+camarade	m0s	buddy, mate; comrade
+croix	f0	cross; representation of a cross
+moral	m1ux	morale, optimism
+détail	m0s	detail
+thérapie	f0s	therapy
+signature	f0s	signature; act of signing
+donnée	f0s	datum
+adaptation	f0s	adaptation
+jeunesse	f0s	youth
+sommet	m0s	summit, peak
+géant	m0s	giant; giant slalom
+territoire	m0s	territory; country
+portefeuille	m0s	wallet; folder
+scénario	m0s	script; screenplay
+tentative	f0s	general senses
+décès	m0	death
+poil	m0s	hair; bristle
+cave	f0s	cellar or basement; wine selection
+progrès	m0	progress
+objectif	m0s	objective, goal; lens
+panne	f0s	plush velvet; breakdown
+invitation	f0s	invitation
+loyer	m0s	rent
+plateau	m0x	flat area; tray
+mai	m0s	May
+humour	m0s	humor
+expression	f0s	expression
+race	f0s	race; kind
+trafic	m0s	traffic
+exercice	m0s	exercise, performance
+cabine	f0s	cabin
+nation	f0s	nation
+traître	m0s	betrayer, traitor
+juif	m0s	Jew
+cassette	f0s	treasure box; small box
+péché	m0s	sin
+instinct	m0s	instinct; gut feeling
+remise	f0s	remission; discount
+enregistrement	m0s	registration; save
+agression	f0s	aggression
+employé	m0s	employee
+angle	m0s	geometric angle; viewpoint or angle
+neveu	m0x	nephew
+activité	f0s	activity
+température	f0s	temperature
+bourse	f0s	money; financial grant
+poubelle	f0s	rubbish bin, garbage can
+compétition	f0s	competition
+viol	m0s	rape
+autorité	f0s	authority
+échelle	f0s	ladder; scale
+commission	f0s	commission
+tribu	f0s	tribe; sigma-algebra
+comédie	f0s	comedy; acting
+accueil	m0s	reception, hospitality; acceptance
+absurde	m0s
+souffrance	f0s	sufferance, pain
+demi-tour	m0s	U-turn, about-turn
+réception	f0s	reception
+mercredi	m0s	Wednesday
+union	f0s	union
+langage	m0s	programming language
+tunnel	m0s	tunnel
+poudre	f0s	powder
+influence	f0s	influence
+tarte	f0s	pie, tart; slap
+hauteur	f0s	height, altitude; arrogance
+finale	f0s	final
+culture	f0s	crop; culture
+production	f0s	production
+bible	f0s	bible
+sous-sol	m0s	subsoil; basement
+indice	m0s	clue, hint; index
+ministère	m0s	ministry
+témoignage	m0s	testimony
+actrice	f0s	actress
+oxygène	m0s	oxygen
+salade	f0s	salad
+matinée	f0s	morning; matinee
+flotte	f0s	fleet; water
+amiral	m1ux	admiral
+stress	m0	stress
+guide	m0s	guide person; guidebook
+comte	m0s	count, earl
+fauteuil	m0s	armchair; seat: office or position
+auteur	m0s	author; composer
+album	m0s	album
+serment	m0s	oath, pledge
+promotion	f0s	promotion
+division	f0s	division
+foie	m0s	liver
+robot	m0s	robot
+collection	f0s	collection
+option	f0s	option
+communication	f0s	communication
+vague	f0s	wave; vagueness
+laboratoire	m0s	laboratory
+charme	m0s	charm, attractive quality; glamour
+adjoint	m0s	deputy, assistant; adjunct
+clan	m0s	clan
+livraison	f0s	delivery; livraison
+diplôme	m0s	degree; diploma
+électricité	f0s	electricity
+phase	f0s	phase
+révolution	f0s	revolution
+sein	m0s	breast
+commerce	m0s	commerce, trade; store
+formation	f0s	education; formation
+parent	m0s	parent; ancestors
+commissariat	m0s	commissionership; police station
+total	m1ux	total
+étude	f0s	study
+écart	m0s	space, gap; difference
+comté	m0s	county; riding
+dette	f0s	debt
+cité	f0s	city; housing estate
+culpabilité	f0s	guilt
+régime	m0s	regime; regimen
+empreinte	f0s	imprint
+évidence	f0s	obviousness, clearness
+remède	m0s	remedy
+cimetière	m0s	cemetery, graveyard
+exécution	f0s	execution
+rang	m0s	knitting course
+fierté	f0s	pride, self-esteem
+congrès	m0	congress
+métro	m0s	metro
+processus	m0	process
+caution	f0s	caution, guaranty; deposit
+lecture	f0s	reading; playback
+rond	m0s	circle; coin
+caractère	m0s	character
+intelligence	f0s	intelligence; comprehension
+religion	f0s	religion
+survie	f0s	survival
+esclave	m0s	slave
+septembre	m0s	September
+tradition	f0s	tradition
+stratégie	f0s	strategy
+chasseur	m0s	hunter; fighter plane
+guitare	f0s	guitar
+amant	m0s	lover
+escalier	m0s	step, stair; staircase
+défi	m0s	challenge
+chirurgien	m0s	surgeon, a doctor who performs surgery
+dollar	m0s	dollar
+accent	m0s	accent symbol
+personnalité	f0s	personality, character
+commandement	m0s	command, order; commander
+lampe	f0s	lamp, light; bulb
+dessin	m0s	drawing; design
+mn	f0s
+reconnaissance	f0s	reconnaissance; thankfulness
+boisson	f0s	drink
+découverte	f0s	discovery
+câble	m0s	cable
+phrase	f0s	sentence
+réveil	m0s	waking, awakening; reveille
+dose	f0s	proportion; dose
+coma	m0s	coma
+riz	m0	rice
+transfert	m0s	transfer; transference
+portrait	m0s	portrait
+remarque	f0s	remark
+métal	m1ux	metal
+masse	f0s	paste, a dough; majority
+drapeau	m0x	flag; diaper
+noix	f0	walnut
+cabane	f0s	cabin, hut; bed
+lion	m0s	lion; male lion
+budget	m0s	budget
+malédiction	f0s	spell, curse
+lot	m0s	share; plot
+rumeur	f0s	rumour / rumor
+méthode	f0s	method; book
+avenue	f0s	avenue; radial avenue
+cliente	f0s
+intervention	f0s	intervention
+priorité	f0s	priority; right of way
+casino	m0s	casino
+pomme	f0s	apple; head
+environnement	m0s	environment; nature
+bâton	m0s	stick; baton
+sacrifice	m0s	sacrifice
+otage	m0s	hostage
+tatouage	m0s	tattoo
+interview	f0s	interview
+héroïne	f0s	heroine
+tendance	f0s	tendency, propensity
+rupture	f0s	breakup, rupture
+batterie	f0s	battery
+manager	m0s	manager
+héritage	m0s	heritage, inheritance; patrimony
+écrivain	m0s	writer
+clown	m0s	clown
+jungle	f0s	jungle
+équipement	m0s	equipment, kit; equipping
+complice	m0s	accomplice
+cousine	f0s
+génération	f0s	generation
+torture	f0s	torture
+brigade	f0s	brigade
+événement	m0s	event
+collège	m0s	academy; junior high school
+leader	m0s	leader
+dent	f0s	tooth; cog
+destruction	f0s	destruction
+charité	f0s	charity
+quart	m0s	quarter; shift
+pétrole	m0s	petroleum; oil
+saut	m0s	jump
+chevalier	m0s	knight; sandpiper
+volontaire	m0s	volunteer
+interrogatoire	m0s	interrogation
+trahison	f0s	treason; betrayal
+cri	m0s	male Cree
+scandale	m0s	scandal
+mélange	m0s	mixture, blend
+échantillon	m0s	sample, extract
+chaos	m0	chaos
+résistance	f0s	resistance
+dessert	m0s	dessert, pudding
+veuve	f0s	widow
+moyenne	f0s	average, mean
+construction	f0s	construction
+population	f0s	population
+juillet	m0s	July
+capacité	f0s	skill; capacity
+sensation	f0s	sensation
+potentiel	m0s	potential
+morale	f0s	ethics, morality
+pasteur	m0s	shepherd; pastor
+patrouille	f0s	patrol
+impact	m0s	impact
+baseball	m0s
+sel	m0s	salt; smelling salts
+conducteur	m0s	cue sheet
+panneau	m0x	sign; panel
+tragédie	f0s	tragedy
+serveur	m0s	waiter; server
+fruit	m0s	fruit
+marge	f0s	margin
+prière	f0s	prayer
+possession	f0s	possession
+vendeur	m0s	salesman; seller
+combinaison	f0s	combination, combining
+séjour	m0s	stay, visit; living room
+exception	f0s	exception
+ambassadeur	m0s	ambassador
+poing	m0s	fist
+chapitre	m0s	chapter; subject
+four	m0s	oven; stove
+association	f0s	association, society; partnership
+audition	f0s	audition
+ordure	f0s	garbage, refuse; dung
+écriture	f0s	writing; scripture
+publicité	f0s	publicity, advertising; commercial
+motif	m0s	motive; motif
+avril	m0s	April, the fourth month of the Gregorian…
+boue	f0s	mud
+cran	m0s	notch; safety catch
+apparence	f0s	appearance
+principe	m0s	principle; beginning
+essentiel	m0s	essential
+règlement	m0s	rules, regulations; payment
+symbole	m0s	symbol
+revanche	f0s	revenge; rematch
+satellite	m0s	satellite
+luxe	m0s	luxury
+vallée	f0s	valley
+transport	m0s	transport
+franc	m0s	Frank
+couronne	f0s	crown; funereal wreath
+plante	f0s	sole of the foot; plant
+menu	m0s	detailed list; menu
+avertissement	m0s	warning; yellow card
+acier	m0s	steel
+branche	f0s	branch
+engagement	m0s	commitment; engagement
+producteur	m0s	producer
+fonction	f0s	function; role
+lame	f0s	lamina; blade
+cuir	m0s	leather
+ticket	m0s	ticket; receipt
+autoroute	f0s	expressway, freeway
+statue	f0s	statue
+excellence	f0s	Excellence; Excellency
+casque	m0s	helmet; hard hat
+prime	f0s	reward; premium
+aile	f0s	wing; fender
+kg	m0s
+protocole	m0s	protocol
+roue	f0s	wheel; breaking wheel
+médicament	m0s	drug, medication
+resto	m0s	resto, restaurant
+demoiselle	f0s	damsel, maiden; miss
+serveuse	f0s	waitress; barmaid
+conflit	m0s	conflict
+pension	f0s	pension, boarding house
+routine	f0s	routine; road
+candidat	m0s	candidate
+cm	m0s
+trône	m0s	throne
+asile	m0s	asylum
+administration	f0s	management
+arrangement	m0s	arrangement
+juin	m0s	June
+fabrique	f0s	factory, plant
+obscurité	f0s	darkness, dark; obscurity
+colline	f0s	hill, downs
+réalisateur	m0s	director
+puits	m0	well, shaft
+octobre	m0s	October
+république	f0s	republic
+testament	m0s	testament, last will; legacy
+facture	f0s	bill, invoice; craft
+domicile	m0s	domicile
+médaille	f0s	medal
+texte	m0s	text
+record	m0s	record
+blé	m0s	wheat, corn
+guerrier	m0s	warrior
+enveloppe	f0s	envelope
+manche	f0s	sleeve; round
+cadre	m0s	frame; backbone
+gris	m0	gray
+enlèvement	m0s	takeoff, liftoff; abduction
+circulation	f0s	circulation
+lancement	m0s	throw, launch
+quantité	f0s	quantity
+hélicoptère	m0s	helicopter
+tube	m0s	pipe; tube
+époux	m0	spouse; male spouse
+ingénieur	m0s	engineer; conductor
+pape	m0s	Pope
+pouce	m0s	thumb; inch
+infection	f0s	infection; stench
+faiblesse	f0s	weakness
+libération	f0s	deliverance; release
+élément	m0s	element
+tournage	m0s	filming
+atmosphère	f0s	atmosphere
+délit	m0s	crime, offence
+requin	m0s	shark
+détention	f0s	detention; possession
+tumeur	f0s	tumor
+crainte	f0s	fear, fright
+immunité	f0s	immunity
+compromis	m0	compromise, trade-off
+minimum	m2a	minimum
+revue	f0s	magazine, journal; troop inspection
+nièce	f0s	niece
+douzaine	f0s	twelve; about twelve
+trouble	m0s	trouble; disorder
+connexion	f0s	connection; login
+équilibre	m0s	balance, equilibrium
+usage	m0s	usage, use
+industrie	f0s	profession; virtue diligence
+festival	m0s	festival
+chant	m0s	song; discipline of singing
+curiosité	f0s	curiosity; oddity
+entraîneur	m0s	trainer
+ambiance	f0s	ambiance, atmosphere
+tissu	m0s	fabric; tissue
+résidence	f0s	residence
+débat	m0s	debate
+zoo	m0s	zoo
+navette	f0s	shuttle
+baron	m0s
+genou	m0x	knee; lap
+campus	m0	campus
+destination	f0s	destination
+grossesse	f0s	pregnancy
+exposition	f0s	exposition; exhibition
+nid	m0s	nest; Some people or dangerous things
+mafia	f0s	Mafia
+assiette	f0s	seat; trim
+kit	m0s	kit
+fréquence	f0s	frequency
+atelier	m0s	workshop
+balade	f0s	walk without purpose, stroll
+capitale	f0s	capital, capital city; capital letter
+hémorragie	f0s	haemorrhage
+massage	m0s	physical massage
+novembre	m0s	November
+dépression	f0s	depression
+opéra	m0s	opera
+chaussure	f0s	shoe; shoe industry
+quête	f0s	quest, search
+inquiétude	f0s	worry, concern
+grève	f0s	bank; strike
+tennis	m0	tennis; sneaker
+spécialiste	m0s	specialist
+tigre	m0s	tiger
+foire	f0s	fair, an exposition; artisans' market
+chariot	m0s	car/carriage or wagon
+mannequin	m0s	fashion model; dummy
+aiguille	f0s	needle
+jouet	m0s	toy
+citoyen	m0s	citizen
+plafond	m0s	ceiling
+poème	m0s	poem
+ligue	f0s	league
+voisine	f0s
+pique	m0s	pike, lance; spade
+massacre	m0s	massacre
+description	f0s	description
+défaut	m0s	shortcoming; defect
+ambassade	f0s	embassy, diplomatic representation in a…
+adversaire	m0s	adversary, opponent
+fermeture	f0s	closing; fastener
+automne	m0s	autumn, fall
+économie	f0s	economy; economics
+feuille	f0s	leaf; sheet
+colonne	f0s	column, pillar
+pirate	m0s	pirate
+informatique	f0s	computer science; ICT
+acide	m0s	acid
+immobilier	m0s	real estate, real property
+vedette	f0s	star; flagship
+dignité	f0s	dignity
+catastrophe	f0s	catastrophe
+marteau	m0x	hammer used for pounding; rapper
+jet	m0s	throw; spurt
+affection	f0s	affection, love; medical condition
+scanner	m0s
+document	m0s	document; file
+serre	f0s	greenhouse, hothouse
+fichier	m0s	file
+répétition	f0s	repetition; rehearsal
+dentiste	m0s	dentist
+montée	f0s	climb; rise
+promenade	f0s	walk
+profit	m0s	profit, benefit
+tache	f0s	blot, stain or smear; blotch
+création	f0s	creation
+refuge	m0s	refuge
+diamant	m0s	diamond
+antenne	f0s	yard supporting a lateen sail
+aperçu	m0s	glance, glimpse; insight
+réussite	f0s	success
+formule	f0s	formula; menu offer
+fleuve	m0s	river that flows into an ocean or sea
+recette	f0s	recipe, receipt; income
+plaie	f0s	open wound; scourge
+bénédiction	f0s	blessing; benediction
+duc	m0s	duke
+merveille	f2es	wonder
+illusion	f0s	illusion
+anneau	m0x	ring
+sauvetage	m0s	rescue; saving
+canal	m1ux	canal; channel
+fatigue	f0s	fatigue, weariness
+lave	f0s	lava
+surnom	m0s	nickname
+structure	f0s	structure
+évasion	f0s	escape; escapism
+petit-fils	m0	grandson
+photographe	m0s	photographer
+ère	f0s	era
+drame	m0s	drama
+août	m0s	August
+verdict	m0s	verdict
+assaut	m0s	assault
+poursuite	f0s	pursuit
+clef	f0s	clef; key
+décembre	m0s	December
+émotion	f0s	emotion
+relais	m0	relay; relay race
+longueur	f0s	length
+thème	m0s	theme, topic
+contenu	m0s	content
+ennui	m0s	boredom; Trouble
+référence	f0s	reference
+poésie	f0s	poetry
+assassinat	m0s	assassination; first-degree murder
+tabac	m0s	tobacco
+garantie	f0s	guarantee
+hôte	m0s	guest; host
+conclusion	f0s	conclusion
+représentant	m0s	representative
+règne	m0s	reign, ruling; kingship
+misère	f0s	misery; poverty
+inverse	m0s	inverse, the contrary
+grotte	f0s	cave
+élection	f0s	election
+fouille	f0s	search; rummage
+orchestre	m0s	orchestra, band; stalls
+portail	m0s	portal
+planche	f0s	board; spread
+nuage	m0s	cloud
+mail	m0s	maul; pall mall mallet
+caporal	m1ux	corporal; caporal
+développement	m0s	development
+quarantaine	f0s	quarantine
+demie	f0s	semifinal, semi-final
+descente	f0s	descent
+marchandise	f0s	merchandise
+terreur	f0s	terror; terrorcore
+innocence	f0s	innocence
+janvier	m0s	January
+cheville	f0s	ankle; dowel
+plomb	m0s	lead; fuse
+galerie	f0s	gallery
+cristal	m1ux	crystal
+décharge	f0s	discharge; release
+gravité	f0s	gravity; severity
+taupe	f0s	mole
+centaine	f0s	hundreds
+bétail	m0s	livestock; cattle
+inspiration	f0s	inspiration
+majorité	f0s	majority; adulthood
+jazz	m0	jazz
+concept	m0s	concept
+nettoyage	m0s	cleaning
+syndicat	m0s	syndicate; union
+circuit	m0s	circuit; tour
+tournoi	m0s	tournament
+déesse	f0s	goddess
+sirène	f0s	mermaid, siren
+boucher	m0s	butcher
+galaxie	f0s	galaxy
+statut	m0s	status; statute
+carton	m0s	cardboard; carton
+requête	f0s	formal request; petition
+citron	m0s	lemon; lime
+identification	f0s	identification
+commentaire	m0s	comment, remark; commentary
+chantier	m0s	building site; worksite
+arnaque	f0s	con, rip-off
+quai	m0s	quay, wharf; platform
+cocktail	m0s	cocktail; cocktail party
+spécialité	f0s	speciality
+orbite	f0s	orbit; eye socket
+correction	f0s	correction; propriety
+tactique	f0s	tactic
+villa	f0s	villa; house in the country
+croisé	m0s	crusader
+vitre	f0s	pane of glass, window pane
+habitué	m0s	regular, a denizen
+grange	f0s	barn
+degré	m0s	degree
+flamme	f0s	flame; talent
+laser	m0s	laser
+amateur	m0s	amateur; lover of something
+élite	f0s	elite
+banc	m0s	bench; bank
+engin	m0s	piece of military equipment
+maillot	m0s	vest; bikini line
+trajet	m0s	route, course; ride
+peste	f0s	plague; brat
+confession	f0s	confession
+académie	f0s	academy
+barman	m0s	barman, bartender
+complot	m0s	plot
+augmentation	f0s	increase, a raise; pay raise
+dépôt	m0s	deposit; registration
+registre	m0s	register; level
+pompe	f0s	pump; push-up
+présentation	f0s	act of presenting; introduction
+évolution	f0s	evolution
+détresse	f0s	distress, despair
+chiffre	m0s	digit i.e. 0, 1; number
+orage	m0s	thunderstorm
+cavalier	m0s	knight; rider
+flèche	f0s	arrow; spire
+hommage	m0s	homage
+ordonnance	f0s	prescription; order
+boxe	f0s	boxing
+fondation	f0s	foundation
+mairie	f0s	mayor’s office, mayoralty; town hall
+poussée	f0s	push, thrust; surge
+ronde	f0s	watch; whole note
+hockey	m0s	hockey; ice hockey
+civilisation	f0s	civilization
+institut	m0s	institute
+fracture	f0s	fracture
+dvd	m0s	DVD
+bouclier	m0s	shield
+atterrissage	m0s	landing on the ground
+coiffure	f0s	headwear, headgear; hairstyle
+député	m0s	deputy; Member of Parliament
+patronne	f0s	female owner; madame
+barrière	f0s	barrier; fence
+disposition	f0s	arrangement; step
+papillon	m0s	butterfly; knot
+pop	f0s	pop, pop music
+district	m0s	district
+radar	m0s	radar
+halte	f0s	halt, pause; halting place
+grille	f0s	gate; grate
+mâle	m0s	male
+poète	m0s	poet; daydreamer
+licence	f0s	licence; permit
+col	m0s	collar
+passerelle	f0s	footbridge
+transmission	f0s	transmission
+gré	m0s	will
+poignet	m0s	wrist; carpus
+montant	m0s	amount; structural montant
+beau-père	m0s	father-in-law, the father of one's spouse
+maîtrise	f0s	mastery; control
+toile	f0s	fabric, cloth; painting
+facteur	m0s	factor
+sabre	m0s	single-edged sword; force
+filet	m0s	trickle, drizzle; fillet
+troupe	f0s	troop
+investissement	m0s	investment
+vice-président	m0s	vice-president
+levée	f0s	removal; levee
+directrice	f0s
+correspondance	f0s	correspondence; match
+chienne	f0s
+conte	m0s	tale
+compagnon	m0s	companion; friend
+difficulté	f0s	difficulty
+caravane	f0s	caravan; travel trailer
+défilé	m0s	parade; march in protest
+chanteur	m0s	singer
+rançon	f0s	ransom
+bowling	m0s	bowling; place where one can play bowling
+discipline	f0s	discipline, sanction
+loge	f0s	lodge; box
+rocher	m0s	rock
+héritier	m0s	heir
+sénat	m0s	senate
+individu	m0s	individual
+fusion	f0s	fusion; mix
+traumatisme	m0s	trauma
+comtesse	f0s	countess
+défaite	f0s	defeat, loss
+renfort	m0s	reinforcement; backup
+escroc	m0s	crook; baddy
+trottoir	m0s	sidewalk, pavement
+encre	f0s	ink
+marchand	m0s	seller
+démocratie	f0s	democracy
+script	m0s	script
+toilette	f0s	toilet
+faille	f0s	fault; flaw
+allure	f0s	appearance, look; speed
+ressort	m0s	spring; spirit
+serviteur	m0s	servant
+case	f0s	box; square
+championnat	m0s	championship
+web	m0s
+cd	m0s	CD
+veine	f0s	vein
+patrie	f0s	homeland, home country
+certificat	m0s	diploma; certificate
+amende	f0s	fine
+pan	m0s	piece, part; side
+fusée	f0s	rocket; fusil
+séparation	f0s	separation
+soie	f0s	silk; bristle
+chèvre	f0s	she-goat; goat cheese
+fraude	f0s	fraud; cheating
+mont	m0s	mountain, mount; Alps
+carburant	m0s	fuel
+insulte	f0s	insult
+instrument	m0s	instrument
+âne	m0s	donkey, ass; idiot
+corruption	f0s	corruption
+épicerie	f0s	bodega, convenience store
+rideau	m0x	curtain; blind
+février	m0s	February
+agneau	m0x	lamb
+syndrome	m0s	syndrome
+dimension	f0s	dimension
+parcours	m0	route, course; career
+cheminée	f0s	chimney; fireplace or hearth
+observation	f0s	observation
+profondeur	f0s	depth
+regret	m0s	regret; nostalgia
+grain	m0s	grain; small amount
+grenier	m0s	attic; granary
+emplacement	m0s	site, location
+char	m0s	chariot, carriage; float
+proie	f0s	prey; booty
+barrage	m0s	dam, barrage; barrier
+stand	m0s	stand; Pit
+durée	f0s	duration, period
+crash	m0s	crash landing
+diagnostic	m0s	diagnosis
+délai	m0s	time limit; delay
+vainqueur	m0s	conqueror; victor
+araignée	f0s	spider
+colonie	f0s	colony
+faillite	f0s	bankruptcy; failure
+égalité	f0s	equality; deuce
+pacte	m0s	pact, deal
+ambition	f0s	ambition
+édition	f0s	edition; publishing industry
+casquette	f0s	cap, baseball cap
+invasion	f0s	invasion
+prétexte	m0s	excuse, pretext
+impasse	f0s	stalemate, impasse; dead-end
+messe	f0s	Mass
+vice	m0s	vice
+graisse	f0s	grease; fat
+stock	m0s	stock, goods in supply
+arc	m0s	bow; arc
+gentillesse	f0s	kindness
+taureau	m0x	bull; Taurus
+missile	m0s	missile
+banane	f0s	banana; pompadour
+réplique	f0s	response, reply; rebuttal
+commune	f0s	Either of the French revolutionary…
+aspect	m0s	aspect
+fédération	f0s	federation
+conviction	f0s	conviction
+rein	m0s	kidney; small of the back
+ruine	f0s	ruin, wreck
+attentat	m0s	attack, assault
+chômage	m0s	idleness; unemployment
+environs	m0	neighborhood
+béton	m0s	concrete
+performance	f0s	performance
+nage	f0s	swimming
+profession	f0s	profession, public declaration
+urine	f0s	urine
+score	m0s	score
+location	f0s	renting, rental
+démonstration	f0s	demonstration
+confirmation	f0s	confirmation
+latin	m0s	Latin
+mineur	m0s	minor; miner
+dispositif	m0s	arrangement, lay-out; device
+confusion	f0s	confusion
+alimentation	f0s	feeding; food
+évacuation	f0s	evacuation
+séquence	f0s	sequence
+violation	f0s	violation
+yoga	m0s	yoga
+cape	f0s	cape
+manoir	m0s	manor, mansion
+concentration	f0s	concentration
+jambon	m0s	ham
+assistance	f0s	assistance; audience
+tiers	m0	third; third-party
+hypothèse	f0s	hypothesis
+marron	m0s	horse-chestnut
+coiffeur	m0s	hairdresser
+marais	m0	swamp, marsh
+vertu	f0s	virtue
+balcon	m0s	balcony
+expédition	f0s	act of expediting or hurrying
+trophée	m0s	trophy
+évaluation	f0s	assessment
+détenu	m0s	detainee, prisoner
+capital	m1ux	capital
+baie	f0s	berry; bay
+invention	f0s	invention
+paiement	m0s	payment
+rappel	m0s	reminder; encore
+réservoir	m0s	reservoir; tank
+office	m0s	charge, task; administrative bureau
+coopération	f0s	cooperation
+trajectoire	f0s	trajectory; course
+souhait	m0s	wish
+addition	f0s	addition; bill
+cargaison	f0s	cargo
+préparation	f0s	preparation
+passager	m0s	passenger
+privilège	m0s	privilege
+grec	m0s	Greek
+philosophie	f0s	small pica: 11-point type
+obstacle	m0s	obstacle
+peintre	m0s	painter
+comptoir	m0s	counter, countertop
+altitude	f0s	altitude
+rebelle	m0s	rebel
+grenouille	f0s	frog
+montage	m0s	assembly, set-up; editing
+charbon	m0s	coal; anthrax
+établissement	m0s	establishment
+queen	f0s
+armure	f0s	armor
+mat	m0s	checkmate
+beau-frère	m=beaux-frères	brother-in-law
+abus	m0	abuse
+agresseur	m0s	aggressor
+donneur	m0s	donor; dealer
+croisière	f0s	cruise; cruiser
+square	m0s	small public garden in the middle of a…
+alentours	m0	surroundings, neighbouring areas
+voisinage	m0s	proximity, vicinity
+delta	m0s	delta
+guérison	f0s	recovery, healing
+célébrité	f0s	celebrity
+proximité	f0s	proximity; coming up
+moine	m0s	monk
+calendrier	m0s	calendar
+chimie	f0s	chemistry
+détente	f0s	relaxation, détente; trigger
+phénomène	m0s	phenomenon; one of a kind
+pneu	m0s	tyre, tire
+limousine	f0s	limousine, luxury car
+fermier	m0s	farmer
+vapeur	f0s	steam; vapour
+carré	m0s	square; patch
+round	m0s	round
+agenda	m0s	organiser, appointment book
+recours	m0	recourse, resort; appeal
+cycle	m0s	cycle; middle school
+collecte	f0s	collecting, collection
+inspection	f0s	inspection
+pompier	m0s	fireman, firefighter
+bonus	m0	premium; bonus
+calcul	m0s	calculus
+achat	m0s	buy, purchase
+démission	f0s	resignation; abdication
+refus	m0	refusal, act of refusing
+mousse	f0s	moss; bryophyte
+stage	m0s	probation, induction; internship
+photographie	f0s	photography
+suggestion	f0s	suggestion
+plume	f0s	feather; quill
+permanence	f0s	permanence; homeroom
+réflexion	f0s	reflection; thought
+logiciel	m0s	software; computer program
+adoption	f0s	adoption
+musicien	m0s	musician
+confort	m0s	comfort
+saucisse	f0s	sausage
+substance	f0s	substance
+créateur	m0s	creator
+injection	f0s	injection
+fantasme	m0s	fantasy
+baleine	f0s	whale; whalebone
+gérant	m0s	manager
+fraternité	f0s	brotherhood
+conséquence	f0s	general senses
+imaginaire	m0s	imagination
+cartel	m0s	cartel
+autel	m0s	altar
+chanteuse	f0s
+extraterrestre	m0s	extraterrestrial
+indépendance	f0s	independence
+littérature	f0s	literature
+ski	m0s	ski; skiing
+acheteur	m0s	buyer, purchaser
+volume	m0s	volume
+enthousiasme	m0s	enthusiasm, keenness
+écho	m0s	echo; rumour
+immigration	f0s	immigration
+étiquette	f0s	tag, label; etiquette
+perfection	f0s	perfection
+crayon	m0s	pencil
+bac	m0s	ferry; vat
+clôture	f0s	fence; closing
+intégrité	f0s	integrity
+tonne	f0s	tonne, metric ton
+chrétien	m0s	Christian
+épidémie	f0s	epidemic
+grenade	f0s	pomegranate; grenade
+cardinal	m1ux	cardinal; cardinal number
+gestion	f0s	administration; management
+ballet	m0s	ballet
+utilisation	f0s	purpose, use
+prudence	f0s	prudence, caution
+éditeur	m0s	editor
+réacteur	m0s	reactor; reaction engine
+apparition	f0s	appearance; ghost
+assemblée	f0s	assembly
+débris	m0	debris
+régiment	m0s	regiment
+flux	m0	flow; flood
+sûreté	f0s	safety; security
+sonde	f0s	probe
+pdg	m0s	CEO or MD or president
+convention	f0s	convention, agreement
+condamnation	f0s	sentencing
+outil	m0s	tool
+coupure	f0s	interruption; power cut
+accouchement	m0s	delivery
+pic	m0s	woodpecker; pick
+catégorie	f0s	category
+ruban	m0s	band, stripe; ribbon
+buffet	m0s	sideboard, dresser; buffet
+bougie	f0s	candle; spark plug
+terrorisme	m0s	terrorism
+définition	f0s	definition
+isolement	m0s	isolation
+dj	m0s
+aspirine	f0s	aspirin
+chargement	m0s	Action of loading; Action of charging
+sanctuaire	m0s	shrine; sanctuary
+richesse	f0s	wealth; richness
+égard	m0s	consideration
+bilan	m0s	balance sheet; appraisal
+architecte	m0s	architect
+femelle	f0s	female; woman
+artère	f0s	artery; thoroughfare
+constitution	f0s	constitution
+chapelle	f0s	chapel; covering for the head
+arbitre	m0s	mediator, arbitrator; referee
+exemplaire	m0s	copy; example
+certitude	f0s	certitude
+bec	m0s	beak, bill; kiss
+décor	m0s	decor, decoration; set
+horizon	m0s	horizon
+grandeur	f0s	size; magnitude
+nerf	m0s	nerve; force
+mètre	m0s	metre/meter
+éclat	m0s	brilliance, shine; fragment
+falaise	f0s	cliff
+logement	m0s	housing, abode
+retrait	m0s	retreat; withdrawal
+initiative	f0s	initiative
+argument	m0s	argument; argument of a verb
+conséquent	m0s	countersubject; consequent
+parade	f0s
+patte	f0s	paw; leg
+nuque	f0s	nape, back of the neck
+diplômé	m0s	Degree-holder, someone who has a degree
+quotidien	m0s	everyday life; daily
+rassemblement	m0s	gathering
+paysage	m0s	countryside; landscape
+cure	f0s	treatment; vicarage
+fosse	f0s	pit
+dépense	f0s	expense; expenditure
+cuisinier	m0s	cook
+représentation	f0s	representation
+renseignement	m0s	piece of information; intelligence
+banlieue	f0s	suburb
+insigne	m0s	badge
+commencement	m0s	beginning, start
+visiteur	m0s	visitor
+reportage	m0s	reportage
+petite-fille	f0s	granddaughter
+province	f0s	province; countryside
+mythe	m0s	myth
+sonnette	f0s	bell, handbell; doorbell
+camping	m0s	camping; campsite
+prophète	m0s	prophet
+contexte	m0s	context
+obligation	f0s	obligation
+perspective	f0s	perspective; prospect
+convoi	m0s	convoy; load
+pelouse	f0s	lawn; public enclosure
+combattant	m0s	combatant
+fiction	f0s	fiction
+organisme	m0s	organism; organisation
+mouton	m0s	sheep; mutton
+excès	m0	excess
+pois	m0	pea; polka dot
+croissance	f0s	growth
+doyen	m0s	dean; senior member
+avancée	f0s	advance, progress
+continent	m0s	continent
+pâte	f3ates	paste; pastry
+énigme	f0s	enigma, puzzle; riddle
+bijou	m0x	piece of jewelry
+bassin	m0s	pond, ornamental lake; bowl
+psychologie	f0s	psychology
+compréhension	f0s	comprehension, understanding
+milliard	m0s
+racine	f0s	root
+capsule	f0s	capsule; bottle cap
+éponge	f0s	sponge
+mâchoire	f0s	jaw
+curé	m0s	vicar
+tournant	m0s	bend, turn; turning point
+réduction	f0s	reduction; discount
+distribution	f0s	distribution; physical arrangement
+plongée	f0s	dive
+anomalie	f0s	anomaly
+carbone	m0s	carbon
+fidélité	f0s	faithfulness, fidelity
+croyant	m0s	believer
+satisfaction	f0s	satisfaction; fulfilment
+hôtesse	f0s	hostess
+triomphe	m0s	triumph
+concurrence	f0s	competition; concurrence
+trait	m0s	line; trait
+signification	f0s	meaning
+horaire	m0s	schedule
+dépit	m0s	scorn
+spa	m0s
+coque	f0s	shell; casing of a phone
+ninja	m0s
+forteresse	f0s	fortress
+précision	f0s	precision; detail
+bénéfice	m0s	profit, earning; benefit
+conception	f0s	conception
+défunt	m0s	deceased
+vieillard	m0s	old man, an old person
+brun	m0s	brown; brown-haired person
+vérification	f0s	verification
+chauffage	m0s	heating
+couvent	m0s	convent, nunnery
+réservation	f0s	reservation; booking
+survivant	m0s	survivor
+documentaire	m0s	documentary
+diffusion	f0s	broadcasting, showing; dissemination
+porteur	m0s	carrier; porter
+péril	m0s	peril, danger
+recul	m0s	retreat, climb-down; drop
+olive	f0s	olive
+trêve	f0s	truce; midwinter break
+visa	m0s	travel visa
+lignée	f0s	lineage
+cote	f0s	call number; dimension
+application	f0s	application; mapping
+déception	f0s	disappointment
+séminaire	m0s	seminary
+fourrure	f0s	fur
+terrasse	f0s	terrace
+chorale	f0s	chorus, a choir
+cavalerie	f0s	cavalry
+préfet	m0s	prefect
+climat	m0s	climate
+installation	f0s	installation
+secte	f0s	sect
+insecte	m0s	insect
+reproche	m0s	blame, the act of blaming
+pauvreté	f0s	poverty
+bien-être	m0s	wellbeing
+brèche	f0s	gap, hole; breach
+chaton	m0s	kitten, kitty; catkin
+bandit	m0s	bandit
+harmonie	f0s	harmony
+intermédiaire	m0s	intermediary
+utilité	f0s	usefulness, use
+excitation	f0s	excitement
+berceau	m0x	cradle, crib; arch
+chalet	m0s	chalet
+motivation	f0s	motivation
+révélation	f0s	revelation
+danseur	m0s	ballet dancer
+servante	f0s
+inscription	f0s	registration, enrolment; inscription
+évènement	m0s
+muscle	m0s	muscle
+esclavage	m0s	slavery
+gamme	f0s	musical scale; range
+crue	f0s	flood
+librairie	f0s	bookshop, bookstore; tobacconist's
+mépris	m0	scorn; contempt
+bulletin	m0s	bulletin; newsletter
+roche	f0s	rock
+culte	m0s	religion; cult
+mentor	m0s	mentor, guide
+communiqué	m0s	communiqué, statement
+ouvrier	m0s	worker, labourer; operator
+onde	f0s	wave; water
+moulin	m0s	mill; moulin
+raisin	m0s	grape; size of paper
+opposition	f0s	opposition
+banquier	m0s	banker
+impulsion	f0s	impulse; impulsion
+marée	f0s	tide; catch
+cliché	m0s	stereotype; negative
+tranche	f0s	slice; milling on a coin
+allié	m0s
+réparation	f0s	fix, repair
+repère	m0s	marker, mark; landmark
+sympathie	f0s	sympathy
+bataillon	m0s	battalion
+explosif	m0s	explosive
+blog	m0s	blog
+mi-temps	f0	half time; part-time job
+centre-ville	m0s	town centre, city center
+franchise	f0s	frankness, honesty; excess
+bulle	f0s	bubble; speech bubble
+intrigue	f0s	intrigue
+inventaire	m0s	inventory; stocktake
+artillerie	f0s	artillery
+attraction	f0s	attraction
+amendement	m0s	amendment
+cuivre	m0s	copper; brass
+marquis	m0	marquess
+précaution	f0s	precaution; prudence
+graine	f0s	seed; dick
+session	f0s	session, period
+contribution	f0s	contribution
+itinéraire	m0s	itinerary
+millier	m0s	thousand
+devise	f0s	motto; assets in foreign currency
+design	m0s	design
+virage	m0s	bend, turn; change
+métaphore	f0s	metaphor
+jardinier	m0s	gardener
+pavillon	m0s	pavilion; ensign
+globe	m0s	globe
+arche	f0s	arch; ark
+passionné	m0s
+module	m0s	module
+fourchette	f0s	fork; diner
+transition	f0s	transition
+ignorance	f0s	ignorance
+sainteté	f0s	sanctity
+coût	m0s	cost, price
+utérus	m0	uterus, womb
+cerf	m0s	stag, a hart
+dôme	m0s	dome; cathedral of a town or city
+consultation	f0s	consultation, consulting; survey
+aire	f0s	area; flat surface
+résumé	m0s	summary, résumé; abstract
+thèse	f0s	thesis, essay; supposition
+perle	f0s	pearl; bead
+enseignement	m0s	education, teaching
+sorcellerie	f0s	sorcery, witchcraft
+envoi	m0s	dispatch, sending
+notion	f0s	notion
+scout	m0s	scout, boy scout
+lecteur	m0s	reader; drive
+appui	m0s	support
+boxeur	m0s	boxer
+reflet	m0s	reflection
+consentement	m0s	consent
+vingtaine	f0s	about twenty
+rabbin	m0s	rabbi
+phare	m0s	lighthouse; lantern
+candidature	f0s	candidature
+baguette	f0s	baguette, French stick; chopstick
+psychologue	m0s	psychologist
+grade	m0s	rank; gradian
+atteinte	f0s	attack
+abandon	m0s	surrender; abandonment
+doublé	m0s	double, brace
+approbation	f0s	approval
+présidence	f0s	presidency
+people	m0s	celebrity, celebrities; showbusiness
+voyageur	m0s	traveller
+adolescent	m0s	adolescent
+coutume	f0s	custom
+mélodie	f0s	melody
+négociation	f0s	negotiation
+surf	m0s	surfing
+cheveu	m0x	headhair
+interdiction	f0s	ban, interdiction
+coéquipier	m0s	teammate
+mécanisme	m0s	mechanism
+dirigeant	m0s	ruler, leader
+batteur	m0s	batter; drummer
+laine	f0s	wool
+équipier	m=equipiers	team member
+transaction	f0s	transaction
+suspension	f0s	suspension
+détour	m0s	detour; curve
+manifestation	f0s	protest, demonstration; expression
+infirmier	f2ères	nurse
+saignement	m0s	bleeding
+élan	m0s	spirit; momentum
+tentation	f0s	temptation
+gène	m0s	gene
+jacuzzi	m0s	jacuzzi
+orphelin	m0s	orphan
+entrepreneur	m0s	entrepreneur
+interprète	m0s	interpreter
+athlète	m0s	athlete
+occupation	f0s	occupation
+caoutchouc	m0s	rubber; plastic
+triangle	m0s	triangle
+orientation	f0s	orientation
+résolution	f0s	resolution
+institution	f0s	institution
+rive	f0s	bank
+duo	m0s	duo; duet
+prétendant	m0s	suitor, wooer; contender
+pêcheur	m0s	fisher
+malaise	m0s	malaise, uneasiness
+participation	f0s	participation
+collaboration	f0s	collaboration
+parlement	m0s	parliament
+récit	m0s	recital; account
+déplacement	m0s	trip, journey; movement shift
+ivresse	f0s	drunkenness; euphoria
+vitrine	f0s	shop window; shopping
+tomate	f0s	tomato
+nécessité	f0s	necessity
+navigation	f0s	navigation
+biologie	f0s	biology
+marketing	m0s	marketing
+émeute	f0s	riot; chaos
+gueules	m0	gules, red color of the blazon
+volcan	m0s	volcano
+sélection	f0s	selection
+squelette	m0s	skeleton
+brique	f0s	brick; carton box
+recommandation	f0s	recommendation
+employeur	m0s	employer
+désaccord	m0s	disagreement, discord
+bronze	m0s	bronze
+interprétation	f0s	interpretation
+évêque	m0s	bishop
+hanche	f0s	hip; coxa
+procédé	m0s	procedure; device
+noyau	m0x	stone, pit; group
+révolte	f0s	Rebellion, mutiny
+kilo	m0s	kilo
+solde	m0s	balance; sale
+avortement	m0s	abortion, termination
+chip	m0s
+faculté	f0s	capacity; faculty
+pôle	m0s	pole; centre
+sceau	m0x	seal
+finance	f0s	finance
+clientèle	f0s	clientele
+tracé	m0s
+fournisseur	m0s	provider, supplier
+abeille	f0s	bee, honeybee
+embarras	m0	embarrassment; obstacle
+encontre	f0s	Only used in à l'encontre de
+armement	m0s	armament; arming
+enquêteur	m0s	investigator
+transformation	f0s	transformation; conversion
+décoration	f0s	decoration
+considération	f0s	consideration; esteem
+sexualité	f0s	sexuality
+rébellion	f0s	rebellion
+fossé	m0s	ditch
+comparaison	f0s	comparison; simile
+paysan	m0s	peasant; country bumpkin
+dizaine	f0s	set of ten; about ten
+cahier	m0s	notebook, exercise book; quire
+support	m0s	support; base
+agitation	f0s	restlessness; bustle
+sans-abri	m0s	homeless person
+juridiction	f0s	jurisdiction
+implication	f0s	implication
+compagne	f0s
+poteau	m0x	goalpost; friend
+projection	f0s	projection; screening or viewing
+scorpion	m0s	scorpion
+mêlée	f0s	fray; scrum
+tuteur	m0s	guardian; tutor
+gel	m0s	frost; gel
+exil	m0s	exile
+sensibilité	f0s	sensitivity
+ascension	f0s	ascent; ascension
+axe	m0s	axis; axle
+infraction	f0s	offense, departure; infringement
+moniteur	m0s	monitor
+vocation	f0s	vocation
+allusion	f0s	allusion, innuendo
+composition	f0s	composition, makeup; essay
+barque	f0s	small boat
+divertissement	m0s	entertainment
+extraction	f0s	extraction
+conseillère	f0s
+fabrication	f0s	manufacture, manufacturing
+seuil	m0s	threshold
+robinet	m0s	tap, faucet
+marionnette	f0s	marionette; puppet
+frein	m0s	bit; brake
+console	f0s	projection or spur on a wall, generally…
+coureur	m0s	runner; racer
+consommation	f0s	consumption
+descendant	m0s	descendant
+oie	f0s	goose
+manuscrit	m0s	manuscript
+fonctionnaire	m0s	civil servant, official
+tombeau	m0x	tomb
+exploitation	f0s	exploitation; operation
+prototype	m0s	prototype
+préférence	f0s	preference; like
+ruisseau	m0x	stream, brook
+filtre	m0s	filter
+travailleur	m0s	worker, one who works
+chancelier	m0s	chancellor
+galère	f0s	galley; torturous forced labor
+efficacité	f0s	efficiency, effectiveness; efficacy
+raid	m0s	raid
+pin	m0s	pine, pine tree
+écurie	f0s	stable; pigsty
+fondateur	m0s	founder
+spectre	m0s	ghost, specter; spectrum
+éclairage	m0s	lighting
+trimestre	m0s	quarter; term
+entente	f0s	accord; interpretation
+pair	m0s	peer, high nobleman/vassal
+réalisation	f0s	realization, fulfilment; embodiment
+corbeau	m0x	raven; poison-pen letter writer
+trafiquant	m0s	trafficker; bootlegger
+aveu	m0x	confession
+querelle	f0s	quarrel, argument
+technicien	m0s	technician
+émetteur	m0s	transmitter; issuer
+emprise	f0s	expropriation; domination
+pourcentage	m0s	percentage; commission
+caillou	m0x	gravel, small stone
+organe	m0s	organ
+reprise	f0s	time, instance; second-half kick-off
+aviation	f0s	aviation
+étang	m0s	pond; lagoon
+peloton	m4etons	small ball; platoon
+locataire	m0s	renter, tenant
+entourage	m0s	group of acquaintances; ornament
+flacon	m0s	vial, flacon
+cantine	f0s	canteen
+maintenance	f0s	maintenance
+détermination	f0s	determination
+débutant	m0s	debutant, newbie
+perquisition	f0s	act of searching for someone or something
+complicité	f0s	complicity
+boulevard	m0s	causeway; boulevard
+mutation	f0s	substitution; mutation
+esthétique	f0s	aesthetics
+fraise	f0s	strawberry; bulwark
+contrôleur	m0s	controller, inspector; conductor
+opérateur	m0s	operator
+trentaine	f0s	about thirty
+mécanicien	m0s	mechanic
+automobile	f0s	automobile
+chronique	f0s	chronicle; newspaper column
+slogan	m0s	slogan; motto
+annulation	f0s	cancellation, revocation
+démarche	f0s	gait, walk; reasoning
+hausse	f0s	rise, increase; frog
+rédacteur	m0s	editor; author
+provenance	f0s	provenance, origin
+haut-parleur	m0s	loudspeaker
+pente	f0s	slope
+kilomètre	m0s	kilometre
+flanc	m0s	side; flank
+handicapé	m0s	handicapped person
+emprunt	m0s	loan
+monastère	m0s	monastery
+animation	f0s	animation
+coussin	m0s	cushion
+corne	f0s	horn; corn
+mention	f0s	mention; slogan
+hygiène	f0s	hygiene
+musulman	m0s	Muslim
+sentier	m0s	path
+traiteur	m0s	traiteur, caterer; faith healer
+obstruction	f0s	block; obstruction
+architecture	f0s	architecture
+pyramide	f0s	pyramid
+enseignant	m0s	teacher
+porche	m0s	porch, portico
+équivalent	m0s	equivalent
+catalogue	m0s	systematical catalogue
+touriste	m0s	tourist
+clip	m0s	music video; clip-on
+dialogue	m0s	dialogue
+ressemblance	f0s	resemblance
+motion	f0s	motion
+chaussette	f0s	sock
+tablette	f0s	tablet; bar
+maréchal	m1ux	marshal
+emballage	m0s	wrapping; packaging
+financement	m0s	funding, financing
+oubli	m0s	oversight; oblivion
+doctorat	m0s	doctorate
+mosquée	f0s	mosque
+fonctionnement	m0s	working; functioning
+dépendance	f0s	dependence, reliance; addiction
+croûte	f0s	crust
+escadron	m0s	squadron
+aspiration	f0s	aspiration
+revers	m0	reverse side; backhand
+jumeau	m0x	twin
+déménagement	m0s	move, house move
+habit	m0s	article of clothing, garment
+firme	f0s	firm
+diabète	m0s	diabetes
+perception	f0s	tax collection; perception
+arsenal	m1ux	arsenal
+crédibilité	f0s	credibility
+instruction	f0s	instruction; teaching
+partenariat	m0s	partnership
+équation	f0s	equation
+noblesse	f0s	nobility
+scénariste	m0s	screenwriter, scriptwriter
+cascade	f0s	cascade
+logo	m0s	logo
+expertise	f0s	appraisal; expertness
+éruption	f0s	eruption; rash
+totalité	f0s	totality, entirety
+forge	f0s	forge
+messagerie	f0s	messaging, messager; voice mail
+propagande	f0s	propaganda
+émissaire	m0s	emissary
+ingénierie	f0s	engineering
+larme	f0s	tear; drop
+lanceur	m0s	thrower; pitcher
+légion	f0s	legion
+mg	m0s
+stockage	m0s	storage; memory
+offrant	m0s
+ampleur	f0s	scale, size; volume
+savant	m0s	scholar, scientist
+traversée	f0s	crossing
+façade	f0s	façade
+golfe	m0s	gulf
+monument	m0s	monument
+clause	f0s	clause
+tarif	m0s	price
+porte-parole	m0s	spokesperson
+soul	f0s	soul, soul music
+écossais	m0	Scotsman
+gazon	m0s	lawn; turf
+concession	f0s	concession
+sud-est	m0s	south-east
+rival	m1ux	rival
+western	m0s	western
+champignon	m0s	mushroom; fungus in general
+clavier	m0s	keyboard
+trompette	f0s	trumpet
+fabricant	m0s	manufacturer, producer; artisan
+détroit	m0s	strait
+dinosaure	m0s	dinosaur
+paroisse	f0s	parish
+pellicule	f0s	film, skin; dandruff
+apprentissage	m0s	apprenticeship; learning
+restau	m0x
+campement	m0s	campsite; camping
+humidité	f0s	humidity
+observateur	m0s	observer
+championne	f0s	champion
+famine	f0s	famine
+admission	f0s	admission
+conquête	f0s	conquest
+amélioration	f0s	improvement
+exploration	f0s	exploration
+fibre	f0s	fibre
+obus	m0	shell
+succession	f0s	succession; series
+dauphin	m0s	dolphin; successor
+nord-est	m0s	north-east
+offensive	f0s	offensive
+enjeu	m0x	stake; issue
+escroquerie	f0s	swindle, swindling; fraud
+rejet	m0s	reject, thing that is rejected or thrown…
+nord-ouest	m0s	northwest
+handicap	m0s	handicap; disability
+prescription	f0s	prescription
+préservatif	m0s	preserver; condom
+allumette	f0s	match
+chêne	m0s	oak, oak tree
+tranquillité	f0s	tranquility, peace
+disciple	m0s	disciple
+commando	m0s	commando
+dérive	f0s	drift; centreboard
+dilemme	m0s	dilemma
+optique	f0s	optics; point of view
+castor	m0s	beaver
+vêtement	m0s	garment, item of clothing; clothes
+sursis	m0	reprieve, respite; extension
+cube	m0s	cube; third-grader
+aînée	f0s
+hiérarchie	f0s	hierarchy
+label	m0s	quality label; record label
+admiration	f0s	admiration
+sculpture	f0s	sculpture
+égout	m0s	drain; sewer
+flot	m0s	waves; stream
+sud-ouest	m0s	south-west
+meeting	m0s	large, public gathering
+tolérance	f0s	tolerance
+crête	f0s	crest; ridge
+pianiste	m0s	pianist
+exploit	m0s	exploit, feat
+croyance	f0s	belief
+plate-forme	f=plates-formes	platform
+tempérament	m0s	temperament, character; mollifying
+patriote	m0s	Patriote
+poire	f0s	pear; mug
+perturbation	f0s	disturbance; derangement
+souverain	m0s	sovereign
+réflexe	m0s	reflex
+notaire	m0s	notary; solicitor
+compartiment	m0s	compartment
+bandeau	m0x	headband, bandeau; bandage
+estimation	f0s	estimate
+oignon	m0s	onion; bulb
+titulaire	m0s	permanent staff member; holder
+prospérité	f0s	prosperity
+rigueur	f0s	rigour
+boulangerie	f0s	bread shop
+pâtisserie	f0s	cakeshop; pastry
+interruption	f0s	interruption
+prairie	f0s	meadow, grassland
+exclusivité	f0s	exclusiveness
+rame	f0s	oar, paddle; ream
+agriculture	f0s	agriculture
+état-major	m0s	general staff, headquarters
+tronc	m0s	trunk
+moule	f0s	mould, mold; matrix
+restauration	f0s	restoration; restaurant industry
+consul	m0s	consul, in its various senses
+rétablissement	m0s	reestablishment, reinstating
+fragment	m0s	fragment
+guet	m0s	lookout; watch
+islam	m0s	Islam
+inconvénient	m0s	inconvenience; drawback
+fisc	m0s	fiscal administration
+apprenti	m0s	apprentice, trainee
+candidate	f0s
+sincérité	f0s	sincerity
+biopsie	f0s	biopsy
+résident	m0s	resident
+intensité	f0s	intensity
+randonnée	f4s	walk, ramble
+investigation	f0s	investigation, examination
+diplomate	m0s	diplomat
+manipulation	f0s	manipulation
+recrutement	m0s	recruitment
+célébration	f0s	celebration
+détournement	m0s	rerouting, diversion; detournement
+nomination	f0s	nomination
+ananas	m0	pineapple
+tourisme	m0s	tourism
+forfait	m0s	crime, infamy; flat rate
+challenge	m0s	challenge
+souche	f0s	stump; strain
+diarrhée	f0s	diarrhea
+défenseur	m0s	defender; defenseman
+set	m0s	set
+reproduction	f0s	reproduction
+vocabulaire	m0s	vocabulary
+magistrat	m0s	magistrate
+rivage	m0s	bank
+tranchée	f0s	trench
+contrainte	f0s	constraint; requirement
+expulsion	f0s	expulsion, eviction; sending-off
+rubrique	f0s	category, heading; rubric
+cathédrale	f0s	cathedral
+silhouette	f0s	silhouette
+rédaction	f0s	editing; editorial staff
+martyr	m0s	martyr
+sushi	m0s	sushi
+land	m0s	land
+infanterie	f0s	infantry
+concurrent	m0s	competitor
+parquet	m0s	parquet; prosecution
+algorithme	m0s	algorithm
+réchauffement	m0s	reheating, heating
+popularité	f0s	popularity
+renvoi	m0s	firing; clearance
+rotation	f0s	rotation
+plateforme	f0s
+analyste	m0s	analyst
+éclipse	f0s	eclipse
+donjon	m0s	donjon, keep
+compétence	f0s	competence, ability; talent
+comédien	m0s	actor
+annexe	f0s	annex, appendix
+stabilité	f0s	stability
+matelot	m0s	seaman
+décomposition	f0s	decomposition
+philosophe	m0s	philosopher
+internat	m0s	boarding school; entrance examination
+boucherie	f0s	butchershop; butchery
+matrice	f0s	matrix
+tonneau	m0x	register ton; barrel roll
+argile	f0s	clay
+impératrice	f0s	empress
+compensation	f0s	compensation
+addiction	f0s	addiction
+carrefour	m0s	crossroads
+télescope	m0s	telescope
+remerciement	m0s	thanks; acknowledgement
+pharaon	m0s	pharaoh; faro
+journalisme	m0s	journalism
+méditation	f0s	meditation
+yen	m0s	yen
+spécimen	m0s	specimen
+symptôme	m0s	symptom
+effondrement	m0s	collapse
+détachement	m0s	detachment
+relance	f0s
+délinquant	m0s	delinquent
+stationnement	m0s	parking; parking space
+plantation	f0s	planting; plantation
+dynastie	f0s	dynasty
+remplacement	m0s	replacement
+actualité	f0s	topic; documentary
+chercheur	m0s	searcher; researcher
+reconstruction	f0s	reconstruction
+pilotage	m0s	pilotage
+croisement	m0s	crossing
+taxe	f0s	tax
+saga	f0s	saga
+compositeur	m0s	composer; typesetter
+adolescence	f0s	adolescence
+master	m0s	master's degree, master's
+activation	f0s	activation
+inculpation	f0s	inculpation
+légume	m0s	vegetable
+croisade	f0s	crusade
+rite	m0s	rite
+hydrogène	m0s	hydrogen
+successeur	m0s	successor
+huitième	m0s	eighth
+expansion	f0s	expansion
+forum	m0s	forum
+brevet	m0s	patent; teaching license or certificate
+sénatrice	f0s
+couvercle	m0s	lid, cap
+sondage	m0s	poll, survey; boring
+hip-hop	m0s
+tirage	m0s	pulling; drawing
+résistant	m0s	resistant
+spirale	f0s	spiral
+vigueur	f0s	vigour
+gain	m0s	winnings, earnings; gain
+introduction	f0s	introduction
+trame	f0s	weft; frame
+maturité	f0s	maturity; baccalaureat
+paragraphe	m0s	paragraph
+baronne	f0s	baroness
+abbé	m0s	abbot, the head of an abbey
+impôt	m0s	tax
+décalage	m0s	gap, discrepancy; shift
+rez-de-chaussée	m0s	ground floor
+extension	f0s	extension; semantic widening
+paternité	f0s	fatherhood; authorship
+solidarité	f0s	solidarity
+supervision	f0s	supervision
+décennie	f0s	decade, ten-year period
+classement	m0s	ranking; classification
+allégeance	f0s	allegiance
+metteur	m0s	putter, placer; director
+cabaret	m0s	pub, tavern; cabaret
+intellectuel	m0s
+entité	f0s	entity
+sanglier	m0s	wild boar
+massif	m0s	massif
+ravitaillement	m0s	supplies
+placement	m0s	placement
+timbre	m0s	small bell; stamp
+élevage	m0s	livestock farming
+discrimination	f0s	discrimination, distinction
+bombardement	m0s	bombing, bombardment
+noce	f0s	wedding; wedding party
+saveur	f0s	taste, flavour
+clarté	f0s	light, illumination; clarity
+casserole	f0s	saucepan
+réforme	f0s	reform
+créativité	f0s	creativity
+admirateur	m0s	admirer
+ouvrage	m0s	work, labour; piece of work
+devin	m0s	seer, soothsayer
+pilier	m0s	pillar; prop
+raisonnement	m0s	reasoning
+délégué	m0s	delegate
+administrateur	m0s	administrator
+alphabet	m0s	alphabet
+élimination	f0s	elimination
+renommée	f0s	reputation, legend
+distinction	f0s	distinction
+domination	f0s	domination
+aération	f0s	ventilation
+mercenaire	m0s	mercenary
+microscope	m0s	microscope
+meuble	m0s	piece of furniture; charge
+centimètre	m0s	centimetre
+ingrédient	m0s	ingredient
+nouveauté	f0s	specific thing that is new
+affectation	f0s	allocation, allotment; assignment
+pollution	f0s	pollution
+trio	m0s	trio; Tiriyó
+licenciement	m0s	sacking
+urne	f0s	urn; ballot box
+substitut	m0s	substitute, replacement
+tribune	f0s	platform, rostrum; stand
+sponsor	m0s	sponsor offering financial support in…
+insuffisance	f0s	shortfall
+créneau	m0x	niche; parallel parking
+scolarité	f0s	schooldays, college years/days
+bibliothécaire	m0s	librarian
+éloge	m0s	praise; accolade
+ravisseur	m0s	robber; kidnapper
+balayage	m0s	sweeping, sweep; scanning
+préoccupation	f0s	worry; cares
+sphère	f0s	sphere
+espérance	f0s	hope; expected value
+décret	m0s	statutory instrument
+sodium	m0s	sodium
+antiquité	f0s	antiquity; old days
+guichet	m0s	hatch, grill; counter
+violoncelle	m0s	cello
+collectionneur	m0s	collector
+pré	m0s	meadow
+science-fiction	f0s	science fiction
+paroi	f0s	wall; inner wall
+entrave	f0s	hobble; fetter
+délégation	f0s	delegation; devolvement
+millénaire	m0s	millennium
+aller-retour	m=allers-retours	round trip; return ticket
+séisme	m0s	earthquake
+rabais	m0	discount; third-rate
+auxiliaire	m0s	helping verb, an auxiliary verb
+retraité	m0s	pensioner, retired person
+torpille	f0s	torpedo; electric ray
+bactérie	f0s	bacterium
+abondance	f0s	abundance; large amount
+investisseur	m0s	investor
+maintien	m0s	upkeep; maintaining
+mascarade	f0s	masquerade, masque; farce
+glacier	m0s	glacier; ice cream parlor
+engrais	m0	fertilizer
+jument	f0s	mare
+hostilité	f0s	hostility
+inondation	f0s	flood
+caïd	m0s	big shot, big man
+pendule	m0s	pendulum; pendulum clock
+variété	f0s	variety; type
+naufrage	m0s	shipwreck
+extrémité	f0s	extremity; tip
+caillot	m0s	clot; curd
+pénitencier	m0s	penitentiary, prison
+interface	f0s	interface
+cannabis	m0	cannabis
+habitant	m0s	inhabitant of some place; farmer
+prestige	m0s	prestige
+circonstance	f0s	circumstance, situation
+instituteur	m0s	primary school teacher
+guitariste	m0s	guitarist
+attaquant	m0s	attacker, assailant; forward
+fondement	m0s	foundation; fundament
+astéroïde	m0s	asteroid
+révision	f0s	revision
+progression	f0s	progression
+endurance	f0s	endurance, stamina
+publication	f0s	publication; publicizing
+biographie	f0s	biography
+perfusion	f0s	perfusion, drip
+contamination	f0s	contamination
+répertoire	m0s	repertoire; inventory
+rapidité	f0s	swiftness, fastness
+approvisionnement	m0s	supply, supplying
+ancêtre	m0s	forefather
+chaudière	f0s	boiler; cauldron
+conteneur	m0s	container
+hématome	m0s	hematoma; bruise
+seigneurie	f0s	fiefdom, seigniory; feudal manor
+bookmaker	m0s	bookmaker
+réconciliation	f0s	reconciliation
+azote	m0s	nitrogen
+caniveau	m0x	gutter
+incompétence	f0s	incompetence
+australien	m0s	Australian
+diplomatie	f0s	profession and study of diplomacy,…
+offrande	f0s	offering
+spectateur	m0s	viewer
+censure	f0s	censorship
+kiosque	m0s	kiosk; Ellipsis of kiosque à musique
+prostate	f0s	prostate
+envergure	f0s	wingspan; scale
+affichage	m0s	posting, to post a notice; display
+remontée	f0s
+intervalle	m0s	interval
+aptitude	f0s	aptitude
+programmation	f0s	programming
+minorité	f0s	minority
+pharmacien	m0s	pharmacist; chemist
+chimiste	m0s	chemist
+décompte	m0s	deduction, that which is to be subtracted
+garnison	f0s	garrison
+marqueur	m0s	marker
+toxine	f0s	toxin
+patrimoine	m0s	patrimony, estate; heritage
+épine	f0s	thorn
+prestation	f0s	financial payment, benefit
+escale	f0s	port of call; stopover
+saturation	f0s	saturation
+sécheresse	f0s	dryness; drought
+initiation	f0s	initiation
+archevêque	m0s	archbishop
+loisir	m0s	leisure, hobby
+mythologie	f0s	mythology
+donation	f0s	donation
+crypte	f0s	crypt
+déchet	m0s	rubbish, trash; mess
+intégration	f0s	integration
+déclin	m0s	decline
+norme	f0s	norm
+biais	m0	means, way; angle
+cratère	m0s	crater; krater
+capitalisme	m0s	capitalism
+captivité	f0s	captivity
+colon	m0s	colonist, colonizer; camper
+démarrage	m0s	startup, starting up; departure
+densité	f0s	density
+délice	m0s	delight
+mitrailleuse	f0s	machine gun
+reconstitution	f0s	reconstitution; reenactment
+combustible	m0s	combustible
+joueuse	f0s
+intendant	m0s	intendant, administrator; quartermaster
+hébreu	m0x	Hebrew
+rénovation	f0s	renovation; renewal
+bobine	f0s	bobbin; reel
+anonymat	m0s	anonymity
+fondue	f0s	fondue
+portion	f0s	portion
+couronnement	m0s	coronation, crowning ceremony
+traducteur	m0s	translator
+fumeur	m0s	smoker
+jardinage	m0s	gardening
+matricule	m0s	serial number
+rhétorique	f0s	rhetoric
+martyre	m0s	martyrdom; martyress
+calcium	m0s	calcium
+génocide	m0s	genocide
+diesel	m0s
+corail	m2ux	corals, an aquatic organism living in…
+couchage	m0s	coating; sleeping
+aval	m1ux	downstream area, lower reaches
+contrefaçon	f0s	counterfeit; counterfeiting
+chronologie	f0s	chronology
+intersection	f0s	intersection
+promoteur	m0s	promoter, one who promotes
+pochette	f0s	pocket; sleeve
+transfusion	f0s	blood transfusion
+parcelle	f0s	parcel
+emprisonnement	m0s	imprisonment
+sage-femme	f=sages-femmes	midwife
+dictature	f0s	dictatorship
+acquisition	f0s	acquisition
+vitamine	f0s	vitamin
+protestation	f0s	protest, objection; admission
+rugby	m0s	rugby
+fixation	f0s	fixation
+cuve	f0s	tank
+justesse	f0s	rightness, correctness; justness
+animateur	m0s	presenter; leader
+soufre	m0s	sulfur
+cortège	m0s	procession
+mobilier	m0s	furniture
+déficit	m0s	deficit; shortage
+miniature	f0s	miniature; thumbnail
+boulanger	m0s	baker
+motard	m0s	motorcyclist in general; biker
+épice	f0s	spice
+forage	m0s	drilling
+composant	m0s	component
+narrateur	m0s	narrator
+électricien	m0s	electrician
+truite	f0s	trout
+mortalité	f0s	mortality
+bannière	f0s	banner
+anecdote	f0s	anecdote
+indication	f0s	direction, instruction; indication
+débit	m0s	flow, rate of flow; output
+diamètre	m0s	diameter
+croiseur	m0s	cruiser, a type of warship
+haricot	m0s	bean, green bean
+nudité	f0s	nudity
+préfecture	f0s	prefecture
+géographie	f0s	geography
+échappement	m0s	exhaust pipe; escape
+nationalité	f0s	nationality
+plaine	f0s	plain
+coalition	f0s	coalition
+cendre	f0s	ash; mortal remains
+épaisseur	f0s	thickness
+rail	m0s	rail
+mathématique	f0s	mathematics
+dédicace	f0s	dedication
+transit	m0s
+lunette	f0s	telescope; lunette
+oppression	f0s	oppression; asthma
+fraction	f0s	fraction
+avalanche	f0s	avalanche
+mentalité	f0s	mentality
+réhabilitation	f0s	rehabilitation
+préjudice	m0s	harm, a damage
+comprimé	m0s	pill, tablet
+missionnaire	m0s	missionary
+management	m0s	management
+cinquantaine	f0s	about 50, 50 or so
+commerçant	m0s	trader, retailer; shopkeeper
+single	m0s	single room
+attachement	m0s	attachment
+pénétration	f0s	penetration
+physicien	m0s	physicist
+gag	m0s	joke
+méfiance	f0s	distrust
+chorégraphie	f0s	choreography
+spéculation	f0s	speculation
+parenté	f0s	kinship
+gendarme	m0s	firebug; landjäger
+réfugié	m0s	refugee
+interférence	f0s	interference
+habitat	m0s	habitat
+rivalité	f0s	rivalry
+conversion	f0s	conversion
+incertitude	f0s	uncertainty
+reddition	f0s	surrender, capitulation; reimbursement
+coordination	f0s	coordination
+supériorité	f0s	superiority
+patriotisme	m0s	patriotism
+voûte	f3utes	arch; vault
+avancement	m0s	advance
+congrégation	f0s	congregation
+niche	f0s	niche; kennel
+faisceau	m0x	fasces; beam
+coffret	m0s	box set; small box or chest
+débarquement	m0s	landing; debarkation
+climatisation	f0s	air conditioning
+canoë	m0s	canoe
+acceptation	f0s	acceptance; approval
+abbaye	f0s	abbey
+prédécesseur	m0s	predecessor
+utilisateur	m0s	user
+feuilleton	m0s	soap opera; serial
+échéance	f0s	expiry date, expiration date
+buste	m0s	bust, torso
+stratagème	m0s	stratagem
+géométrie	f0s	geometry
+podium	m0s	podium
+dégustation	f0s	tasting, act of tasting or trying out food
+aérodrome	m0s	aerodrome
+pâtissier	m0s	pastrymaker
+brasserie	f0s	brewery
+diversité	f0s	diversity
+lentille	f0s	lens; contact lens
+récepteur	m0s	receiver
+accélération	f0s	acceleration
+productrice	f0s
+atome	m0s	atom; scrap
+fraîcheur	f0s	freshness; coolness
+cacao	m0s	cocoa
+frite	f0s	chips, French fries; pool noodle
+crêpe	f0s	crepe; black veil
+répression	f0s	repression
+filiale	f0s	subsidiary
+trombone	m0s	trombone; paper clip
+conservatoire	m0s	conservatory; music academy
+édifice	m0s	building, structure
+aumônier	m0s	almoner; chaplain
+organisateur	m0s	organizer, host
+visibilité	f0s	visibility
+accomplissement	m0s	accomplishment, achievement
+caractéristique	f0s	characteristic, trait
+locomotive	f0s	locomotive
+brouille	f0s	quarrel, tiff
+arrière-plan	m0s	background
+canton	m0s	canton; township
+charte	f0s	charter
+quinzaine	f0s	two weeks; about fifteen people
+escadrille	f0s	squadron; flotilla
+moisson	f0s	harvest
+dosage	m0s	dosage
+hélice	f0s	helix; propeller
+occupant	m0s	occupant
+explorateur	m0s	explorer
+latitude	f0s	expansion, breadth; freedom
+synonyme	m0s	synonym
+tonalité	f0s	tonality; key
+vignoble	m0s	vineyard
+clocher	m0s	bell tower, steeple
+partition	f0s	division using two colors; partition
+authenticité	f0s	authenticity
+fr	m0s
+précipitation	f0s	precipitation
+rappeur	m0s	rapper
+verbe	m0s	speech; tone of voice
+tram	m0s	tram, streetcar
+rapprochement	m0s	link; act or process of getting closer
+péage	m0s	toll, payment; toll booth
+savoir-faire	m0s	know-how, savoir-faire
+pèlerinage	m0s	pilgrimage
+affrontement	m0s	confrontation, encounter
+imprimerie	f0s	printing; printing office
+sanction	f0s	sanction
+hypertension	f0s	hypertension
+modification	f0s	modification
+serbe	m0s	Serbian
+contrepartie	f0s	equivalent, counterpart; compensation
+éventail	m0s	fan; range
+ressource	f0s	resource
+propreté	f0s	cleanliness
+amas	m0	pile, heap; cluster
+lycéen	m0s	student at a lycée
+hélium	m0s	helium
+versement	m0s	payment, especially an electronic…
+inflammation	f0s	inflammation
+directive	f0s	directive, general instructions
+footballeur	m0s	footballer
+faune	f0s	faun; tree grayling
+écorce	f0s	bark; peel
+nectar	m0s	nectar
+rachat	m0s	purchase, buyout; ransom
+historien	m0s	historian
+vigilance	f0s	vigilance
+contradiction	f0s	contradiction
+preneur	m0s	taker; lessee
+crique	f0s	cove
+pseudonyme	m0s	pseudonym
+dialyse	f0s	dialysis
+prévention	f0s	prevention
+sécession	f0s	secession
+observatoire	m0s	observatory
+glande	f0s	gland; swollen lymph node
+affirmation	f0s	affirmation
+bénéficiaire	m0s	beneficiary, recipient
+autonomie	f0s	autonomy; range
+livret	m0s	pamphlet; libretto
+veto	m0s	veto
+emblème	m0s	emblem
+récif	m0s	reef
+mortier	m0s	mortar
+hémisphère	m0s	hemisphere
+rendement	m0s	production, output; efficiency
+descendance	f0s	line of descent
+audit	m0s	audit
+dioxyde	m0s	dioxide
+processeur	m0s	processor
+tabou	m0s	taboo
+format	m0s	format
+astronomie	f0s	astronomy
+restriction	f0s	restriction
+flambeau	m0x	torch; candle
+divinité	f0s	divinity; godhead
+notice	f0s	instruction
+pathologie	f0s	pathology
+protéine	f0s	protein
+transparence	f0s	transparence, transparency
+arcade	f0s	arcade; arch
+non-lieu	m0x	dismissal; nonplace
+acceptant	m0s
+monopole	m0s	monopoly
+monarchie	f0s	monarchy
+tramway	m0s	tram
+anémie	f0s	anemia
+matériau	m0x	material
+différend	m0s	dispute, difference
+rallye	m0s	rally; social dance
+artisan	m0s	artisan; creator
+complexité	f0s	complexity
+synthèse	f0s	synthesis; summary
+vigne	f0s	vine; vineyard
+planification	f0s	planning
+opposant	m0s	opponent; challenger
+ogive	f0s	diagonal rib, ogive; nose cone
+bureaucratie	f0s	bureaucracy
+média	m0s	media; outlet
+nuance	f0s	nuance; gradation of colors
+blocus	m0	blockade
+ménopause	f0s	menopause
+comédienne	f0s
+volet	m0s	shutter; flap
+actionnaire	m0s	shareholder
+albanais	m0	Albanian
+pontage	m0s	bypass; bridge-building
+ponction	f0s	puncture; deduction
+ajustement	m0s	adjustment, adjusting
+accrochage	m0s	collision, bump; clash
+hamac	m0s	hammock
+unanimité	f0s	unanimity
+configuration	f0s	configuration
+idéologie	f0s	ideology
+choléra	m0s	cholera
+insurrection	f0s	insurrection
+béret	m0s	beret
+muraille	f0s	wall
+conjoint	m0s	spouse or unmarried, spouse-like partner
+notoriété	f0s	reputation
+bombardier	m0s	bomber
+subvention	f0s	subsidy; grant
+pillage	m0s	pillage
+haie	f0s	hedge; hurdle
+interaction	f0s	interaction
+circonscription	f0s	electoral district, constituency
+pionnier	m0s	precursor; pioneer
+controverse	f0s	controversy
+arbalète	f0s	crossbow; T-bar
+infrastructure	f0s	infrastructure
+pèlerin	m0s	pilgrim
+gestionnaire	m0s	manager
+saxon	m0s	Saxon
+partisan	m0s	supporter, proponent; fan
+indicateur	m0s	indicator, measure; gauge
+particule	f0s	particle
+figurine	f0s	figurine; miniature
+gonflement	m0s	inflation; swelling
+secrétariat	m0s	secretariat; secretarial work
+marquise	f0s	marchioness; type of finger-ring
+persécution	f0s	persecution
+doctrine	f0s	doctrine
+déroulement	m0s	event, occurrence
+christianisme	m0s	Christianity
+largeur	f0s	width
+clergé	m0s	clergy
+périple	m0s	circumnavigation; journey
+gendarmerie	f0s	military branch of the French police service
+professionnalisme	m0s	professionalism
+basket-ball	m0s	basketball
+gratte-ciel	m0s	skyscraper
+légalité	f0s	legality
+beaux-arts	m0	fine arts
+participant	m0s	participant
+dessinateur	m0s	designer, draughtsman; cartoonist
+sculpteur	m0s	sculptor
+juriste	m0s	jurist; lawyer
+exclusion	f0s	exclusion
+fusillé	m0s
+instance	f0s	authority, forum; instance
+fresque	f0s	fresco
+improvisation	f0s	improvisation
+tutelle	f0s	guardianship under which the ward is only…
+amont	m0s	upstream part of a river
+effectif	m0s	number of members of a group
+adhésion	f0s	adhesion, adherence; subscription
+urticaire	f0s	urticaria
+intégralité	f0s	entirety, wholeness
+botanique	f0s	botany
+analogie	f0s	analogy
+cylindre	m0s	cylinder
+postérité	f0s	posterity; history
+confrère	m0s	colleague, fellow
+indemnité	f0s	indemnity; compensation
+archéologue	m0s	archaeologist
+déviation	f0s	deflection; diversion
+joug	m0s	yoke; balance beam
+contribuable	m0s	taxpayer
+sillage	m0s	wake; slipstream
+constellation	f0s	constellation
+destroyer	m0s	destroyer
+concubine	f0s	concubine; cohabitant
+dialecte	m0s	dialect
+apport	m0s	contribution, input
+suppression	f0s	deletion; removal
+délivrance	f0s	afterbirth; deliverance
+fibrillation	f0s	fibrillation
+convocation	f0s	convocation
+reggae	m0s	reggae
+violoniste	m0s	violinist
+évangile	m0s	gospel
+minerai	m0s	ore
+poterie	f0s	pottery
+cinéaste	m0s	filmmaker
+rayonnement	m0s	radiation, spread; indoctrination
+foulée	f0s	stride
+disquette	f0s	floppy disk; pick-up line
+collaborateur	m0s	collaborator
+consommateur	m0s	consumer; customer
+citadelle	f0s	citadel
+devis	m0	quote, estimate
+céramique	f0s	ceramic; ceramics
+larve	f0s	grub, larva; wimp
+déshydratation	f0s	dehydration
+dispersion	f0s	dispersion
+bordure	f0s	border; bordure
+incitation	f0s	incitation
+piston	m0s	piston; contact
+molécule	f0s	molecule
+insécurité	f0s	insecurity
+prieur	m0es	prior
+échauffement	m0s	warmup
+dégradation	f0s	degradation
+conservation	f0s	conservation
+bassiste	m0s	bassist
+statistique	f0s	statistic; statistics
+catalan	m0s	Catalan person
+médiation	f0s	mediation
+projectile	m0s	projectile
+drag	f0s	drag queen
+fossile	m0s	fossil
+appréciation	f0s	appreciation
+végétation	f0s	vegetation
+particularité	f0s	oddity, particularity
+ancienneté	f0s	oldness; seniority
+torrent	m0s	torrent
+fief	m0s	fief; stronghold
+originalité	f0s	originality
+chaussée	f0s	surface; causeway
+militant	m0s	activist, campaigner
+indigène	m0s	indigenous person, native
+arn	m0s	RNA
+ong	f0s	Initialism of organisation non…
+phosphore	m0s	phosphorus
+constructeur	m0s	constructor
+biologiste	m0s	biologist
+chimiothérapie	f0s	chemotherapy
+innovation	f0s	innovation
+renouveau	m0x	renewal
+bit	m0s	bit
+judo	m0s	judo
+éloignement	m0s	distancing; removal
+récession	f0s	recession
+athlétisme	m0s	athletics
+anthropologie	f0s	anthropology
+irrigation	f0s	irrigation
+critère	m0s	criterion
+tribut	m0s	tribute
+variation	f0s	variation
+municipalité	f0s	municipality; town council
+gîte	m0s	shelter; gîte
+prévision	f0s	forecast
+vecteur	m0s	disease-carrier, vector
+habitation	f0s	dwelling; inhabitation
+ponton	m0s	pontoon
+immigré	m0s	immigrant
+essor	m0s	flight; soaring
+répartition	f0s	delivery, dispatching; distribution
+péninsule	f0s	peninsula
+ban	m0s	territory; ban
+shooting	m0s	shoot, shooting
+agrandissement	m0s	enlargement
+reptile	m0s	reptile
+bastion	m0s	bastion; stronghold
+triplé	m0s	triplet; treble
+déroute	f0s	rout, ruin
+blason	m0s	heraldry; coat of arms
+concerto	m0s	concerto
+millimètre	m0s	millimetre
+recensement	m0s	census
+justification	f0s	justification
+souplesse	f0s	suppleness
+ml	m0s
+dégât	m0s	damage
+sprint	m0s	sprint, short top-speed race
+chômeur	m0s	unemployed person
+longitude	f0s	longitude
+déformation	f0s	deformation; distortion
+présomption	f0s	presumption, supposition
+substitution	f0s	substitution
+kebab	m0s	kebab
+accumulation	f0s	accumulation
+psychanalyse	f0s	psychoanalysis
+connaisseur	m0s	connoisseur
+éleveur	m0s	breeder
+procès-verbal	m1ux	minutes; proceedings
+recel	m0s	receiving
+ébauche	f0s	draft
+imprimeur	m0s	printer
+alto	m0s	alto; Ellipsis of violon alto.
+pénalité	f0s	penalty
+ailier	m0s	winger; small forward
+boursier	m0s	stock broker; purse maker
+documentation	f0s	documentation
+vertèbre	f0s	vertebra
+palmier	m0s	palm, palm tree; palmier
+romancier	m0s	novelist
+vicomte	m0s	viscount
+figurant	m0s	extra; bit player
+légitimité	f0s	legitimacy
+gravure	f0s	engraving; burning
+chlorure	m0s	chloride
+législation	f0s	legislation
+carafe	f0s	carafe
+teinte	f0s	shade, tint
+obtention	f0s	act of obtaining
+préservation	f0s	preservation
+abonné	m0s	subscriber, follower
+créatrice	f0s
+assureur	m0s	insurer, insurance agent; belayer
+recueil	m0s	compendium, anthology; collection
+mobilité	f0s	mobility
+détriment	m0s	detriment
+diminution	f0s	diminution, abatement
+hémoglobine	f0s	hemoglobin
+fable	f0s	fable, story
+euro	m0s	euro
+hormone	f0s	hormone
+écosystème	m0s	ecosystem
+présentatrice	f0s
+émancipation	f0s	emancipation
+constat	m0s	constat; report
+centenaire	m0s	centenary; centennial
+argentin	m0s	Argentinian, resident or native of Argentina
+revendication	f0s	airing of one's demand
+catalyseur	m0s	catalyst
+continuité	f0s	continuity
+chevalerie	f0s	chivalry
+bémol	m0s	flat, bemol; dampener
+mathématicien	m0s	mathematician
+versant	m0s	slope, side
+orifice	m0s	orifice
+rempart	m0s	rampart
+mécontentement	m0s	discontent, displeasure
+fantasy	f0s	fantasy
+rebond	m0s	recovery from setback, rebound
+concepteur	m0s	conceiver; ideas man
+exode	m0s	exodus
+berge	f0s	bank; raised pavement
+intolérance	f0s	intolerance
+complément	m0s	complement
+régie	f0s	administration, commission
+géologue	m0s	geologist
+contrebandier	m0s	smuggler
+vicaire	m0s	vicar
+relief	m0s	projection, relief
+astronome	m0s	astronomer
+embargo	m0s	embargo
+traction	f0s	traction; pull-up
+sépulture	f0s	sepulture
+exigence	f0s	demand
+textile	m0s	textile, fabric
+déclenchement	m0s	onset; outbreak
+députée	f0s
+réouverture	f0s	reopening
+productivité	f0s	productivity
+abstraction	f0s	abstraction
+corniche	f0s	ledge
+cuirassé	m0s	battleship
+aliment	m0s	food
+coagulation	f0s	coagulation
+accompagnement	m0s	accompaniment; side dish
+naïveté	f0s	innocence, naïveté
+teneur	f0s	content, contents; tenor
+fragilité	f0s	fragility
+bourgeoisie	f0s	bourgeoisie
+qualification	f0s	qualification
+appartenance	f0s	belonging; membership
+éditorial	m1ux	editorial
+chaux	f0	lime, limestone
+flore	f0s	flora
+auditeur	m0s	auditor; listener
+scrutin	m0s	ballot; poll
+fonderie	f0s	foundry
+compatriote	m0s	compatriot, fellow countryman
+aisance	f0s	ease
+sociologie	f0s	sociology
+avènement	m0s	accession; advent
+proportion	f0s	proportion
+libraire	m0s	bookseller
+corner	m0s	corner kick, corner
+dissolution	f0s	dissolution
+filière	f0s	industry; creance
+penseur	m0s	thinker
+hébergement	m0s	housing
+irakien	m0s	Iraqi
+rafale	f0s	gust; sudden shower
+ténor	m0s	tenor; big name
+privation	f0s	deprivation; shortage
+importation	f0s	importation
+apôtre	m0s	apostle
+éloquence	f0s	eloquence
+métropole	f0s	metropolis; Montreal
+inhibiteur	m0s	inhibitor
+jouissance	f0s	use, possession; enjoyment
+théologie	f0s	theology
+échelon	m0s	rung; echelon
+tique	f0s	tick
+binôme	m0s	binomial; binomial name
+émigré	m0s	emigrant
+rémunération	f0s	pay
+aristocratie	f0s	aristocracy
+polémique	f0s	polemic, controversy
+signalisation	f0s	signalling
+aéronautique	f0s
+litige	m0s	litigation
+immigrant	m0s	immigrant
+catcheur	m0s	professional wrestler
+urbanisme	m0s	urban planning, urbanism
+guidon	m0s	handlebar; guidon
+palme	f0s	palm leaf
+souveraineté	f0s	sovereignty
+granit	m0s	granite
+envahisseur	m0s	invader
+préjugé	m0s	prejudice, a bias
+mammifère	m0s	mammal
+ralliement	m0s	rally
+agriculteur	m0s	farmer
+variante	f0s	variant
+confédération	f0s	alliance, confederation
+enclave	f0s	enclave; slot
+prédilection	f0s	predilection, tendency
+caricature	f0s	caricature
+frégate	f0s	frigate; frigatebird
+hun	m0s	Hun
+mobilisation	f0s	militarisation, mobilisation
+impossibilité	f0s	impossibility
+jurisprudence	f0s	case law
+aménagement	m0s	fitting out; laying out
+monteur	m0s	editor
+latéral	m1ux
+breton	m0s	Breton
+penalty	m1ies	penalty, penalty kick
+prolongation	f0s	extension; overtime
+couscous	m0	couscous
+détérioration	f0s	deterioration
+ajout	m0s	addition
+élévation	f0s	elevation
+archive	f0s
+retombée	f0s	fallout; spillover
+réglementation	f0s	regulation, bylaw
+bulgare	m0s	Bulgarian
+corrida	f0s	bullfight
+tome	m0s	tome, volume; section
+éros	m0	eros
+dressage	m0s	training; dressage
+illustration	f0s	illustration; photo
+panthéon	m0s	pantheon
+pivot	m0s	pivot; fulcrum
+bourg	m0s	burg, market town
+quad	m0s
+absorption	f0s	absorption, swallowing
+gisement	m0s	deposit
+lauréat	m0s	prizewinner, recipient of a prize
+psychothérapie	f0s	psychotherapy
+omission	f0s	omission
+marocain	m0s	Moroccan
+nuisance	f0s	nuisance; pollution
+rebondissement	m0s	rebound, bounce back; plot twist
+commentateur	m0s	commentator
+narration	f0s	narration
+convergence	f0s	convergence
+cabriolet	m0s	cabriolet carriage; convertible car
+trilogie	f0s	trilogy
+réunification	f0s	reunification
+arrondissement	m0s	rounding; arrondissement
+coloration	f0s	color
+rixe	f0s	brawl, struggle
+bouddhisme	m0s	Buddhism
+implantation	f0s	implantation
+opus	m0	opus, artistic work
+outre-mer	f0s	Collectively, the overseas territories of…
+réalisatrice	f0s
+renforcement	m0s	reinforcement
+psaume	m0s	psalm
+plancton	m0s	plankton
+déporté	m0s
+demi-finale	f0s	semi-final
+kif	m0s	kif
+littoral	m1ux	littoral
+écologie	f0s	ecology
+proclamation	f0s	proclamation
+placebo	m0s	placebo
+référendum	m0s	referendum
+héparine	f0s	heparin
+minéral	m1ux	mineral
+vassal	m1ux	vassal
+habilitation	f0s	habilitation
+cohésion	f0s	cohesion
+altération	f0s	alteration
+soupape	f0s	valve; outlet
+vacance	f0s	vacancy, free position; holidays
+affluent	m0s	tributary
+fuselage	m0s	fuselage
+salarié	m0s	employee
+judaïsme	m0s	Judaism
+diagonale	f0s	diagonal
+incidence	f0s	impact, effect; incidence
+adjectif	m0s	adjective
+métrage	m0s	footage
+conformité	f0s	conformity
+marquage	m0s	marking
+restructuration	f0s	restructuring, downsizing
+galette	f0s	galette; dough
+pelage	m0s	fur
+mosaïque	f0s	mosaic
+bannissement	m0s	banishment
+cintre	m0s	curve; centering
+incubation	f0s	incubation
+calcaire	m0s	limestone
+allaitement	m0s	breastfeeding; suckling
+végétal	m1ux	plant
+disponibilité	f0s	availability
+épopée	f0s	epic, saga
+surcroît	m0s	something that is added
+exportation	f0s	exportation, export
+demandeur	m0s	asker or requester; seeker
+segment	m0s	segment
+insertion	f0s	insertion
+conditionnement	m0s	conditioning
+contentieux	m0	contention
+arbitrage	m0s	arbitration; arbitrage
+soliste	m0s	soloist
+vitrail	m2ux	stained glass; stained glass window
+munition	f0s	ammunition
+modem	m0s	modem
+colloque	m0s	conference, colloquium
+compilation	f0s	compilation
+colonisation	f0s	colonization
+superficie	f0s	surface; area
+cursus	m0	course
+renversement	m0s	act of knocking over; reversal
+chromosome	m0s	chromosome
+incursion	f0s	incursion; foray
+après-guerre	f0s	post-war years, post-war period
+palmarès	m0	prize list; record of achievements
+électron	m0s	electron
+ibuprofène	m0s	ibuprofen
+boycott	m0s	boycott
+démangeaison	f0s	itch
+rougeur	f0s	redness; flush
+hameau	m0x	hamlet
+meunier	m0s	miller
+pedigree	m0s
+algue	f0s	alga
+anse	f0s	small bay; arc segment
+unification	f0s	unification
+classification	f0s	classification
+chroniqueur	m0s	chronicler; columnist
+contestation	f0s	challenge, dispute; protest
+manga	m0s	manga
+arête	f0s	bone, fishbone; edge
+validité	f0s	validity
+limitation	f0s	limitation
+ornement	m0s	show; ornament
+diocèse	m0s	diocese
+laurier	m0s	laurel; bay
+rameau	m0x	small branch
+savane	f0s	savanna
+attribution	f0s	allocation, allotment; remit
+affinité	f0s	affinity
+luminosité	f0s	brightness; luminosity
+prospect	m0s
+toxicité	f0s	toxicity
+ambiguïté	f0s	ambiguity
+instigateur	m0s	instigator
+désarmement	m0s	disarmament
+allégation	f0s	allegation
+dénonciation	f0s	denunciation
+vestige	m0s	vestige, relic
+ovaire	m0s	ovary
+découpage	m0s	cutting; decoupage
+parenthèse	f0s	parenthesis, digression
+fourrage	m0s	forage, fodder
+excédent	m0s	excess, surplus
+survenue	f0s	occurrence
+polystyrène	m0s	polystyrene; styrofoam
+aboutissement	m0s	end or conclusion of a process
+pignon	m0s	pine nut, pine kernel; gable
+abolition	f0s	abolition
+lagune	f0s	lagoon, shallow body of coastal water
+floraison	f0s	flowering, florescence
+encadrement	m0s	framing; frame
+déportation	f0s	deportation; internment
+fragmentation	f0s	fragmentation
+théorème	m0s	theorem
+imposition	f0s	imposition
+bienfait	m0s	kindness, favour; benefit
+modernité	f0s	modernity
+quiétude	f0s	tranquility
+gastronomie	f0s	gastronomy; cooking
+sensibilisation	f0s	sensitisation
+contingent	m0s	quota; contingent
+basilique	f0s	covered building, Civil reunion place…
+embranchement	m0s	junction, branch; phylum
+cohérence	f0s	coherence, consistence
+radiographie	f0s	radiography
+finalité	f0s	purpose, end result
+dégagement	m0s	clearance, clearing; emission
+électeur	m0s	voter, elector
+synergie	f0s	synergy
+téléfilm	m0s	feature-length televised drama
+radiothérapie	f0s	radiotherapy
+coloriage	m0s	colouring; colouring in
+catholicisme	m0s	Catholicism
+fréquentation	f0s	company, companionship; activity
+coordonnée	f0s	coordinate
+animatrice	f0s
+épuration	f0s	purification; cleansing
+négation	f0s	denial; negative
+tract	m0s	flyer, circular
+élaboration	f0s	drawing up, putting together
+intervenant	m0s	stakeholder; speaker
+pandémie	f0s	pandemic
+flexibilité	f0s	flexibility
+prolongement	m0s	prolonging, extension
+énoncé	m0s	utterance
+torero	m0s	torero, bullfighter
+escadre	f0s	squadron
+privatisation	f0s	privatisation / privatization
+couveuse	f0s	broody hen
+rond-point	m0s	roundabout, traffic circle
+ouvre-boîte	m0s	can opener
+organiste	m0s	organist
+larcin	m0s	petty theft; stolen object
+irrégularité	f0s	irregularity
+martinet	m0s	martin; swift
+économiste	m0s	economist
+achèvement	m0s	completion, conclusion
+cultivateur	m0s	cultivator
+sympathisant	m0s	sympathizer
+parution	f0s	apparition; creation
+divergence	f0s	divergence
+archipel	m0s	archipelago
+trompettiste	m0s	trumpeter
+épanouissement	m0s	development; blooming
+émergence	f0s	emergence
+protagoniste	m0s	protagonist
+chancellerie	f0s	chancellery
+prieuré	m0s	priory
+rectangle	m0s	rectangle
+édit	m0s	edict, type of legislative and/or…
+plaquette	f0s	packet; platelet
+neutron	m0s	neutron
+consécration	f0s	consecration
+plumage	m0s	plumage
+otite	f0s	otitis
+paracétamol	m0s	paracetamol, acetaminophen
+laiterie	f0s	dairy
+collectivité	f0s	community
+bolus	m0
+îlot	m0s	islet, ait; island bench
+draft	f0s	draft
+démantèlement	m0s	disassembly, dismantling
+tgv	m0s	Initialism of train à grande vitesse
+instar	m0s	Only used in à l'instar de
+homologue	m0s	counterpart
+cotisation	f0s	subscription, dues; contribution
+baraquement	m0s	barracking; barracks
+angiographie	f0s	angiography
+volley-ball	m0s	volleyball
+désignation	f0s	designation; indication
+composante	f0s	component
+méthodologie	f0s	methodology
+analyseur	m0s	analyser / analyzer
+vomissement	m0s	sick
+mot-clé	m4s-clés	keyword
+cloître	m0s	cloister
+grès	m0	sandstone; stoneware
+importateur	m0s	importer
+biographe	m0s	biographer
+mannitol	m0s	mannitol
+hectare	m0s	hectare
+dogme	m0s	dogma
+rotor	m0s	rotor
+hydroxyde	m0s	hydroxide
+jésuite	m0s
+mondialisation	f0s	globalisation
+manifestant	m0s	protester
+pamphlet	m0s	lampoon; pamphlet
+portique	m0s	portico; gantry
+mt	f0s
+téléphonie	f0s	telephony; act of installing a telephone
+doge	m0s	doge
+arbuste	m0s	bush, shrub
+théoricien	m0s	theoretician, theorist
+austérité	f0s	austerity, severity; destitution
+ethnie	f0s	ethnic group
+légat	m0s	legate
+linguiste	m0s	linguist
+certification	f0s	certification
+notation	f0s	rating
+assainissement	m0s	sanitation; cleanup
+duché	m0s	duchy
+esplanade	f0s	esplanade, plaza
+naturaliste	m0s	naturalist
+nationalisme	m0s	nationalism
+accroissement	m0s	growth
+groupement	m0s	grouping
+maçonnerie	f0s	masonry: the art, profession
+ep	m0s
+schiste	m0s	shale, schist
+anticoagulant	m0s
+remodelage	m0s	remodeling, restyling
+amérindien	m0s	Amerindian
+copropriétaire	m0s	coowner
+plaisance	f0s
+affluence	f0s	crowds; abundance
+charnier	m0s	mass grave
+fourniture	f0s	supply, provision; provisioning
+automobiliste	m0s	motorist
+écluse	f0s	sluice, lock
+voirie	f0s	road, rail and waterways network
+percussion	f0s	percussion
+apparat	m0s	pomp, ceremony
+muséum	m0s	scientific museum, like that of natural…
+paramètre	m0s	parameter
+ostéoporose	f0s	osteoporosis
+despote	m0s	despot; tyrant
+fermentation	f0s	fermentation
+réquisition	f0s	requisition
+nem	m0s	type of Vietnamese spring roll
+manufacture	f0s	factory
+réquisitoire	m0s	information, i.e. a formal accusation of…
+évaporation	f0s	evaporation
+appellation	f0s	call; common name
+baccalauréat	m0s	baccalaureat; bachelor's degree
+inégalité	f0s	inequality; inequity
+chiffrement	m0s	encryption
+coupole	f0s	cupola
+encoche	f0s	notch
+junte	f0s	junta
+franc-maçon	m=francs-maçons	Freemason
+estuaire	m0s	estuary
+oscillation	f0s	oscillation
+enrichissement	m0s	enrichment
+séchage	m0s	drying
+crématoire	m0s
+concile	m0s	council
+alphabétisation	f0s	elimination of illiteracy, the process of…
+réfutation	f0s	refutation, rebuttal
+archétype	m0s	archetype
+votant	m0s	voter
+handball	m0s	handball
+cyclisme	m0s	cycling
+alternance	f0s	alternation
+angioplastie	f0s
+légalisation	f0s	legalization
+tronçon	m0s	slice, section
+dotation	f0s	allowance; endowment
+phosphate	m0s	phosphate
+contresens	m0	backward interpretation
+gouvernance	f0s	governance
+ex-président	m0s
+rapporteur	m0s	reporter; telltale
+archevêché	m0s	archbishopric, archdiocese
+météorologie	f0s	meteorology
+kanji	m0s	kanji
+aggravation	f0s	aggravation
+législature	f0s	legislature; term of office
+contrebasse	f0s	contrabass; double bass
+entomologiste	m0s	entomologist
+céréale	f0s	cereal
+terroir	m0s	soil; land
+parité	f0s	equality, parity
+chantre	m0s	cantor; bard
+renoncement	m0s	renouncement; resignation
+insurgé	m0s	insurgent
+naturalisation	f0s	naturalisation
+modernisation	f0s	modernisation
+ressortissant	m0s	foreign national
+équivalence	f0s	equivalence
+prospection	f0s	prospecting
+préface	f0s	preface
+voilure	f0s	sail; wing
+égide	f0s	aegis
+faubourg	m0s	suburb
+élargissement	m0s	enlargement
+méridien	m0s	meridian
+apanage	m0s	prerogative, privilege
+dl	m0s
+souscription	f0s	subscription
+garçonnet	m0s	little boy
+lacune	f0s	gap; vacuum
+chanoine	m0s	canon
+créatinine	f0s	creatinine
+opticien	m0s	optician, optometrist
+suffrage	m0s	suffrage
+répercussion	f0s	repercussion
+athéisme	m0s	atheism
+encerclement	m0s	encircling, surrounding
+amphibien	m0s	amphibian
+compétitivité	f0s	competitiveness
+principauté	f0s	princedom; principality
+hacking	m0s	hacking
+ballast	m0s	heavy material that is placed in the hold…
+pib	m0s	GDP
+cassation	f0s	cassation
+expatrié	m0s
+planteur	m0s	planter
+spécificité	f0s	specificity
+patronyme	m0s	surname
+commercialisation	f0s	commercialization
+crustacé	m0s	crustacean
+évêché	m0s	bishopric; bishop's palace
+consolidation	f0s	consolidation; strengthening
+archidiacre	m0s	archdeacon
+neurone	m0s	neuron
+colonialisme	m0s	colonialism
+résiliation	f0s	termination, cancellation
+édification	f0s	building, edification
+pme	f0s
+slalom	m0s	slalom
+attribut	m0s	attribute; predicative
+diurétique	m0s	diuretic
+protectorat	m0s	protectorate
+attroupement	m0s	gathering, mob
+synode	m0s	synod
+douve	f0s	moat; stave
+sélénium	m0s	selenium
+inclusion	f0s	inclusion
+théologien	m0s	theologian
+réactivité	f0s	reactivity
+exonération	f0s	exoneration
+dénomination	f0s	denomination
+démographie	f0s	demography
+clubber	m0s
+heurt	m0s	collision; bump
+url	f0s
+latence	f0s	latency
+spermatozoïde	m0s	spermatozoon, sperm
+sociologue	m0s	sociologist
+réfection	f0s	refection; refashioning
+contre-amiral	m1ux	rear admiral
+fonctionnalité	f0s	functionality
+anglophone	m0s	anglophone, an English-speaking person
+pédagogue	m0s	pedagogue; teacher
+durabilité	f0s	durability
+agglomération	f0s	agglomeration; village
+gazoduc	m0s	gas pipeline
+faisabilité	f0s	feasibility, doability
+hypersensibilité	f0s	hypersensitivity
+complémentarité	f0s	complementarity
+biodiversité	f0s	biodiversity
+télécommunication	f0s	Telecommunication
+autodétermination	f0s	self-determination
+contre-la-montre	m0s	against the clock; time trial
+année-lumière	f=années-lumière	light year
+téléspectateur	m0s	television viewer, a person
+généralisation	f0s	generalisation
+lamelle	f0s	strip; thin plate
+cd-rom	m0s
+octroi	m0s	grant, granting
+localité	f0s	place, locality
+disparité	f0s	disparity
+grand-parent	m=grands-parents	grandparent
+allongement	m0s	lengthening, extension
+surplomb	m0s	overhang
+nomenclature	f0s	nomenclature
+adhérent	m0s	adherent
+liquidité	f0s	liquidity
+indépendantiste	m0s	separatist; independentist
+graphe	m0s	graph
+iconographie	f0s	iconography
+concitoyen	m0s	fellow citizen; fellow countryman
+fortification	f0s	fortification
+clivage	m0s	cleavage; separation
+gp	f0s
+barème	m0s	scale; schedule
+initiateur	m0s	initiator, instigator
+tumulus	m2i
+olympiade	f0s	olympiad
+menhir	m0s	menhir
+usager	m0s	user
+nécropole	f0s	necropolis
+obédience	f0s	persuasion; obedience
+templier	m0s	Templar
+industrialisation	f0s	industrialisation
+automatisme	m0s	automatism
+micro-organisme	m0s
+retentissement	m0s	repercussion, impact
+piastre	f0s	Canadian or American dollar
+sédiment	m0s	sediment
+cinquantenaire	m0s	fifty-year anniversary
+raffinage	m0s	refining
+chef-lieu	m0x	administrative centre in various…
+sous-espèce	f0s	subspecies
+instauration	f0s	establishment
+spectrométrie	f0s	spectrometry
+surdosage	m0s	overdose
+mini-série	f0s
+flottille	f0s	flotilla
+confluent	m0s	confluence
+chlorhydrate	m0s	hydrochloride
+paysannerie	f0s	peasantry
+dépaysement	m0s	feeling of not being at home, in a…
+paillote	f0s
+désaveu	m0x	denial, rejection
+lieu-dit	m4x-dits	lieu-dit
+bioluminescence	f0s	bioluminescence
+servage	m0s	servitude; serfage
+cépage	m0s	variety or clone of a cultivated vine
+travestissement	m0s	transvestism
+tapa	f0s
+collégiale	f0s
+normalisation	f0s	normalisation
+bas-relief	m0s	bas-relief
+pourparler	m0s
+playoff	m0s
+éditorialiste	m0s	editorialist
+agissement	m0s	doing, intrigue
+ex-ministre	m0s
+subdivision	f0s	subdivision
+questeur	m0s	quaestor; in political assemblies
+représaille	f0s
+caractérisation	f0s	characterization
+corolle	f0s	corolla
+céphalée	f0s	cephalea
+repreneur	m0s	receiver
+sapeur-pompier	m=sapeurs-pompiers	fireman, firefighter
+thrombus	m0	thrombus
+passereau	m0x	sparrow; passerine
+desserte	f0s	side table; service
+rôle-titre	m0s
+houille	f0s	stone coal, mineral coal
+géographe	m0s	geographer
+saurien	m0s	saurian
+icp	f0s
+travée	f0s	bay
+sélectionneur	m0s	manager, coach
+désagrégation	f0s	disintegration
+internaute	m0s	Internet user, surfer
+kilogramme	m0s	kilogram
+gradin	m0s	tier; terrace
+ténèbre	f0s
+promulgation	f0s	promulgation
+mf	m0s
+quatre-vingt-six	m0
+contrefort	m0s	foothills; buttress
+suffixe	m0s	suffix
+monomère	m0s	monomer
+harmonisation	f0s	harmonization
+fournil	m0s	bakehouse
+lépidoptère	m0s	lepidopteran
+résorption	f0s	resorption
+funéraille	f0s
+sous-groupe	m0s	subgroup
+comparateur	m0s	comparator
+voïvodie	f0s	voivodeship
+numismate	m0s	numismatist
+spoliation	f0s	spoliation
+claviériste	m0s	keyboardist
+modalité	f0s	modality
+transept	m0s	transept
+émirat	m0s	emirate
+monnayage	m0s	minting, coin-making
+calcémie	f0s	calcemia
+clairance	f0s	clearance
+festivité	f0s	festivity, merrymaking
+référencement	m0s	referencing
+essayiste	m0s	essayist
+commanderie	f0s	commandery, commandry
+autorégulation	f0s	autoregulation
+hydrogénation	f0s	hydrogenation
+abside	f0s	apse
+fichage	m0s	filing; surveillance
+hypocalcémie	f0s	hypocalcemia
+occitan	m0s	Occitan
+relégation	f0s	relegation
+guillemet	m0s	quotation mark; guillemet
+codon	m0s	codon
+gouvernorat	m0s	governorate
+clématite	f0s	clematis
+obsèque	f0s
+aquariophilie	f0s
+décentralisation	f0s	decentralisation
+décolonisation	f0s	decolonization
+thrombine	f0s	thrombin
+armoirie	f0s
+phosphatase	f0s
+annale	f0s	annal
+ostéonécrose	f0s	osteonecrosis
+bobinage	m0s	winding onto a bobbin
+sca	m0s
+immixtion	f0s	interference
+politologue	m0s	political scientist
+comitat	m0s
+auspice	m0s	omen
+inéligibilité	f0s	ineligibility
+bisphosphonate	m0s
+rudiment	m0s	rudiment
+desserrage	m0s
+quantification	f0s	quantification
+pharmacocinétique	f0s
+sous-porteuse	f0s
+cultivar	m0s
+belles-lettres	f0
+dreadnought	m0s	dreadnought
+blastocyste	m0s	blastocyst
+sous-famille	f0s	subfamily
+taxon	m0s	taxon
+clopidogrel	m0s
+hirudine	f0s
+cardinal-prêtre	m0s
+tétrapode	m0s
+excipient	m0s	excipient
+additionnalité	f0s
+belfortain	m0s
+bivalirudine	f0s
+cabestro	m0s
+châtellenie	f0s	lordship
+comarque	f0s	comarca
+daïra	f0s	subdivision of a wilaya in Algeria
+demi-groupe	m0s
+dmo	f0s
+gmina	f0s
+kayak-polo	m0s
+kilomètre-carré	m0s
+pharmacovigilance	f0s	pharmacovigilance
+powiat	m0s
+presqu'île	f0s	peninsula
+qix	m0
+ribosome	m0s	ribosome
+risédronate	m0s
+rétro-commission	f0s
+rétrocommission	f0s	kickback
+sous-affluent	m0s
+sous-proteuse	f=sous-porteuses
+sous-région	f0s
+subsidiarité	f0s	subsidiarity
+toponyme	m0s	toponym
+whuffie	m0s
+wilaya	f0s	wilayah
+écoconception	f0s
+épar	m0s

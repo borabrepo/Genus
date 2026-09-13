@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Genus — der, die, das, le, la, de, het</title>
+    <meta name="description" content="Noun genders and plurals for German, Dutch, French, Spanish, Italian and Portuguese. Works offline." />
+    <meta name="theme-color" content="#F7F9FB" />
+    <meta name="color-scheme" content="light" />
+
+    <!-- iOS home-screen app -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="Genus" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icon-192.png" />
+    <link rel="stylesheet" href="./app.css" />
+
+    <!-- Ads: uncomment this and put your own publisher id in, here and in genus.jsx.
+         Leave it commented out and the app ships with no ad code at all. See ADS.md.
+    <script async crossorigin="anonymous"
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"></script>
+    -->
+    <style>
+      html, body { margin: 0; background: #F7F9FB; }
+      /* Stops iOS zooming the page when a field is focused. */
+      input, textarea, select { font-size: 16px; }
+      #boot { padding: 28vh 24px; text-align: center; color: #566079;
+              font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+    </style>
+  </head>
+  <body>
+    <div id="root"><div id="boot">Loading Genus…</div></div>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
