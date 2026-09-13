@@ -1,6 +1,6 @@
-/* Offline cache. 202609131215 is replaced by the build script, so a new build
+/* Offline cache. 202609131323 is replaced by the build script, so a new build
    installs a fresh cache and drops the old one. */
-const VERSION = "202609131215";
+const VERSION = "202609131323";
 const CACHE = `genus-${VERSION}`;
 const ASSETS = [
   "./",
